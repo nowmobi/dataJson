@@ -1,50 +1,68 @@
 [
   {
     "info1": [
-      "puzzle",
-      "girl",
-      "sports",
-      "action",
       "adventure",
+      "action",
+      "puzzle",
       "racing",
+      "sports",
+      "girl",
       "kids"
     ],
     "info2": [
+      "racing",
+      "girl",
+      "puzzle",
       "sports",
       "action",
-      "racing",
       "adventure",
-      "puzzle",
-      "girl",
       "kids"
     ],
     "info3": [
-      "adventure",
-      "action",
       "sports",
       "girl",
       "racing",
+      "action",
       "puzzle",
+      "adventure",
       "kids"
     ],
     "info4": [
-      "action",
-      "adventure",
-      "puzzle",
-      "girl",
-      "kids",
       "racing",
-      "sports"
+      "action",
+      "puzzle",
+      "sports",
+      "adventure",
+      "girl",
+      "kids"
     ],
     "info5": [
       "puzzle",
       "girl",
       "kids",
+      "action",
       "racing",
       "sports",
-      "action",
       "adventure"
     ]
+  },
+  {
+    "id": 177,
+    "name": "Fire Truck",
+    "image": "./icons/177.jpg",
+    "description": "Drive a fire truck to rescue people and put out fires in this exciting game.",
+    "rating": 4.9,
+    "downloads": "5.7K",
+    "category": "racing"
+  },
+  {
+    "id": 178,
+    "name": "Jelly Truck",
+    "image": "./icons/178.jpg",
+    "description": "Navigate a jelly truck through wobbly terrains and complete fun challenges.",
+    "rating": 4.2,
+    "downloads": "1.4K",
+    "category": "racing"
   },
   {
     "id": 179,
@@ -74,66 +92,30 @@
     "category": "kids"
   },
   {
-    "id": 182,
-    "name": "Alien Attack",
-    "image": "./icons/182.jpg",
-    "description": "You're a space trooper left alone by accident. Surrounded by aliens, fight them off using five weapons looted from bosses. Features hardcore gameplay, retro - style pixel - art graphics and chip sounds, and split - screen co - op.",
-    "rating": 4.3,
-    "downloads": "13.9K",
-    "category": "action"
-  },
-  {
-    "id": 183,
-    "name": "Galaga Assault",
-    "image": "./icons/183.jpg",
-    "description": "A modern take on the classic Galaga. In redemption mode, shoot enemy ships to earn tickets and face a boss for more. Players can add up to 12 ships for more firepower. Also has an amusement mode like the old - school Galaga with new features.",
-    "rating": 4.8,
-    "downloads": "5.6K",
-    "category": "action"
-  },
-  {
-    "id": 184,
-    "name": "Galaxy Attack",
-    "image": "./icons/184.jpg",
-    "description": "Take control of a spaceship to protect Earth from alien swarms. Face increasing numbers of enemies in hazardous environments. Upgrade your spacecraft, collect items, and engage in multiplayer battles across 140 + levels.",
-    "rating": 4.9,
-    "downloads": "8.1K",
-    "category": "action"
-  },
-  {
-    "id": 185,
-    "name": "Galaxy War",
-    "image": "./icons/185.jpg",
-    "description": "In this 1979 arcade shoot - em - up, guide missiles upwards to destroy horizontally - scrolling alien invaders. Avoid asteroids and enemy projectiles. Later adapted for Super Famicom with different graphical modes.",
-    "rating": 4.8,
-    "downloads": "13.7K",
-    "category": "action"
-  },
-  {
-    "id": 186,
-    "name": "Germ War",
-    "image": "./icons/186.jpg",
-    "description": "Details are scarce. Likely a game where you combat germs, perhaps in a body or a lab setting. It might involve strategies to stop germ spread and mutations.",
-    "rating": 4.9,
-    "downloads": "8.0K",
-    "category": "action"
-  },
-  {
-    "id": 207,
-    "name": "Puppy Blast",
-    "image": "./icons/207.jpg",
-    "description": "Blast puppy - related objects. Use power - ups to clear areas filled with puppy - themed items and progress through levels.",
-    "rating": 4.6,
-    "downloads": "16.2K",
-    "category": "puzzle"
-  },
-  {
     "id": 242,
     "name": "Parking_Fury",
     "image": "./icons/242.jpg",
     "description": "Park cars in a challenging environment. Maneuver vehicles into tight parking spaces while avoiding collisions.",
     "rating": 4.7,
     "downloads": "12.6K",
+    "category": "racing"
+  },
+  {
+    "id": 243,
+    "name": "Bus_Parking_King",
+    "image": "./icons/243.jpg",
+    "description": "Become the king of bus parking. Park buses in different parking lots, dealing with tricky angles and limited space.",
+    "rating": 4.7,
+    "downloads": "1.2K",
+    "category": "racing"
+  },
+  {
+    "id": 244,
+    "name": "crazy_parking",
+    "image": "./icons/244.jpg",
+    "description": "Engage in crazy parking scenarios. Park cars in odd - shaped lots or under time pressure.",
+    "rating": 4.3,
+    "downloads": "2.1K",
     "category": "racing"
   },
   {
@@ -182,6 +164,42 @@
     "category": "racing"
   },
   {
+    "id": 255,
+    "name": "Tower_Defense_Battle",
+    "image": "./icons/255.jpg",
+    "description": "Fight in tower - defense battles. Place towers to fend off enemy units and protect your territory.",
+    "rating": 5.0,
+    "downloads": "15.7K",
+    "category": "action"
+  },
+  {
+    "id": 256,
+    "name": "tower-defense-mingling",
+    "image": "./icons/256.jpg",
+    "description": "Combine elements in a tower - defense setting. Mix different tower types and strategies to defend against enemies.",
+    "rating": 4.9,
+    "downloads": "6.6K",
+    "category": "action"
+  },
+  {
+    "id": 261,
+    "name": "Music_Line_3D",
+    "image": "./icons/261.jpg",
+    "description": "Interact with music in a 3D line - based game. Follow the music rhythm by tapping or swiping on 3D lines.",
+    "rating": 4.1,
+    "downloads": "10.1K",
+    "category": "action"
+  },
+  {
+    "id": 262,
+    "name": "Magic_Tiles3_Online_Z",
+    "image": "./icons/262.jpg",
+    "description": "Play magic tiles in an online setting. Tap tiles to the beat of the music and compete with others.",
+    "rating": 4.7,
+    "downloads": "10.7K",
+    "category": "action"
+  },
+  {
     "id": 263,
     "name": "Piano Title",
     "image": "./icons/263.jpg",
@@ -218,33 +236,6 @@
     "category": "action"
   },
   {
-    "id": 271,
-    "name": "One_Connect-main",
-    "image": "./icons/271.jpg",
-    "description": "Connect identical tiles with lines in this engaging puzzle game. Navigate through various levels, avoid crossing lines, and complete the connections to progress.",
-    "rating": 5.0,
-    "downloads": "3.5K",
-    "category": "puzzle"
-  },
-  {
-    "id": 272,
-    "name": "king-of-mahjong",
-    "image": "./icons/272.jpg",
-    "description": "Become the king of mahjong! Compete against other players, use strategic tile - matching, and aim for winning hands in this classic tile - based game.",
-    "rating": 4.5,
-    "downloads": "8.0K",
-    "category": "puzzle"
-  },
-  {
-    "id": 273,
-    "name": "Monster-duo",
-    "image": "./icons/273.jpg",
-    "description": "Team up with a monster buddy. Embark on adventures, fight enemies, and use your combined powers to overcome challenges in a fantasy - themed world.",
-    "rating": 4.8,
-    "downloads": "10.9K",
-    "category": "puzzle"
-  },
-  {
     "id": 274,
     "name": "onet-paradise",
     "image": "./icons/274.jpg",
@@ -254,33 +245,6 @@
     "category": "girl"
   },
   {
-    "id": 275,
-    "name": "onet-fruit-classic",
-    "image": "./icons/275.jpg",
-    "description": "Play the classic onet game with a fruit twist. Match fruit - shaped tiles to clear the screen, and test your matching speed and skills.",
-    "rating": 4.6,
-    "downloads": "11.3K",
-    "category": "puzzle"
-  },
-  {
-    "id": 276,
-    "name": "onet-world",
-    "image": "./icons/276.jpg",
-    "description": "Explore the onet world. Match tiles across different maps and scenarios, and unlock new levels and challenges as you go.",
-    "rating": 4.7,
-    "downloads": "3.7K",
-    "category": "puzzle"
-  },
-  {
-    "id": 278,
-    "name": "Christmas_Connect",
-    "image": "./icons/278.jpg",
-    "description": "Get into the Christmas spirit! Connect Christmas - themed items like ornaments and presents. Overcome holiday - themed levels and spread the festive cheer.",
-    "rating": 4.4,
-    "downloads": "3.3K",
-    "category": "puzzle"
-  },
-  {
     "id": 285,
     "name": "fruits-slot-machine",
     "image": "./icons/285.jpg",
@@ -288,24 +252,6 @@
     "rating": 4.9,
     "downloads": "8.0K",
     "category": "kids"
-  },
-  {
-    "id": 288,
-    "name": "quiz-star",
-    "image": "./icons/288.jpg",
-    "description": "Test your knowledge in a quiz show. Answer a variety of questions across different topics, and aim to become the quiz star.",
-    "rating": 4.6,
-    "downloads": "4.4K",
-    "category": "puzzle"
-  },
-  {
-    "id": 289,
-    "name": "tetra-blocks",
-    "image": "./icons/289.jpg",
-    "description": "Arrange falling tetra - shaped blocks. Create complete lines to clear them and avoid filling up the board in this addictive block - stacking game.",
-    "rating": 4.1,
-    "downloads": "15.7K",
-    "category": "puzzle"
   },
   {
     "id": 290,
@@ -360,6 +306,15 @@
     "rating": 4.5,
     "downloads": "6.2K",
     "category": "kids"
+  },
+  {
+    "id": 307,
+    "name": "world-puzzle",
+    "image": "./icons/307.jpg",
+    "description": "Solve puzzles from around the world. Encounter different puzzle types, test your problem - solving skills, and explore the global puzzle landscape.",
+    "rating": 4.8,
+    "downloads": "5.5K",
+    "category": "puzzle"
   },
   {
     "id": 309,
@@ -614,6 +569,24 @@
     "category": "adventure"
   },
   {
+    "id": 105,
+    "name": "Pacman HTML5",
+    "image": "./icons/105.jpg",
+    "description": "Navigate mazes, eat pellets, and avoid ghosts in this classic arcade game.",
+    "rating": 4.3,
+    "downloads": "16.2K",
+    "category": "adventure"
+  },
+  {
+    "id": 106,
+    "name": "Red Ball 4",
+    "image": "./icons/106.jpg",
+    "description": "Roll and bounce through levels to rescue your friends in this fun platformer.",
+    "rating": 5.0,
+    "downloads": "3.9K",
+    "category": "adventure"
+  },
+  {
     "id": 107,
     "name": "Stickman Hook",
     "image": "./icons/107.jpg",
@@ -662,8 +635,7 @@
     "id": 227,
     "name": "Surfing",
     "image": "./icons/227.png",
-    "description":
-      "Surfing is a game that allows players, especially girls, to experience the excitement of riding the waves, performing tricks and competing in virtual surfing competitions.",
+    "description": "Surfing is a game that allows players, especially girls, to experience the excitement of riding the waves, performing tricks and competing in virtual surfing competitions.",
     "rating": 4.3,
     "downloads": "14.7K",
     "category": "girl"
@@ -672,8 +644,7 @@
     "id": 235,
     "name": "The Secret of the Carpet",
     "image": "./icons/235.png",
-    "description":
-      "The Secret of the Carpet takes players on an adventure to uncover the mysteries hidden within a magical carpet, facing various challenges and puzzles along the way.",
+    "description": "The Secret of the Carpet takes players on an adventure to uncover the mysteries hidden within a magical carpet, facing various challenges and puzzles along the way.",
     "rating": 4.4,
     "downloads": "15.8K",
     "category": "adventure"
@@ -682,8 +653,7 @@
     "id": 248,
     "name": "Ollie and Her Little Friends",
     "image": "./icons/248.png",
-    "description":
-      "Ollie and Her Little Friends is an adventure game where Ollie and her friends go on exciting quests, exploring new places and having fun adventures.",
+    "description": "Ollie and Her Little Friends is an adventure game where Ollie and her friends go on exciting quests, exploring new places and having fun adventures.",
     "rating": 4.2,
     "downloads": "13.5K",
     "category": "adventure"
@@ -692,8 +662,7 @@
     "id": 268,
     "name": "Hit Winter Mice",
     "image": "./icons/268.png",
-    "description":
-      "Hit Winter Mice is an action game where players have to hit the mice that appear in a winter setting, using different tools and strategies to achieve high scores.",
+    "description": "Hit Winter Mice is an action game where players have to hit the mice that appear in a winter setting, using different tools and strategies to achieve high scores.",
     "rating": 4.6,
     "downloads": "19.6K",
     "category": "action"
@@ -702,8 +671,7 @@
     "id": 270,
     "name": "Resist Pirates",
     "image": "./icons/270.png",
-    "description":
-      "Resist Pirates is an action game where you play as a defender, trying to repel the attacks of pirates, using weapons and defenses to protect your territory.",
+    "description": "Resist Pirates is an action game where you play as a defender, trying to repel the attacks of pirates, using weapons and defenses to protect your territory.",
     "rating": 4.8,
     "downloads": "22.4K",
     "category": "action"
@@ -712,8 +680,7 @@
     "id": 283,
     "name": "The Clumsy Family",
     "image": "./icons/283.png",
-    "description":
-      "The Clumsy Family is a game designed for kids, where they can interact with a clumsy but lovable family, participating in various fun and light-hearted activities.",
+    "description": "The Clumsy Family is a game designed for kids, where they can interact with a clumsy but lovable family, participating in various fun and light-hearted activities.",
     "rating": 4.1,
     "downloads": "12.1K",
     "category": "kids"
@@ -722,8 +689,7 @@
     "id": 284,
     "name": "Super Burger",
     "image": "./icons/284.png",
-    "description":
-      "Super Burger is a puzzle game that challenges players to manage and build the perfect burger, making decisions about ingredients and order to satisfy customers.",
+    "description": "Super Burger is a puzzle game that challenges players to manage and build the perfect burger, making decisions about ingredients and order to satisfy customers.",
     "rating": 4.4,
     "downloads": "16.8K",
     "category": "puzzle"
@@ -732,8 +698,7 @@
     "id": 286,
     "name": "Alfie's Adventure",
     "image": "./icons/286.png",
-    "description":
-      "Alfie's Adventure takes players on a journey with Alfie as he explores new lands, meets interesting characters and overcomes challenges in an exciting adventure.",
+    "description": "Alfie's Adventure takes players on a journey with Alfie as he explores new lands, meets interesting characters and overcomes challenges in an exciting adventure.",
     "rating": 4.6,
     "downloads": "18.7K",
     "category": "adventure"

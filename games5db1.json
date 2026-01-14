@@ -1,0 +1,886 @@
+[
+    {
+        "info1": [
+            "puzzle",
+            "girl",
+            "sports",
+            "action",
+            "adventure",
+            "racing",
+            "kids"
+        ],
+        "info2": [
+            "puzzle",
+            "sports",
+            "action",
+            "adventure",
+            "racing",
+            "girl",
+            "kids"
+        ],
+        "info3": [
+            "action",
+            "puzzle",
+            "adventure",
+            "sports",
+            "girl",
+            "racing",
+            "kids"
+        ],
+        "info4": [
+            "girl",
+            "adventure",
+            "kids",
+            "racing",
+            "action",
+            "puzzle",
+            "sports"
+        ],
+        "info5": [
+            "kids",
+            "action",
+            "racing",
+            "puzzle",
+            "sports",
+            "girl",
+            "adventure"
+        ]
+    },
+    {
+        "id": 4,
+        "name": "Boxing Random",
+        "image": "./icons/4.jpg",
+        "description": "Engage in hilarious, random boxing matches with unpredictable one-hit knockouts. Fast-paced and fun gameplay!",
+        "rating": 4.0,
+        "downloads": "11.5K",
+        "category": "action"
+    },
+    {
+        "id": 5,
+        "name": "Cookie Clicker 2",
+        "image": "./icons/5.jpg",
+        "description": "Click to bake cookies endlessly, upgrade buildings, and unlock achievements in this addictive idle game.",
+        "rating": 4.0,
+        "downloads": "7.3K",
+        "category": "action"
+    },
+    {
+        "id": 8,
+        "name": "Geometry Jump",
+        "image": "./icons/8.jpg",
+        "description": "Jump through geometric obstacles in this rhythm-based platformer. Test your reflexes in increasingly difficult levels.",
+        "rating": 4.4,
+        "downloads": "14.0K",
+        "category": "action"
+    },
+    {
+        "id": 13,
+        "name": "Papa Cherry Saga",
+        "image": "./icons/13.jpg",
+        "description": "Match colorful candies and complete sweet challenges in this fun, match-3 puzzle game.",
+        "rating": 4.2,
+        "downloads": "12.2K",
+        "category": "girl"
+    },
+    {
+        "id": 14,
+        "name": "Rooftop Snipers",
+        "image": "./icons/14.jpg",
+        "description": "Duel on rooftops in this two-player sniper game. Shoot your opponent off the platform to win.",
+        "rating": 5.0,
+        "downloads": "2.2K",
+        "category": "action"
+    },
+    {
+        "id": 15,
+        "name": "Rusher Crusher",
+        "image": "./icons/15.jpg",
+        "description": "Crush enemies and obstacles in your path as you rush forward in this high-speed action game.",
+        "rating": 4.5,
+        "downloads": "15.3K",
+        "category": "action"
+    },
+    {
+        "id": 18,
+        "name": "Subway Surfers",
+        "image": "./icons/18.jpg",
+        "description": "Run, jump, and slide to escape the inspector in this fast-paced, endless runner game.",
+        "rating": 4.5,
+        "downloads": "10.4K",
+        "category": "action"
+    },
+    {
+        "id": 19,
+        "name": "Super Mario Wonder",
+        "image": "./icons/19.jpg",
+        "description": "Join Mario in a new adventure full of wonder. Solve puzzles, defeat enemies, and collect power-ups.",
+        "rating": 4.8,
+        "downloads": "14.2K",
+        "category": "action"
+    },
+    {
+        "id": 20,
+        "name": "Tag",
+        "image": "./icons/20.jpg",
+        "description": "Play a fast-paced game of tag, running away from or chasing others to win. Simple and fun!",
+        "rating": 4.1,
+        "downloads": "2.3K",
+        "category": "kids"
+    },
+    {
+        "id": 22,
+        "name": "Ball Sort Halloween",
+        "image": "./icons/22.jpg",
+        "description": "Sort colorful Halloween balls into matching tubes. A spooky puzzle game perfect for the season.",
+        "rating": 4.4,
+        "downloads": "8.8K",
+        "category": "action"
+    },
+    {
+        "id": 23,
+        "name": "Ball Sort Soccer",
+        "image": "./icons/23.jpg",
+        "description": "Sort soccer balls into their respective tubes based on color in this sports-themed puzzle game.",
+        "rating": 4.1,
+        "downloads": "16.2K",
+        "category": "action"
+    },
+    {
+        "id": 25,
+        "name": "Bouncy Woods",
+        "image": "./icons/25.jpg",
+        "description": "Bounce through vibrant forests, avoiding obstacles and collecting rewards in this fun physics-based platformer.",
+        "rating": 5.0,
+        "downloads": "3.1K",
+        "category": "action"
+    },
+    {
+        "id": 28,
+        "name": "Dead Again",
+        "image": "./icons/28.jpg",
+        "description": "Fight against hordes of zombies and survive as long as you can in this post-apocalyptic action game.",
+        "rating": 4.9,
+        "downloads": "15.4K",
+        "category": "action"
+    },
+    {
+        "id": 30,
+        "name": "Hanger",
+        "image": "./icons/30.jpg",
+        "description": "Swing from platform to platform using ropes in this physics-based platformer. Avoid obstacles and reach the end.",
+        "rating": 5.0,
+        "downloads": "7.2K",
+        "category": "action"
+    },
+    {
+        "id": 31,
+        "name": "Head Soccer 2023",
+        "image": "./icons/31.jpg",
+        "description": "Play soccer with big-headed players, score goals, and defeat your opponents in this arcade-style soccer game.",
+        "rating": 4.7,
+        "downloads": "11.0K",
+        "category": "sports"
+    },
+    {
+        "id": 32,
+        "name": "Infinite Soccer",
+        "image": "./icons/32.jpg",
+        "description": "Play soccer endlessly, scoring goals against an AI or friend. Keep the game going with non-stop action.",
+        "rating": 5.0,
+        "downloads": "12.1K",
+        "category": "sports"
+    },
+    {
+        "id": 33,
+        "name": "Marbles Sorting",
+        "image": "./icons/33.jpg",
+        "description": "Sort colorful marbles into matching containers by color. A simple yet challenging puzzle game.",
+        "rating": 4.1,
+        "downloads": "13.8K",
+        "category": "action"
+    },
+    {
+        "id": 34,
+        "name": "Monkey Mart",
+        "image": "./icons/34.jpg",
+        "description": "Manage your own monkey mart, sell goods, and upgrade your store in this cute management game.",
+        "rating": 4.6,
+        "downloads": "7.6K",
+        "category": "kids"
+    },
+    {
+        "id": 37,
+        "name": "Super Liquid Soccer",
+        "image": "./icons/37.jpg",
+        "description": "Play a fast-paced soccer game with smooth controls. Score goals and defeat your opponents to win.",
+        "rating": 4.8,
+        "downloads": "12.3K",
+        "category": "sports"
+    },
+    {
+        "id": 38,
+        "name": "Biker Street",
+        "image": "./icons/38.jpg",
+        "description": "Ride your motorcycle through challenging streets filled with obstacles. Balance and avoid crashing.",
+        "rating": 4.5,
+        "downloads": "11.1K",
+        "category": "action"
+    },
+    {
+        "id": 39,
+        "name": "E-Scooter",
+        "image": "./icons/39.jpg",
+        "description": "Ride your e-scooter through the city, dodging obstacles and racing against time to reach the goal.",
+        "rating": 4.9,
+        "downloads": "12.0K",
+        "category": "action"
+    },
+    {
+        "id": 40,
+        "name": "Highway Rider Extreme",
+        "image": "./icons/40.jpg",
+        "description": "Speed down the highway, weave through traffic, and avoid crashes in this high-speed motorcycle game.",
+        "rating": 4.2,
+        "downloads": "16.1K",
+        "category": "action"
+    },
+    {
+        "id": 49,
+        "name": "Wheelie Bike",
+        "image": "./icons/49.jpg",
+        "description": "Balance on one wheel and ride as far as possible in this challenging wheelie game.",
+        "rating": 4.2,
+        "downloads": "15.0K",
+        "category": "racing"
+    },
+    {
+        "id": 56,
+        "name": "8 Ball Pool",
+        "image": "./icons/56.jpg",
+        "description": "Play billiards, aim carefully, and pocket balls in this popular pool game.",
+        "rating": 4.7,
+        "downloads": "8.8K",
+        "category": "action"
+    },
+    {
+        "id": 58,
+        "name": "Basket Champs",
+        "image": "./icons/58.jpg",
+        "description": "Compete in international basketball tournaments and score points to win the championship.",
+        "rating": 5.0,
+        "downloads": "15.2K",
+        "category": "sports"
+    },
+    {
+        "id": 59,
+        "name": "Basket Random",
+        "image": "./icons/59.jpg",
+        "description": "Play chaotic basketball matches with unpredictable physics and random players.",
+        "rating": 4.4,
+        "downloads": "14.9K",
+        "category": "sports"
+    },
+    {
+        "id": 60,
+        "name": "Basketball Legends 2020",
+        "image": "./icons/60.jpg",
+        "description": "Play as famous basketball players and compete in exciting matches in this arcade-style game.",
+        "rating": 4.2,
+        "downloads": "13.8K",
+        "category": "sports"
+    },
+    {
+        "id": 62,
+        "name": "Basketball Stars",
+        "image": "./icons/62.jpg",
+        "description": "Compete in one-on-one basketball matches, perform tricks, and score points to win.",
+        "rating": 4.8,
+        "downloads": "5.3K",
+        "category": "sports"
+    },
+    {
+        "id": 63,
+        "name": "Fishing And Lines",
+        "image": "./icons/63.jpg",
+        "description": "Catch fish and solve line-based puzzles in this unique fishing game.",
+        "rating": 4.4,
+        "downloads": "1.5K",
+        "category": "sports"
+    },
+    {
+        "id": 64,
+        "name": "Fishing Frenzy",
+        "image": "./icons/64.jpg",
+        "description": "Catch as many fish as possible while avoiding dangerous obstacles in this fast-paced fishing game.",
+        "rating": 4.2,
+        "downloads": "13.8K",
+        "category": "action"
+    },
+    {
+        "id": 66,
+        "name": "Football Legends",
+        "image": "./icons/66.jpg",
+        "description": "Control famous football players and score goals to win matches in this action-packed football game.",
+        "rating": 4.8,
+        "downloads": "3.5K",
+        "category": "sports"
+    },
+    {
+        "id": 67,
+        "name": "Football Masters",
+        "image": "./icons/67.jpg",
+        "description": "Play football as top players, score goals, and use power-ups to win matches.",
+        "rating": 4.3,
+        "downloads": "9.5K",
+        "category": "sports"
+    },
+    {
+        "id": 69,
+        "name": "Happy Fishing",
+        "image": "./icons/69.jpg",
+        "description": "Catch fish and complete challenges in this relaxing fishing adventure.",
+        "rating": 4.4,
+        "downloads": "8.3K",
+        "category": "sports"
+    },
+    {
+        "id": 70,
+        "name": "Penalty Kick Online",
+        "image": "./icons/70.jpg",
+        "description": "Compete in penalty shootouts against players worldwide in this soccer game.",
+        "rating": 4.8,
+        "downloads": "4.9K",
+        "category": "sports"
+    },
+    {
+        "id": 72,
+        "name": "Tap Tap Shots",
+        "image": "./icons/72.jpg",
+        "description": "Score points by tapping to shoot in this fast-paced basketball game.",
+        "rating": 5.0,
+        "downloads": "10.7K",
+        "category": "sports"
+    },
+    {
+        "id": 83,
+        "name": "Bubble Pop Adventures",
+        "image": "./icons/83.jpg",
+        "description": "Pop bubbles and solve puzzles in this colorful and fun adventure.",
+        "rating": 4.7,
+        "downloads": "13.7K",
+        "category": "action"
+    },
+    {
+        "id": 84,
+        "name": "Mr Bullet 3D",
+        "image": "./icons/84.jpg",
+        "description": "Use strategy to eliminate targets with precise shots in this puzzle shooter.",
+        "rating": 5.0,
+        "downloads": "1.7K",
+        "category": "action"
+    },
+    {
+        "id": 85,
+        "name": "Raft Wars 2",
+        "image": "./icons/85.jpg",
+        "description": "Defend your treasure from enemies using water-based combat in this fun sequel.",
+        "rating": 4.2,
+        "downloads": "16.1K",
+        "category": "action"
+    },
+    {
+        "id": 86,
+        "name": "Raft Wars",
+        "image": "./icons/86.jpg",
+        "description": "Fight off pirates and protect your treasure in this exciting water battle game.",
+        "rating": 4.5,
+        "downloads": "6.2K",
+        "category": "action"
+    },
+    {
+        "id": 87,
+        "name": "Tank Trouble",
+        "image": "./icons/87.jpg",
+        "description": "Battle against friends in a maze with tanks in this competitive multiplayer game.",
+        "rating": 4.3,
+        "downloads": "11.3K",
+        "category": "action"
+    },
+    {
+        "id": 89,
+        "name": "Age Of War",
+        "image": "./icons/89.jpg",
+        "description": "Evolve your civilization and defeat enemies through different ages in this strategy game.",
+        "rating": 4.2,
+        "downloads": "5.2K",
+        "category": "action"
+    },
+    {
+        "id": 91,
+        "name": "Big Tower Tiny Square",
+        "image": "./icons/91.jpg",
+        "description": "Navigate through challenging levels to reach the top of the tower.",
+        "rating": 4.9,
+        "downloads": "15.9K",
+        "category": "adventure"
+    },
+    {
+        "id": 92,
+        "name": "Crossy Road",
+        "image": "./icons/92.jpg",
+        "description": "Help your character cross roads and rivers in this endless arcade hopper.",
+        "rating": 5.0,
+        "downloads": "6.4K",
+        "category": "action"
+    },
+    {
+        "id": 93,
+        "name": "Drift Boss",
+        "image": "./icons/93.jpg",
+        "description": "Master drifting skills while navigating through challenging tracks in this driving game.",
+        "rating": 4.1,
+        "downloads": "13.9K",
+        "category": "racing"
+    },
+    {
+        "id": 113,
+        "name": "FreeCell Solitaire",
+        "image": "./icons/113.jpg",
+        "description": "Play the classic card game and strategize to win in this relaxing version.",
+        "rating": 4.8,
+        "downloads": "2.6K",
+        "category": "puzzle"
+    },
+    {
+        "id": 115,
+        "name": "Spider Solitaire",
+        "image": "./icons/115.jpg",
+        "description": "Challenge yourself with this classic card game featuring multiple difficulty levels.",
+        "rating": 4.7,
+        "downloads": "14.0K",
+        "category": "puzzle"
+    },
+    {
+        "id": 116,
+        "name": "Tri Peaks Solitaire",
+        "image": "./icons/116.jpg",
+        "description": "Clear the board by matching cards in this engaging solitaire variant.",
+        "rating": 4.4,
+        "downloads": "10.7K",
+        "category": "puzzle"
+    },
+    {
+        "id": 118,
+        "name": "Adventure Drivers",
+        "image": "./icons/118.jpg",
+        "description": "Drive through exciting levels and complete challenges in this fun racing game.",
+        "rating": 4.2,
+        "downloads": "11.0K",
+        "category": "racing"
+    },
+    {
+        "id": 120,
+        "name": "1010 Color Match",
+        "image": "./icons/120.jpg",
+        "description": "Match colors and shapes in this addictive puzzle game.",
+        "rating": 4.0,
+        "downloads": "11.4K",
+        "category": "girl"
+    },
+    {
+        "id": 121,
+        "name": "Adam And Eve 5 p1",
+        "image": "./icons/121.jpg",
+        "description": "Join Adam on his adventures filled with puzzles and challenges.",
+        "rating": 4.7,
+        "downloads": "5.5K",
+        "category": "puzzle"
+    },
+    {
+        "id": 122,
+        "name": "Adam And Eve 5 p2",
+        "image": "./icons/122.jpg",
+        "description": "Continue Adam's journey and solve more puzzles in this fun platformer.",
+        "rating": 4.9,
+        "downloads": "13.4K",
+        "category": "puzzle"
+    },
+    {
+        "id": 123,
+        "name": "Adam And Eve 6",
+        "image": "./icons/123.jpg",
+        "description": "Help Adam navigate through new adventures and obstacles.",
+        "rating": 4.4,
+        "downloads": "14.5K",
+        "category": "puzzle"
+    },
+    {
+        "id": 124,
+        "name": "Ball Sort Puzzle",
+        "image": "./icons/124.jpg",
+        "description": "Sort colored balls into tubes in this relaxing and satisfying puzzle game.",
+        "rating": 4.2,
+        "downloads": "13.3K",
+        "category": "girl"
+    },
+    {
+        "id": 125,
+        "name": "Block The Pig",
+        "image": "./icons/125.jpg",
+        "description": "Prevent the pig from escaping by strategically placing blocks.",
+        "rating": 4.4,
+        "downloads": "9.8K",
+        "category": "puzzle"
+    },
+    {
+        "id": 126,
+        "name": "Checkers Legend",
+        "image": "./icons/126.jpg",
+        "description": "Play classic checkers against friends or AI in this strategic board game.",
+        "rating": 4.8,
+        "downloads": "14.8K",
+        "category": "puzzle"
+    },
+    {
+        "id": 127,
+        "name": "Fruita Crush",
+        "image": "./icons/127.jpg",
+        "description": "Match fruits to crush them in this colorful and fun puzzle game.",
+        "rating": 4.5,
+        "downloads": "9.7K",
+        "category": "girl"
+    },
+    {
+        "id": 128,
+        "name": "Guess The Kitty",
+        "image": "./icons/128.jpg",
+        "description": "Guess the cat breeds in this fun and educational game.",
+        "rating": 4.6,
+        "downloads": "14.7K",
+        "category": "kids"
+    },
+    {
+        "id": 129,
+        "name": "Icy Purple Head 2",
+        "image": "./icons/129.jpg",
+        "description": "Help the icy head navigate through levels filled with obstacles.",
+        "rating": 5.0,
+        "downloads": "3.8K",
+        "category": "puzzle"
+    },
+    {
+        "id": 130,
+        "name": "Icy Purple Head 3",
+        "image": "./icons/130.jpg",
+        "description": "Continue the adventure with new levels and challenges in this fun platformer.",
+        "rating": 4.7,
+        "downloads": "4.0K",
+        "category": "puzzle"
+    },
+    {
+        "id": 131,
+        "name": "Pudding Monsters",
+        "image": "./icons/131.jpg",
+        "description": "Combine pudding monsters to solve puzzles and save them from danger.",
+        "rating": 4.5,
+        "downloads": "14.3K",
+        "category": "puzzle"
+    },
+    {
+        "id": 140,
+        "name": "Snail Bob",
+        "image": "./icons/140.jpg",
+        "description": "Navigate Snail Bob through obstacles and help him reach his destination.",
+        "rating": 4.8,
+        "downloads": "10.4K",
+        "category": "kids"
+    },
+    {
+        "id": 142,
+        "name": "Wordle Unlimited",
+        "image": "./icons/142.jpg",
+        "description": "Guess the hidden word within six attempts in this addictive word puzzle.",
+        "rating": 4.2,
+        "downloads": "7.1K",
+        "category": "puzzle"
+    },
+    {
+        "id": 143,
+        "name": "World's Hardest Game",
+        "image": "./icons/143.jpg",
+        "description": "Navigate through challenging levels while avoiding obstacles in this difficult game.",
+        "rating": 4.6,
+        "downloads": "10.7K",
+        "category": "puzzle"
+    },
+    {
+        "id": 144,
+        "name": "Bottle Flip",
+        "image": "./icons/144.jpg",
+        "description": "Flip bottles and try to land them upright in this fun and addictive challenge.",
+        "rating": 4.1,
+        "downloads": "9.2K",
+        "category": "puzzle"
+    },
+    {
+        "id": 146,
+        "name": "Minecraft Case Simulator",
+        "image": "./icons/146.jpg",
+        "description": "Open cases and collect items in this fun Minecraft-themed simulator.",
+        "rating": 5.0,
+        "downloads": "13.8K",
+        "category": "puzzle"
+    },
+    {
+        "id": 150,
+        "name": "Eggy Car",
+        "image": "./icons/150.jpg",
+        "description": "Drive an egg-shaped car through challenging tracks and avoid crashes.",
+        "rating": 4.6,
+        "downloads": "8.7K",
+        "category": "racing"
+    },
+    {
+        "id": 151,
+        "name": "Parking Fury 2",
+        "image": "./icons/151.jpg",
+        "description": "Park your car in challenging spots without hitting obstacles in this parking game.",
+        "rating": 4.5,
+        "downloads": "9.2K",
+        "category": "racing"
+    },
+    {
+        "id": 152,
+        "name": "Parking Fury 3",
+        "image": "./icons/152.jpg",
+        "description": "Test your parking skills in new levels with more challenging scenarios.",
+        "rating": 5.0,
+        "downloads": "3.7K",
+        "category": "racing"
+    },
+    {
+        "id": 153,
+        "name": "Parking Fury",
+        "image": "./icons/153.jpg",
+        "description": "Navigate tight spaces and park your car in this realistic parking simulator.",
+        "rating": 4.7,
+        "downloads": "14.6K",
+        "category": "racing"
+    },
+    {
+        "id": 154,
+        "name": "Traffic Control",
+        "image": "./icons/154.jpg",
+        "description": "Manage traffic flow and prevent accidents at busy intersections in this strategy game.",
+        "rating": 4.1,
+        "downloads": "3.1K",
+        "category": "racing"
+    },
+    {
+        "id": 156,
+        "name": "Wheely 2",
+        "image": "./icons/156.jpg",
+        "description": "Help Wheely solve puzzles and overcome obstacles in his fun adventure.",
+        "rating": 4.1,
+        "downloads": "8.8K",
+        "category": "kids"
+    },
+    {
+        "id": 157,
+        "name": "Wheely 3",
+        "image": "./icons/157.jpg",
+        "description": "Join Wheely on new adventures filled with puzzles and challenges.",
+        "rating": 4.4,
+        "downloads": "7.5K",
+        "category": "kids"
+    },
+    {
+        "id": 158,
+        "name": "Wheely 4",
+        "image": "./icons/158.jpg",
+        "description": "Navigate through tricky levels with Wheely and solve clever puzzles.",
+        "rating": 4.0,
+        "downloads": "3.6K",
+        "category": "kids"
+    },
+    {
+        "id": 159,
+        "name": "Wheely 5",
+        "image": "./icons/159.jpg",
+        "description": "Assist Wheely in overcoming obstacles and solving challenges in this delightful game.",
+        "rating": 4.3,
+        "downloads": "14.0K",
+        "category": "kids"
+    },
+    {
+        "id": 160,
+        "name": "Wheely 6",
+        "image": "./icons/160.jpg",
+        "description": "Embark on a new journey with Wheely, filled with fun puzzles and adventures.",
+        "rating": 4.6,
+        "downloads": "8.1K",
+        "category": "kids"
+    },
+    {
+        "id": 161,
+        "name": "Wheely 7",
+        "image": "./icons/161.jpg",
+        "description": "Guide Wheely through exciting levels and help him solve tricky puzzles.",
+        "rating": 4.6,
+        "downloads": "14.4K",
+        "category": "racing"
+    },
+    {
+        "id": 162,
+        "name": "Wheely 8",
+        "image": "./icons/162.jpg",
+        "description": "Join Wheely on another adventure filled with challenges and clever puzzles.",
+        "rating": 4.8,
+        "downloads": "8.1K",
+        "category": "racing"
+    },
+    {
+        "id": 163,
+        "name": "Cubefield",
+        "image": "./icons/163.jpg",
+        "description": "Navigate through a field of cubes while avoiding obstacles in this fast-paced game.",
+        "rating": 4.8,
+        "downloads": "14.8K",
+        "category": "action"
+    },
+    {
+        "id": 164,
+        "name": "Doodle Jump",
+        "image": "./icons/164.jpg",
+        "description": "Jump from platform to platform in this classic and addictive jumping game.",
+        "rating": 4.4,
+        "downloads": "12.6K",
+        "category": "action"
+    },
+    {
+        "id": 167,
+        "name": "G Switch",
+        "image": "./icons/167.jpg",
+        "description": "Flip gravity and run through challenging levels filled with obstacles in this fast-paced platformer.",
+        "rating": 4.4,
+        "downloads": "2.6K",
+        "category": "action"
+    },
+    {
+        "id": 168,
+        "name": "Geometry Dash",
+        "image": "./icons/168.jpg",
+        "description": "Jump and fly your way through dangerous traps in this rhythmic platforming adventure.",
+        "rating": 4.6,
+        "downloads": "9.8K",
+        "category": "action"
+    },
+    {
+        "id": 169,
+        "name": "Ninja Cat Exploit",
+        "image": "./icons/169.jpg",
+        "description": "Guide the ninja cat through levels filled with enemies and obstacles in this action game.",
+        "rating": 4.8,
+        "downloads": "8.5K",
+        "category": "action"
+    },
+    {
+        "id": 170,
+        "name": "Rabbit Samurai 2",
+        "image": "./icons/170.jpg",
+        "description": "Help the samurai rabbit defeat enemies and navigate through challenging levels.",
+        "rating": 4.4,
+        "downloads": "7.5K",
+        "category": "action"
+    },
+    {
+        "id": 171,
+        "name": "Run 3",
+        "image": "./icons/171.jpg",
+        "description": "Navigate through space tunnels while avoiding obstacles in this endless runner.",
+        "rating": 4.4,
+        "downloads": "6.4K",
+        "category": "action"
+    },
+    {
+        "id": 172,
+        "name": "Sling Tomb",
+        "image": "./icons/172.jpg",
+        "description": "Use slingshot mechanics to launch characters through levels filled with puzzles.",
+        "rating": 4.8,
+        "downloads": "15.9K",
+        "category": "action"
+    },
+    {
+        "id": 54,
+        "name": "Christmas Panda Run",
+        "image": "./icons/54.png",
+        "description": "The lovely Christmas panda starts a running adventure. In the Christmas atmosphere, avoid obstacles and collect gifts.",
+        "rating": 4.8,
+        "downloads": "22.1K",
+        "category": "sports"
+    },
+    {
+        "id": 65,
+        "name": "Christmas Balloon",
+        "image": "./icons/65.png",
+        "description": "Let go of Christmas balloons and enjoy the festive atmosphere. Control the balloons, avoid obstacles and fly higher and farther.",
+        "rating": 4.3,
+        "downloads": "17.5K",
+        "category": "racing"
+    },
+    {
+        "id": 148,
+        "name": "Children's Crossword Puzzle",
+        "image": "./icons/148.png",
+        "description": "A crossword puzzle game suitable for children. Cultivate vocabulary and thinking ability. Learn and grow in the game.",
+        "rating": 4.0,
+        "downloads": "11.9K",
+        "category": "puzzle"
+    },
+    {
+        "id": 149,
+        "name": "Robot X",
+        "image": "./icons/149.png",
+        "description": "Control the powerful Robot X. Complete various tasks. Show the power of technology in the future world.",
+        "rating": 4.6,
+        "downloads": "18.6K",
+        "category": "adventure"
+    },
+    {
+        "id": 29,
+        "name": "Escape",
+        "image": "./icons/29.png",
+        "description": "In a tense and exciting escape journey, avoid being chased by enemies. Use agile skills and wisdom to find hope for survival.",
+        "rating": 4.3,
+        "downloads": "15.3K",
+        "category": "adventure"
+    },
+    {
+        "id": 141,
+        "name": "Zombie Uprising",
+        "image": "./icons/141.png",
+        "description": "Zombies rise up. The world is in crisis. Face bravely and stop the zombie attack.",
+        "rating": 4.9,
+        "downloads": "23.7K",
+        "category": "adventure"
+    },
+    {
+        "id": 76,
+        "name": "Five Nights At Freddy's 4",
+        "image": "./icons/76.jpg",
+        "description": "Experience terrifying nightmares while trying to survive against creepy animatronics.",
+        "rating": 4.8,
+        "downloads": "9.4K",
+        "category": "adventure"
+    },
+    {
+        "id": 78,
+        "name": "Five Nights At Freddy's",
+        "image": "./icons/78.jpg",
+        "description": "Monitor cameras and survive against haunted animatronics in this iconic horror game.",
+        "rating": 4.3,
+        "downloads": "11.3K",
+        "category": "adventure"
+    }
+]
