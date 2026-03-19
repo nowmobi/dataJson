@@ -57,7 +57,7 @@
             "Hot",
             "HTML5"
         ],
-        "image": "https://img.gamemonetize.com/wac81fzayb89sgudciz1k98o2b4hsgep/512x384.jpg",
+        "image": "./icons/172.jpg",
         "downloads": "11.7K",
         "rating": 4.9
     },
@@ -76,7 +76,7 @@
             "Strategy",
             "Timing"
         ],
-        "image": "https://img.gamemonetize.com/z6xc8b32h9hjfyk7gzagezfwxmn1n1p4/512x384.jpg",
+        "image": "./icons/120.jpg",
         "downloads": "14.5K",
         "rating": 4.3
     },
@@ -95,7 +95,7 @@
             "Street Fighting",
             "Timing"
         ],
-        "image": "https://img.gamemonetize.com/ozrihsbvi9tirbdb9cnyu7rks1ydj8hc/512x384.jpg",
+        "image": "./icons/103.jpg",
         "downloads": "19.0K",
         "rating": 4.1
     },
@@ -112,7 +112,7 @@
             "Cooking",
             "Restaurant"
         ],
-        "image": "https://img.gamemonetize.com/p0elhs3sbhslkpqz6xi8hxtcpue7tm3n/512x384.jpg",
+        "image": "./icons/170.jpg",
         "downloads": "2.2K",
         "rating": 4.5
     },
@@ -128,7 +128,7 @@
             "Cooking",
             "Hypercasual"
         ],
-        "image": "https://img.gamemonetize.com/tevy36r7qnipasd04yrutfp3jaikpo1v/512x384.jpg",
+        "image": "./icons/99.jpg",
         "downloads": "14.2K",
         "rating": 3.9
     },
@@ -138,7 +138,7 @@
         "description": "Corona Crash Saga, do you want to destroy these bad viruses that affect the whole world? To get the highest score and destroy the most viruses, you have to make the same viruses in a series of three or more pieces. Do not think too much, time is running out, be quick and delete viruses from the earth.",
         "instructions": "Corona Crash Saga do you want to destroy these bad viruses that affect the whole world To get the highest score and destroy the most viruses you have to make the same viruses in a series of three or more pieces Do not think too much time is running o",
         "category": "puzzle",
-        "image": "https://img.gamemonetize.com/g4b7wfy4cgmmn3a7r5jeuk6ifxmgyk1f/512x384.jpg",
+        "image": "./icons/77.jpg",
         "downloads": "3.6K",
         "rating": 4.2
     },
@@ -148,14 +148,14 @@
         "description": "Match Cake 2D is an engaging puzzle game where players click to change the positions of various cake pieces on a 2D grid. The objective is to align similar cakes in a row or column to score points. As players advance, the game introduces more complex cake types and obstacles, enhancing the challenge. website dev <a href='https://www.playbestgames.io/'>https://www.playbestgames.io/</a>",
         "instructions": "Mouse click or tap to play",
         "category": "puzzle",
-        "image": "https://img.gamemonetize.com/ab5hl38jcicn24pz2hj9gr9ibp9ljlsg/512x384.jpg",
+        "image": "./icons/43.jpg",
         "downloads": "13.5K",
         "rating": 3.5
     },
     {
         "id": 13,
         "name": "Table Pong",
-        "image": "https://img.gamemonetize.com/s412v6ji3z4xvr8p9iw97tlz1krwrlwp/512x384.jpg",
+        "image": "./icons/13.jpg",
         "description": "Get ready for an exciting table tennis experience with your friend! This game offers a visually appealing design and guarantees endless fun. Enjoy challenging matches and have a blast together. Let the games begin!",
         "rating": 4.6,
         "downloads": "12.3K",
@@ -165,7 +165,7 @@
     {
         "id": 4,
         "name": "Would you Rather?",
-        "image": "https://img.gamemonetize.com/ixvzq0t2ry6tuekdtiih6fio7rur9scx/512x384.jpg",
+        "image": "./icons/4.jpg",
         "description": "Would You Rather is the ultimate group game to play with friends! This party app contains over 120 of the best Would You Rather questions. * Perfect group party game to play with friends. * Great game for playing with groups of friends and family * Works offline making it the perfect road trip game to play in the car *Hundreds of difficult Would You Rather clean and dirty questions await for your friends and family! Can you answer them all?",
         "rating": 4.6,
         "downloads": "19.9K",
@@ -184,14 +184,14 @@
             "Cook",
             "Cooking"
         ],
-        "image": "https://img.gamemonetize.com/f34eykevaivg2dxypd1hexq5rimpugl9/512x384.jpg",
+        "image": "./icons/227.jpg",
         "downloads": "13.6K",
         "rating": 4.1
     },
     {
         "id": 38,
         "name": "Backgammonia - online backgammon game",
-        "image": "https://img.gamemonetize.com/rg00fk5s40g0kstrnynctsm1mkowdm14/512x384.jpg",
+        "image": "./icons/38.jpg",
         "description": "Backgammonia is a online backgammon game where you can play classic backgammon against computer or against a friend in 2 players mode. The old set is no longer needed, now you can play backgammon live at the internet. So lets roll the dice",
         "rating": 4.6,
         "downloads": "13.9K",
@@ -201,7 +201,7 @@
     {
         "id": 16,
         "name": "Angela Tom Perfect Valentine",
-        "image": "https://img.gamemonetize.com/jj7xmfi5s8yvt6scnnmzt11nkwe65h98/512x384.jpg",
+        "image": "./icons/16.jpg",
         "description": "Welcome to the Angela Perfect Valentine game. Angela and Tom love to spend time together on this valentine.",
         "rating": 4.4,
         "downloads": "7.2K",
@@ -220,14 +220,14 @@
             "Simulation",
             "Simulator"
         ],
-        "image": "https://img.gamemonetize.com/pye3cyuqan6c3iztumkqeapvju73qc3m/512x384.jpg",
+        "image": "./icons/161.jpg",
         "downloads": "8.4K",
         "rating": 3.9
     },
     {
         "id": 31,
         "name": "CHECKERS - Dames",
-        "image": "https://img.gamemonetize.com/i8j2zx1c8m4pm9f6xx7o1ycf02u0rn3a/512x384.jpg",
+        "image": "./icons/31.jpg",
         "description": "Hi gamers, I created my Checkers app as an example of a good checkers game for me and published it in the Store as a free board game for you. I hope you will enjoy it and have a lot of fun playing it. :)",
         "rating": 4.6,
         "downloads": "11.8K",
@@ -237,7 +237,7 @@
     {
         "id": 33,
         "name": "Color Block",
-        "image": "https://img.gamemonetize.com/e7n8gmeqt1smz8rrels22x225028fgrt/512x384.jpg",
+        "image": "./icons/33.jpg",
         "description": "Puzzle de remplissage de couleur est l'un des meilleurs jeux 3D satisfaisants, avec des graphismes de haute qualité, un simple contrôle, des effets d'animation sympas et des superbes mécanismes de jeu. Il vous mènera à travers un monde impressionnant rempli d'une variété de nouvelles formes à remplir de couleurs et d'obstacles difficiles pour une expérience de jeu incroyable. Faites une pause dans votre travail et rafraîchissez votre cerveau dans ce nouveau jeu 3D de cube de couleur. Vous allez l'adorer!",
         "rating": 4.7,
         "downloads": "14.3K",
@@ -247,7 +247,7 @@
     {
         "id": 9,
         "name": "MC8Bit",
-        "image": "https://img.gamemonetize.com/ltfogid7eci5jptgw84wm8m71nwrykmu/512x384.jpg",
+        "image": "./icons/9.jpg",
         "description": "Are you ready for an 8-bit gaming adventure? In this 8-bit game, youll need to guide Alex and Steve to the finish line in Minecraft. Leave the house and be cautious of monsters in the spooky forest. Your pickaxe is of no use here, so dont rely on it. Defeat the monsters in the forest. Collect all the obsidian stones. If you dont collect the obsidian stones, the portal wont form. Without the portal, you cant progress to the next level.",
         "rating": 4.5,
         "downloads": "11.2K",
@@ -260,7 +260,7 @@
         "description": "Animal Tiles Game requires you to match 3 blocks of the same element, you will pass the level when all tiles are matched. Which is different with Mahjong or other block puzzle game. Tile Master Match consists a large number of levels that get progressively more difficult.",
         "instructions": " Tap to match 3 blocks of the same element",
         "category": "puzzle",
-        "image": "https://img.gamemonetize.com/xlw1gis0phxca7qwg2m20ho2r88j5rws/512x384.jpg",
+        "image": "./icons/55.jpg",
         "downloads": "13.0K",
         "rating": 4.3
     },
@@ -283,7 +283,7 @@
             "Puzzle",
             "Skill"
         ],
-        "image": "https://img.gamemonetize.com/b0ykbbsn67tx1enbc6zfm90xcd17qfxc/512x384.jpg",
+        "image": "./icons/87.jpg",
         "downloads": "13.1K",
         "rating": 4.4
     },
@@ -299,7 +299,7 @@
             "Cook",
             "Cooking"
         ],
-        "image": "https://img.gamemonetize.com/m9kqhgtg2lmbvsv6ahkrdfqddb7246oq/512x384.jpg",
+        "image": "./icons/226.jpg",
         "downloads": "6.6K",
         "rating": 3.8
     },
@@ -309,14 +309,14 @@
         "description": "Zumba Ocean with over 59 levels is an online Boy and Girl game. Zumba Ocean plays like all the Zuma series of arcade puzzle games with bottles and diamonds models. With the same match 3 play rules, you are required to destroy all jewels in the chain and get the marked scores at each level. Glad you will complete all targets and win three stars at all levels! You can also find more games at superkidgames.com, pick up one and have fun!",
         "instructions": "Match 3 or more same-coloured gems to eliminate them Destroy all gems in the chain before it hits the end ",
         "category": "puzzle",
-        "image": "https://img.gamemonetize.com/ixcce3ic7s20gybem1au09ject2k5rpa/512x384.jpg",
+        "image": "./icons/61.jpg",
         "downloads": "15.7K",
         "rating": 4.6
     },
     {
         "id": 23,
         "name": "Weee...",
-        "image": "https://img.gamemonetize.com/tr02aizfdmmip1x84ptxg9zmyli23md5/512x384.jpg",
+        "image": "./icons/23.jpg",
         "description": "Losing and finding friends with weee game",
         "rating": 4.4,
         "downloads": "11.6K",
@@ -339,7 +339,7 @@
             "HTML",
             "HTML5"
         ],
-        "image": "https://img.gamemonetize.com/wz0213lj9sf763d5t4cbqckbqpf70872/512x384.jpg",
+        "image": "./icons/147.jpg",
         "downloads": "2.6K",
         "rating": 3.5
     },
@@ -349,14 +349,14 @@
         "description": "Vegetables Rush is puzzle Match game with colorful and beautiful graphics, collect three or more of the same fruits or vegetables.",
         "instructions": "connect the vegetables 3 or more ",
         "category": "puzzle",
-        "image": "https://img.gamemonetize.com/i10i99q1909mcnm6p2tdbr01u9goc0ou/512x384.jpg",
+        "image": "./icons/76.jpg",
         "downloads": "15.5K",
         "rating": 3.6
     },
     {
         "id": 5,
         "name": "Black and White Stickman",
-        "image": "https://img.gamemonetize.com/637unv00hou83ty0j348ak3q7rhp1fi1/512x384.jpg",
+        "image": "./icons/5.jpg",
         "description": "Would you like to join the adventure of the black and white stickmen? Help them in this adventure and guide them to the portal. The black and white stickmen need to collect all the star points and monster balls to reach the portal. Remember to collect not only the stars but also the monster balls. Be cautious of obstacles; if you collide with them, youll lose and fail. Stay alert to avoid losing.",
         "rating": 4.7,
         "downloads": "16.3K",
@@ -369,7 +369,7 @@
         "description": "A fun math game for kids to learn basic arithmetic skills using dice. Improve addition, subtraction, multiplication, and division. The Dice Math Kids Game is an exciting and educational game designed for kids to learn and improve their arithmetic skills using dice. With this game, your child will have fun while practicing addition, subtraction, multiplication, and division.",
         "instructions": "Mouse click or tap to play",
         "category": "kids",
-        "image": "https://img.gamemonetize.com/n412slsirp0rlj8kjc4133gdecjvs72k/512x384.jpg",
+        "image": "./icons/49.jpg",
         "downloads": "12.8K",
         "rating": 3.7
     },
@@ -385,7 +385,7 @@
             "Food",
             "Simulator"
         ],
-        "image": "https://img.gamemonetize.com/w4h80fkwq0ipv6u699rm3mwr6wcfjpqx/512x384.jpg",
+        "image": "./icons/89.jpg",
         "downloads": "11.8K",
         "rating": 3.9
     },
@@ -395,14 +395,14 @@
         "description": "Pac Maze Runner is a puzzle game online and a free game that you will be addicted to, which is perfect for kids. You just need to click the button to launch the beans, Pac man eats all the beans. Pays attention to the moving obstacles. It's time to test your reflexes, and the classic Pacman gameplay gives you an exciting experience.",
         "instructions": "Mouse or tap to play",
         "category": "puzzle",
-        "image": "https://img.gamemonetize.com/cf6pwvtlghlup2ncdhzjvacxi5paszja/512x384.jpg",
+        "image": "./icons/51.jpg",
         "downloads": "8.6K",
         "rating": 4.5
     },
     {
         "id": 7,
         "name": "Garten of Banban Obby",
-        "image": "https://img.gamemonetize.com/7nln2mvl8552ar0htsvknhrdqg4yg9xo/512x384.jpg",
+        "image": "./icons/7.jpg",
         "description": "Obby must survive the Garden of Banban monsters. There are two different tasks available: you can either help Obby on your own or team up with two friends to assist Obby and Nooby. Collect all the gold coins and buy the most beautiful costumes for yourselves. Become the owners of super cool costumes. While escaping, never look back. The monster is right behind you, dont stop running. Run from the monster.",
         "rating": 4.4,
         "downloads": "14.1K",
@@ -428,7 +428,7 @@
             "Kids",
             "Shopping"
         ],
-        "image": "https://img.gamemonetize.com/5isd1n3c4racpqg8rkv9844mp5knlb0r/512x384.jpg",
+        "image": "./icons/184.jpg",
         "downloads": "12.7K",
         "rating": 4.9
     },
@@ -446,7 +446,7 @@
             "Mobile",
             "Skills"
         ],
-        "image": "https://img.gamemonetize.com/fi9tq41y1fdxjic2q0aerphxg4af4k7e/512x384.jpg",
+        "image": "./icons/106.jpg",
         "downloads": "1.2K",
         "rating": 4.8
     },
@@ -456,7 +456,7 @@
         "description": "Control the snake to move and collect gems. Collecting gems of the same color will create nodes of the corresponding color on the snakes body. When three nodes of the same color are connected, they will be automatically eliminated. Eliminating nodes can earn you extra points. Hitting the wall or colliding with itself will lead to the end of the game. Successfully eliminating the entire snakes body results in a game victory.",
         "instructions": "Computer Use the arrow keys to control Mobile phone Tap the screen to control the direction ",
         "category": "puzzle",
-        "image": "https://img.gamemonetize.com/s3qipzsmowz03sobcyid3h15cn3zssfv/512x384.jpg",
+        "image": "./icons/41.jpg",
         "downloads": "5.4K",
         "rating": 4.6
     },
@@ -466,14 +466,14 @@
         "description": "Desert Rush is a typical arcade matching game. Your goal is to connect the dots. Three animals surviving their way out from their hunters. Master Chain reactions Bigger the chain stronger the attack. A chain comprising of 12+ gems will yield a surprise Ariel attack. Unique game fun to play, epic adventure. There are about 30+ unique levels for you to challenge yourself. Bosses change with every stage and difficulty becomes more fun after clearing each level.",
         "instructions": "Connect Gems to win The Goal of the Game is to have the Hero reach the flag In order to move the horse forward you need to create a chain of 3 or more poisonous mushrooms but they also deplete your life Bigger the chain - stronger the attack A",
         "category": "puzzle",
-        "image": "https://img.gamemonetize.com/zrrzl1932zgh5phfqaq33axx6tv3pi8p/512x384.jpg",
+        "image": "./icons/85.jpg",
         "downloads": "2.3K",
         "rating": 3.8
     },
     {
         "id": 39,
         "name": "Xmas Rooftop Battles",
-        "image": "https://img.gamemonetize.com/qul59ivj9q8phmv4kmjm0lh8zal4ar81/512x384.jpg",
+        "image": "./icons/39.jpg",
         "description": "Time to put on your Santa hat and get ready for some action packed fun. Try to shoot your opponent off of the rooftop in this fun Christmas-themed shooter game.",
         "rating": 4.7,
         "downloads": "15.1K",
@@ -493,7 +493,7 @@
             "Girls",
             "Kids"
         ],
-        "image": "https://img.gamemonetize.com/i5ebf4g8glpzc4gvrhx0942ezguxdxsu/512x384.jpg",
+        "image": "./icons/162.jpg",
         "downloads": "7.1K",
         "rating": 4.9
     },
@@ -509,7 +509,7 @@
             "Girl",
             "Girls"
         ],
-        "image": "https://img.gamemonetize.com/ei5ni6td9yd7nfb2hy53deosl36qpga4/512x384.jpg",
+        "image": "./icons/225.jpg",
         "downloads": "8.3K",
         "rating": 4.3
     },
@@ -523,7 +523,7 @@
             "Adventure",
             "Cooking"
         ],
-        "image": "https://img.gamemonetize.com/frkm7tva5ao9epiz42l9ldh3w783fgmv/512x384.jpg",
+        "image": "./icons/228.jpg",
         "downloads": "11.2K",
         "rating": 4.9
     },
@@ -540,14 +540,14 @@
             "Games",
             "HTML5"
         ],
-        "image": "https://img.gamemonetize.com/ww9xe84ji0gskv23e8h861uzm50h5plc/512x384.jpg",
+        "image": "./icons/152.jpg",
         "downloads": "19.6K",
         "rating": 3.5
     },
     {
         "id": 6,
         "name": "Duo Water and Fire",
-        "image": "https://img.gamemonetize.com/iwwffks7uv61lj9mhvmz1263abloo3xh/512x384.jpg",
+        "image": "./icons/6.jpg",
         "description": "Have you ever participated in the adventure of Stickman Fire and Water before? You need to collect the key and reach the door. As Fire and Water, you must overcome all obstacles. You are two opposite siblings, one with the power of fire and one with the power of water. Collect the red and blue keys. After collecting the keys, gather all the gold and reach the doors. Be careful, sometimes its like a puzzle. It can challenge your intellect.",
         "rating": 4.9,
         "downloads": "17.6K",
@@ -557,7 +557,7 @@
     {
         "id": 25,
         "name": "Fish Eat Fish 2",
-        "image": "https://img.gamemonetize.com/rlr5qfvla8ld3u2b624pmi0ns50opl6g/512x384.jpg",
+        "image": "./icons/25.jpg",
         "description": "Fish Eat Fish is a game where you must eat other fish to survive. It can be played in single player, 2 player, and 3 player modes. Use the keyboard and mouse to battle it out to see who is the top fish. Remember to eat fish smaller than yourself.",
         "rating": 4.9,
         "downloads": "19.5K",
@@ -570,7 +570,7 @@
         "description": "It's Xmas time and what better way to celebrate than with some explosive matching action! Match three gingerbread men, stockings, trees, candy canes, presents or baubles and watch them explode! With five festive game modes and more challenges along the way this game is a perfect gift for you this Xmas! Expect plenty of jewel busting, exploding match 3 heaven with this cracker of a game!",
         "instructions": "Match any 3 decorations in a line to pop them Line up 4 or more of the same decorations and create Xmas Explosion decorations Match them or try to combine them to create even bigger blasts The more decorations you pop the more points you score ",
         "category": "puzzle",
-        "image": "https://img.gamemonetize.com/is9rk8sdsodp2bvf0f54qn0jy5kahl9z/512x384.jpg",
+        "image": "./icons/81.jpg",
         "downloads": "1.0K",
         "rating": 4.6
     },
@@ -595,7 +595,7 @@
             "Skill",
             "Strategy"
         ],
-        "image": "https://img.gamemonetize.com/ygyegpn6a3817y9yt3vl9ifec6qc50jk/512x384.jpg",
+        "image": "./icons/114.jpg",
         "downloads": "3.5K",
         "rating": 4.5
     },
@@ -605,7 +605,7 @@
         "description": "Welcome to a new Fruits bubble shooting game. Fruits Pop comes with a new game logic. Help the little pets trapped inside by shooting fruits. you need to shoot 2 or more identical fruit to clear them from the board. The game will help you sometimes with some magical bubbles. Explore some amazing and challenging levels. Let's pop all fruits",
         "instructions": "Slide to aim and shoot",
         "category": "puzzle",
-        "image": "https://img.gamemonetize.com/jrkzac7i18hbvjnub9dl0d7lgztbmyjz/512x384.jpg",
+        "image": "./icons/58.jpg",
         "downloads": "2.0K",
         "rating": 4.6
     },
@@ -615,7 +615,7 @@
         "description": "Fantasy Forest &ndash; is a HTML5 Game! Cool match logic game. The game has 100 levels and an in-game store that will help you complete this puzzle game.You need to collect the required number of three types of blocks for each level and at the same time not leaving more than one extra block.",
         "instructions": "mouse",
         "category": "puzzle",
-        "image": "https://img.gamemonetize.com/61qhaiw98hx93lwa3tbe6u4tau5cbf9c/512x384.jpg",
+        "image": "./icons/48.jpg",
         "downloads": "6.4K",
         "rating": 3.7
     },
@@ -636,7 +636,7 @@
             "Girls",
             "Hot"
         ],
-        "image": "https://img.gamemonetize.com/qw4v21ei18qupf0om1whltxbc1kn1vqa/512x384.jpg",
+        "image": "./icons/160.jpg",
         "downloads": "3.3K",
         "rating": 3.8
     },
@@ -653,7 +653,7 @@
             "Games",
             "Halloween"
         ],
-        "image": "https://img.gamemonetize.com/o9eg0tchipqkaqlyipr6zvsvuxsz1ydi/512x384.jpg",
+        "image": "./icons/155.jpg",
         "downloads": "17.6K",
         "rating": 4.9
     },
@@ -663,7 +663,7 @@
         "description": "The goal is to crushes all the smiles.. except the red one! So simple! Touch or click as fast as you can. Ecaps Games with tons of games for all ages and bringing fun to player Play free online games Have fun!",
         "instructions": "Mouse or Touch",
         "category": "puzzle",
-        "image": "https://img.gamemonetize.com/odnzqiijmnu2ibmdnditjw1n8jg4s62g/512x384.jpg",
+        "image": "./icons/86.jpg",
         "downloads": "8.2K",
         "rating": 4.8
     },
@@ -683,14 +683,14 @@
             "Food",
             "Funny"
         ],
-        "image": "https://img.gamemonetize.com/gwsadqnt3dkfpqz5p2xgaijii9coctsx/512x384.jpg",
+        "image": "./icons/133.jpg",
         "downloads": "4.0K",
         "rating": 4.2
     },
     {
         "id": 8,
         "name": "Steve and Alex Dungeons",
-        "image": "https://img.gamemonetize.com/raotplpsueygxqkey9azho8502r8avkb/512x384.jpg",
+        "image": "./icons/8.jpg",
         "description": "Steve and Alex are trapped in a dungeon in the dark, and you must help them escape. You need to rescue both of them one by one. The dungeon is very dangerous and filled with obstacles. Be careful of jumping over obstacles and watch out for spinning wheels. Collect the diamonds you need and escape from the dungeon. You must reach the door at the end of the dungeon.",
         "rating": 4.6,
         "downloads": "13.7K",
@@ -710,7 +710,7 @@
             "jump",
             "Monkey"
         ],
-        "image": "https://img.gamemonetize.com/mbhcls0yajexc0ss1y9xnugsiwr974pu/512x384.jpg",
+        "image": "./icons/191.jpg",
         "downloads": "5.5K",
         "rating": 3.6
     },
@@ -720,7 +720,7 @@
         "description": "Swap and match gems on your journey with pirates through unknown lands and seas in this addictive and exciting match-3 game. Dig treasures, open chests, fight enemies and fulfil other tasks you are given in each level. Combine gems to create mighty ones and then combine these new gems to create even more powerful ones!",
         "instructions": "Swap gems to create rows and columns of at least three Make longer matches to forge mighty new gems Experiment with these new gems and find all possible match combinations ",
         "category": "puzzle",
-        "image": "https://img.gamemonetize.com/r9rjm8hvdtc4o37xm41pzuolphj8r72i/512x384.jpg",
+        "image": "./icons/78.jpg",
         "downloads": "9.9K",
         "rating": 4.9
     },
@@ -730,14 +730,14 @@
         "description": "A fun and addicting match-3 game. Match the same tiles to collect the powers for the corresponding hero, to fire at the harmful insects. Play as fast as possible before the countdown timer runs out, to win a high score. Features: - colorful tiles - nice animations and effects PLAY NOW!",
         "instructions": "Tap and drag to match the tiles ",
         "category": "puzzle",
-        "image": "https://img.gamemonetize.com/vsuoa6kpja9vechi04tqm4uvg8ot39dy/512x384.jpg",
+        "image": "./icons/69.jpg",
         "downloads": "14.4K",
         "rating": 3.8
     },
     {
         "id": 21,
         "name": "Drunken Duel 2 Players",
-        "image": "https://img.gamemonetize.com/sduudlvzhi5rn8g4jqg0ldjyoyypnce7/512x384.jpg",
+        "image": "./icons/21.jpg",
         "description": "Drunken Duel is an entertaining western game with physics-based one-button control that can be played as two people and one person. In the game, two drunk rag dolls duel. The game rules are very simple, you must first choose which mode you will play. If you want to play the game alone, you should choose 1 player mode. When you select this mode, the computer will match you with a bot playing at random difficulty, each game consists of five matches, to score points in each match, you must lower your opponent's energy level and maintain your own energy level. whose energy is reset first loses and his opponent scores and wins the game with a total of five points.",
         "rating": 4.7,
         "downloads": "14.5K",
@@ -757,7 +757,7 @@
             "Game",
             "Games"
         ],
-        "image": "https://img.gamemonetize.com/f6fruyy8eawz9cd2kgfe3v1o9ho4h8cp/512x384.jpg",
+        "image": "./icons/151.jpg",
         "downloads": "16.7K",
         "rating": 4.3
     },
@@ -778,7 +778,7 @@
             "Cute",
             "Miraculous Ladybug"
         ],
-        "image": "https://img.gamemonetize.com/5ez36baq74ux13unnb5aimz3u9slogku/512x384.jpg",
+        "image": "./icons/223.jpg",
         "downloads": "10.3K",
         "rating": 3.7
     },
@@ -796,7 +796,7 @@
             "Games",
             "Restaurant"
         ],
-        "image": "https://img.gamemonetize.com/6p8bkuxnstg9pwki0nuylj5v9m4h3xgq/512x384.jpg",
+        "image": "./icons/156.jpg",
         "downloads": "2.9K",
         "rating": 3.9
     },
@@ -813,7 +813,7 @@
             "Restaurant",
             "Strategy"
         ],
-        "image": "https://img.gamemonetize.com/5bx5y5jmvu6rmtvj2dzwxwobhvhi12l2/512x384.jpg",
+        "image": "./icons/148.jpg",
         "downloads": "8.7K",
         "rating": 4.2
     },
@@ -827,14 +827,14 @@
             "Best Games",
             "Match-3"
         ],
-        "image": "https://img.gamemonetize.com/vzk4zr4ad5elwwx1d5c9vm0b4osmotb4/512x384.jpg",
+        "image": "./icons/97.jpg",
         "downloads": "2.6K",
         "rating": 4.1
     },
     {
         "id": 29,
         "name": "Pingpong Dot",
-        "image": "https://img.gamemonetize.com/h1cxbhtap710xr9kxs7pph4khv9hspt4/512x384.jpg",
+        "image": "./icons/29.jpg",
         "description": "Pingpong Dot, look how high your score?",
         "rating": 4.3,
         "downloads": "8.9K",
@@ -863,7 +863,7 @@
             "School",
             "World of Alice"
         ],
-        "image": "https://img.gamemonetize.com/590dmy86oek5nuvhljntj3hj9yytst25/512x384.jpg",
+        "image": "./icons/96.jpg",
         "downloads": "3.2K",
         "rating": 4.4
     },
@@ -883,14 +883,14 @@
             "Food",
             "H5"
         ],
-        "image": "https://img.gamemonetize.com/ptrno2lf5v74droy0l5k7yykt4wl19fw/512x384.jpg",
+        "image": "./icons/138.jpg",
         "downloads": "9.3K",
         "rating": 5
     },
     {
         "id": 11,
         "name": "Aqua Dogy",
-        "image": "https://img.gamemonetize.com/fbl8n2cqlakjqbqk9w1x6kriqaps3b76/512x384.jpg",
+        "image": "./icons/11.jpg",
         "description": "Would you like to join the adventure of the dog siblings having fun at the water park? This adventure is just for you. Slide down the slides with the dogs and collect all the badges. Gather all the badges and head straight to the finish line. Slide down the slide with your friend and reach the finish line together.",
         "rating": 4.7,
         "downloads": "10.5K",
@@ -909,7 +909,7 @@
             "Girl",
             "Restaurant"
         ],
-        "image": "https://img.gamemonetize.com/urti71w3ola7bgub80geh5p28du1l6tg/512x384.jpg",
+        "image": "./icons/229.jpg",
         "downloads": "1.1K",
         "rating": 3.6
     },
@@ -927,14 +927,14 @@
             "Food",
             "Ice"
         ],
-        "image": "https://img.gamemonetize.com/t2dqiaytnn9ldc9ulp62jnuhqia1c0rt/512x384.jpg",
+        "image": "./icons/167.jpg",
         "downloads": "13.5K",
         "rating": 4.2
     },
     {
         "id": 24,
         "name": "Foosball Funny",
-        "image": "https://img.gamemonetize.com/984qz8m6pjfbj7h27k3cn7zv5g74pkwt/512x384.jpg",
+        "image": "./icons/24.jpg",
         "description": "Children and adults can play this free online foosball game on their PC or mobile devices by clicking in the window below.",
         "rating": 4.5,
         "downloads": "10.2K",
@@ -953,14 +953,14 @@
             "Cooking",
             "Restaurant"
         ],
-        "image": "https://img.gamemonetize.com/zsn8chm3hmle88thmv96ok6ch9o0eifw/512x384.jpg",
+        "image": "./icons/88.jpg",
         "downloads": "9.2K",
         "rating": 4.7
     },
     {
         "id": 1,
         "name": "Bitcoin Mining Simulator X",
-        "image": "https://img.gamemonetize.com/glarfn6gagok3igj8v2mqz5h9isrm7v3/512x384.jpg",
+        "image": "./icons/1.jpg",
         "description": "Bitcoin mining simulator game. Build up your bitcoin balance and get rich. Buy different pcs to keeps getting richer and build up your bitcoin empire. [This game does not give bitcoin]",
         "rating": 4.5,
         "downloads": "15.2K",
@@ -970,7 +970,7 @@
     {
         "id": 36,
         "name": "Viking Tomahawk",
-        "image": "https://img.gamemonetize.com/7fkam0l4bylmbxye14hcn0d4nondqlxx/512x384.jpg",
+        "image": "./icons/36.jpg",
         "description": "You can fight with CPU, or you can fight with your good friends. Take advantage of the axe in your hand and attack!",
         "rating": 4.8,
         "downloads": "16.4K",
@@ -980,7 +980,7 @@
     {
         "id": 3,
         "name": "MCATLANTS",
-        "image": "https://img.gamemonetize.com/mzlr8k9dkmo5bsc17br69ygn99c2snfm/512x384.jpg",
+        "image": "./icons/3.jpg",
         "description": "In this new adventure, you must reach the portal. To reach the portal, you should collaborate with your friend and work as a team. Teamwork is essential to survive in the Atlantis world. Work together with your friend and triumph. Defeat all the monsters. You must vanquish all the monsters and collect the black coins. The black coins are necessary to create the portal.",
         "rating": 4.3,
         "downloads": "12.8K",
@@ -997,7 +997,7 @@
             "Best",
             "Clicker"
         ],
-        "image": "https://img.gamemonetize.com/irtmhn74jcqsejzgvkh802bkc55u0p7d/512x384.jpg",
+        "image": "./icons/90.jpg",
         "downloads": "9.8K",
         "rating": 4.2
     },
@@ -1007,7 +1007,7 @@
         "description": "Get ready for a wild shape-matching adventure in Zoo Zoom Shapes! Match the adorable animal pictures with their corresponding shadow outlines. Earn points for each correct match and unlock new levels with even more challenging shapes. Have fun learning about different animals while you sharpen your observation skills!",
         "instructions": "Match the invisible shapes with visible animals ",
         "category": "kids",
-        "image": "https://img.gamemonetize.com/8i8brl7tumt5mjsnbdq4hwckxb470vzm/512x384.jpg",
+        "image": "./icons/44.jpg",
         "downloads": "2.8K",
         "rating": 4.3
     },
@@ -1017,14 +1017,14 @@
         "description": "This ocean is full of rare fish and other sea creatures! Match and combine them to craft exploding ones! It can help you crush through blocks standing in your way. The classic turn-based match-3 arcade with lots of challenging levels and modes awaits you!",
         "instructions": "Swap and match the fish to form a chain of 3 or more of the same color You will be rewarded with explosive power-ups if you match 4 or more ",
         "category": "puzzle",
-        "image": "https://img.gamemonetize.com/utu7niv6jo7j2qqtv1zzne4zx1hq5aa0/512x384.jpg",
+        "image": "./icons/80.jpg",
         "downloads": "19.2K",
         "rating": 4.0
     },
     {
         "id": 14,
         "name": "Fish Eat Getting Big",
-        "image": "https://img.gamemonetize.com/k8if9upb0h9k96zqoys4yrrbvw9nfxg6/512x384.jpg",
+        "image": "./icons/14.jpg",
         "description": "These fishes are getting bigger once they start eating little fishes than their size. Call some friends and play the game with up to three players the Fish Eat Getting Big game. Many fishes and various fish types in the huge ocean are waiting for you. Try to hunt smaller fishes which are specified with their numbers and try to reach the biggest size. Each level will bring you some coins and you will be able to buy new fish types from the market. You can also dive into different oceans and keep your adventure in different places.",
         "rating": 4.9,
         "downloads": "18.7K",
@@ -1048,7 +1048,7 @@
             "Mobile",
             "Strategy"
         ],
-        "image": "https://img.gamemonetize.com/znokgo6d1qsz3pwqoy5t43wf95aque88/512x384.jpg",
+        "image": "./icons/98.jpg",
         "downloads": "2.1K",
         "rating": 4.8
     },
@@ -1067,7 +1067,7 @@
             "Girls",
             "Simulation"
         ],
-        "image": "https://img.gamemonetize.com/2w30pl5dncmi9epv56iogihx0i3z9h7n/512x384.jpg",
+        "image": "./icons/144.jpg",
         "downloads": "7.0K",
         "rating": 4
     },
@@ -1091,14 +1091,14 @@
             "Spongebob",
             "World"
         ],
-        "image": "https://img.gamemonetize.com/ka9ia7ihvx474ci8badlelip4ocdnq68/512x384.jpg",
+        "image": "./icons/194.jpg",
         "downloads": "15.1K",
         "rating": 3.6
     },
     {
         "id": 26,
         "name": "Air Hockey Glow: 2 Players",
-        "image": "https://img.gamemonetize.com/od325ee0a7h8dhk3xhykdwddvpuqamsa/512x384.jpg",
+        "image": "./icons/26.jpg",
         "description": "Great air hockey with modern glow style. Move finger and place the puck on the screen. Control your ball by drag speed. Play air hockey with multiplayer offline on your device! It's like a ice hockey, but in the glow space world. Challenge yourself with the computer opponents!",
         "rating": 4.6,
         "downloads": "13.4K",
@@ -1108,7 +1108,7 @@
     {
         "id": 10,
         "name": "Kingdom of Toilets",
-        "image": "https://img.gamemonetize.com/mce44c3kkyd0sqn7a6kn1ts3043bhust/512x384.jpg",
+        "image": "./icons/10.jpg",
         "description": "You need to help the toilet robots escape from this underground prison filled with obstacles. You must assist them in escaping. Be careful as there are toxic waters everywhere underground. You must collect all the gold coins, or else the portal wont activate. Collect all the gold coins to activate the portal.",
         "rating": 4.2,
         "downloads": "9.8K",
@@ -1118,7 +1118,7 @@
     {
         "id": 17,
         "name": "Angela Dress up Game",
-        "image": "https://img.gamemonetize.com/geaxn44jupqac8f179a0azzf69vjsoq9/512x384.jpg",
+        "image": "./icons/17.jpg",
         "description": "Welcome to Angela's Dress-Up Game.",
         "rating": 4.2,
         "downloads": "6.8K",
@@ -1137,7 +1137,7 @@
             "Food",
             "Restaurant"
         ],
-        "image": "https://img.gamemonetize.com/48momzh4kkuigno6ogqd4mgvbcd9rqsv/512x384.jpg",
+        "image": "./icons/213.jpg",
         "downloads": "17.0K",
         "rating": 5
     },
@@ -1155,7 +1155,7 @@
             "Girl",
             "Girls"
         ],
-        "image": "https://img.gamemonetize.com/eowv393v4az1czoy5uvlvuzw30vuzbpm/512x384.jpg",
+        "image": "./icons/157.jpg",
         "downloads": "15.0K",
         "rating": 4.9
     },
@@ -1172,7 +1172,7 @@
             "Simulation",
             "Simulator"
         ],
-        "image": "https://img.gamemonetize.com/yhzo0lrt6x8jk9kru67h321qfo0o8202/512x384.jpg",
+        "image": "./icons/121.jpg",
         "downloads": "16.3K",
         "rating": 3.9
     },
@@ -1182,7 +1182,7 @@
         "description": "Use your imagination and discover what the ocean holds. Rescue all the fishes that are scattered in the levels and see all of their beautifull colors.",
         "instructions": "Match 3 blocks or more to destroy the blocks and clear them from the game screen Use power ups to clear more blocks or collect 3 rainbow blocks to make a random power up that you can use Manage to collect 3 fishes in their bubles and you win the level ",
         "category": "puzzle",
-        "image": "https://img.gamemonetize.com/p9vorzl2eiw1reh6heiqo2f556f14k2u/512x384.jpg",
+        "image": "./icons/72.jpg",
         "downloads": "18.9K",
         "rating": 4.9
     },
@@ -1199,7 +1199,7 @@
             "Cooking",
             "Restaurant"
         ],
-        "image": "https://img.gamemonetize.com/yl6so8xoqxlzngdh45k9jgg121kwn9ov/512x384.jpg",
+        "image": "./icons/126.jpg",
         "downloads": "15.6K",
         "rating": 4.2
     },
@@ -1218,14 +1218,14 @@
             "HTML5",
             "Restaurant"
         ],
-        "image": "https://img.gamemonetize.com/tj0zk3pnu4p4ewnbdnxvah97n48yj71v/512x384.jpg",
+        "image": "./icons/153.jpg",
         "downloads": "14.6K",
         "rating": 4.6
     },
     {
         "id": 22,
         "name": "Steve and Alex",
-        "image": "https://img.gamemonetize.com/iib71rz7t6khqrhmowpy2ntqneyi1gmy/512x384.jpg",
+        "image": "./icons/22.jpg",
         "description": "Steve needs to help Alex in the love story of Steve and Alex. You have to be in Steven's place and collect the portal pieces from where Alex is stuck. Collect 10 obsidians and create the alexsin portal. and complete the track and go to the portal. be careful don't fall down you may die if you fall down. or you will explode if you touch the TNTs.",
         "rating": 4.8,
         "downloads": "16.8K",
@@ -1249,7 +1249,7 @@
             "Girls",
             "Hello Kitty"
         ],
-        "image": "https://img.gamemonetize.com/i4xmd8jq5gqqgdv9860fzg5qbulbdh1v/512x384.jpg",
+        "image": "./icons/222.jpg",
         "downloads": "3.2K",
         "rating": 4
     },
@@ -1259,14 +1259,14 @@
         "description": "Break the jewel-obstacles to help the Santa Claus back to his home. 30 levels to enjoy. Play now! Merry Christmas!",
         "instructions": "Tap Click to break the jewel-obstacles ",
         "category": "puzzle",
-        "image": "https://img.gamemonetize.com/sezgl4hottucvxgld398s7s9u3g6j9yb/512x384.jpg",
+        "image": "./icons/83.jpg",
         "downloads": "14.9K",
         "rating": 4.9
     },
     {
         "id": 2,
         "name": "GrowWars.io",
-        "image": "https://img.gamemonetize.com/8jlqczqdhyd1jod55sl8xbttg1w5nh34/512x384.jpg",
+        "image": "./icons/2.jpg",
         "description": "The battle between the heroes is beginning in the battle arena with superheroes evolving! This battle is between the evolution heroes. Step into the arena and start slashing your opponents. Earn coins and buy new equipment or heroes in the shop. This battle can be played either single or 2 player. Call a friend and start playing together!",
         "rating": 4.8,
         "downloads": "18.5K",
@@ -1279,7 +1279,7 @@
         "description": "Defend your castle in a relentless battle against hordes of terrifying enemies! Play as a range of characters, including Severidric the wizard and Gendra the princess and stop orcs, trolls, bats and other scary creatures from invading your castle. Along the way collect coins that allow you to buy special power ups, such as magical staffs, fireballs and poison. You'll need to use all the magical spells in your power to help you suceed in your quest to keep the evil forces away!",
         "instructions": "Defend your castle in a relentless battle against hordes of terrifing enemies Cast your spells destroy the enemies and increase your magical powers The fate of the kingdom depends upon you and your powerful magic ",
         "category": "puzzle",
-        "image": "https://img.gamemonetize.com/8ho6im78j2n2nk4g9dcg23pvxin8op4w/512x384.jpg",
+        "image": "./icons/79.jpg",
         "downloads": "1.8K",
         "rating": 4.8
     },
@@ -1303,7 +1303,7 @@
             "Restaurant",
             "Skill"
         ],
-        "image": "https://img.gamemonetize.com/g905frowfw4cqcg481urvf0inkl4npj7/512x384.jpg",
+        "image": "./icons/108.jpg",
         "downloads": "14.6K",
         "rating": 4.5
     }
