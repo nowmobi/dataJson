@@ -2,59 +2,97 @@
     {
         "info1": [
             "sports",
-            "action",
-            "adventure",
             "racing",
             "puzzle",
-            "girl",
-            "kids"
+            "kids",
+            "adventure",
+            "action",
+            "girl"
         ],
         "info2": [
-            "adventure",
-            "puzzle",
-            "sports",
-            "action",
             "racing",
+            "sports",
             "girl",
-            "kids"
+            "adventure",
+            "kids",
+            "action",
+            "puzzle"
         ],
         "info3": [
-            "action",
-            "adventure",
             "sports",
             "girl",
-            "racing",
             "puzzle",
-            "kids"
+            "kids",
+            "adventure",
+            "racing",
+            "action"
         ],
         "info4": [
-            "girl",
-            "kids",
-            "racing",
             "action",
             "adventure",
             "puzzle",
-            "sports"
+            "kids",
+            "girl",
+            "sports",
+            "racing"
         ],
         "info5": [
+            "action",
+            "adventure",
             "racing",
             "puzzle",
-            "sports",
             "girl",
-            "kids",
-            "action",
-            "adventure"
+            "sports",
+            "kids"
         ]
     },
     {
-        "id": 1,
-        "name": "Bitcoin Mining Simulator X",
-        "image": "https://img.gamemonetize.com/glarfn6gagok3igj8v2mqz5h9isrm7v3/512x384.jpg",
-        "description": "Bitcoin mining simulator game. Build up your bitcoin balance and get rich. Buy different pcs to keeps getting richer and build up your bitcoin empire. [This game does not give bitcoin]",
-        "rating": 4.5,
-        "downloads": "15.2K",
-        "instructions": "Click bitcoin to earn ",
-        "category": "puzzle"
+        "id": 223,
+        "name": "Ladybug Cooking Cupcake : Cooking games for girls",
+        "description": "Ladybug Cooking Cupcake Game Lesson 7, is here Ladybug shows you how fun and amazing it is to cook new and astonishing cupcake dessert recipes. You will be captivated by these recipes and cooking will surely become your new passion! Sharpen all your senses while cooking adorable and delicate cupcake recipes that look great, smell so heavenly while baking, taste divinely delicious, feel so smooth in your mouth, and seem to be the most relaxing and fun cooking game experience ever. All that with this Cooking Lesson 7!",
+        "instructions": " ",
+        "category": "kids",
+        "tags": [
+            "Cake",
+            "Candy",
+            "Cartoon",
+            "Casual",
+            "Cat",
+            "Cook",
+            "Cooking",
+            "Cute",
+            "Miraculous Ladybug"
+        ],
+        "image": "https://img.gamemonetize.com/5ez36baq74ux13unnb5aimz3u9slogku/512x384.jpg",
+        "downloads": "10.3K",
+        "rating": 3.7
+    },
+    {
+        "id": 148,
+        "name": "Fish Restaurant",
+        "description": "Build your own cafe empire. There are multiple levels of bosses that you can experience. Gain sufficient experience and climb the career ladder Huggy Wuggy",
+        "instructions": "mouse and touch",
+        "category": "sports",
+        "tags": [
+            "Fish",
+            "Fishing",
+            "Game",
+            "Restaurant",
+            "Strategy"
+        ],
+        "image": "https://img.gamemonetize.com/5bx5y5jmvu6rmtvj2dzwxwobhvhi12l2/512x384.jpg",
+        "downloads": "8.7K",
+        "rating": 4.2
+    },
+    {
+        "id": 79,
+        "name": "Castle Defense",
+        "description": "Defend your castle in a relentless battle against hordes of terrifying enemies! Play as a range of characters, including Severidric the wizard and Gendra the princess and stop orcs, trolls, bats and other scary creatures from invading your castle. Along the way collect coins that allow you to buy special power ups, such as magical staffs, fireballs and poison. You'll need to use all the magical spells in your power to help you suceed in your quest to keep the evil forces away!",
+        "instructions": "Defend your castle in a relentless battle against hordes of terrifing enemies Cast your spells destroy the enemies and increase your magical powers The fate of the kingdom depends upon you and your powerful magic ",
+        "category": "puzzle",
+        "image": "https://img.gamemonetize.com/8ho6im78j2n2nk4g9dcg23pvxin8op4w/512x384.jpg",
+        "downloads": "1.8K",
+        "rating": 4.8
     },
     {
         "id": 2,
@@ -67,204 +105,57 @@
         "category": "action"
     },
     {
-        "id": 3,
-        "name": "MCATLANTS",
-        "image": "https://img.gamemonetize.com/mzlr8k9dkmo5bsc17br69ygn99c2snfm/512x384.jpg",
-        "description": "In this new adventure, you must reach the portal. To reach the portal, you should collaborate with your friend and work as a team. Teamwork is essential to survive in the Atlantis world. Work together with your friend and triumph. Defeat all the monsters. You must vanquish all the monsters and collect the black coins. The black coins are necessary to create the portal.",
-        "rating": 4.3,
-        "downloads": "12.8K",
-        "instructions": " Played with WASD Arrow Keys Mobile touch control is available To throw the sword use the Q and P keys ",
-        "category": "adventure"
+        "id": 106,
+        "name": "625 Sandwich Stacker",
+        "description": "Stack the biggest sandwiches possible by catching ingredients, but don't catch any yucky stuff! This game does not contain any external links.",
+        "instructions": "Desktop Use arrow keys to move a character Mobile Tap and hold on the right or left part of the screen ",
+        "category": "kids",
+        "tags": [
+            "Cartoon",
+            "Cook",
+            "HTML5",
+            "Kids",
+            "Mobile",
+            "Skills"
+        ],
+        "image": "https://img.gamemonetize.com/fi9tq41y1fdxjic2q0aerphxg4af4k7e/512x384.jpg",
+        "downloads": "1.2K",
+        "rating": 4.8
     },
     {
-        "id": 4,
-        "name": "Would you Rather?",
-        "image": "https://img.gamemonetize.com/ixvzq0t2ry6tuekdtiih6fio7rur9scx/512x384.jpg",
-        "description": "Would You Rather is the ultimate group game to play with friends! This party app contains over 120 of the best Would You Rather questions. * Perfect group party game to play with friends. * Great game for playing with groups of friends and family * Works offline making it the perfect road trip game to play in the car *Hundreds of difficult Would You Rather clean and dirty questions await for your friends and family! Can you answer them all?",
-        "rating": 4.6,
-        "downloads": "19.9K",
-        "instructions": "Just Sellectv a Question ",
-        "category": "puzzle"
+        "id": 153,
+        "name": "Food Truck Chef™ Cooking Games",
+        "description": "Love cooking games ? Then join the top chef Emily, on her cooking adventure and cook tons of delicious tacos, falafel, asmr food, sushi, fast food & pizza in Flo & Emily's Restaurant at this Time Management delicious diner restaurant game. Bring out your inner crazy chef - cook fast, beat the clock & serve and manage the delicious foods to your customers and decorate your restaurant and food truck in this time management cooking restaurant game.",
+        "instructions": "Click or tap on ingredients to cook them prepare them or serve them to the customers Double click or double tap on a plate to throw it to the garbage Don t forget to upgrade your cooking tools for an incredible cooking experience ",
+        "category": "action",
+        "tags": [
+            ".io Games",
+            "Cook",
+            "Cooking",
+            "Game",
+            "Games",
+            "HTML5",
+            "Restaurant"
+        ],
+        "image": "https://img.gamemonetize.com/tj0zk3pnu4p4ewnbdnxvah97n48yj71v/512x384.jpg",
+        "downloads": "14.6K",
+        "rating": 4.6
     },
     {
-        "id": 5,
-        "name": "Black and White Stickman",
-        "image": "https://img.gamemonetize.com/637unv00hou83ty0j348ak3q7rhp1fi1/512x384.jpg",
-        "description": "Would you like to join the adventure of the black and white stickmen? Help them in this adventure and guide them to the portal. The black and white stickmen need to collect all the star points and monster balls to reach the portal. Remember to collect not only the stars but also the monster balls. Be cautious of obstacles; if you collide with them, youll lose and fail. Stay alert to avoid losing.",
-        "rating": 4.7,
-        "downloads": "16.3K",
-        "instructions": " Collect all the badges activate the Black Hole Playable on both desktop and mobile Jump by pressing the W key and the Arrow up key ",
-        "category": "adventure"
-    },
-    {
-        "id": 6,
-        "name": "Duo Water and Fire",
-        "image": "https://img.gamemonetize.com/iwwffks7uv61lj9mhvmz1263abloo3xh/512x384.jpg",
-        "description": "Have you ever participated in the adventure of Stickman Fire and Water before? You need to collect the key and reach the door. As Fire and Water, you must overcome all obstacles. You are two opposite siblings, one with the power of fire and one with the power of water. Collect the red and blue keys. After collecting the keys, gather all the gold and reach the doors. Be careful, sometimes its like a puzzle. It can challenge your intellect.",
-        "rating": 4.9,
-        "downloads": "17.6K",
-        "instructions": " Move to WASD Arrow Keys Double Jump available Mobile Touch Control The red player can pass through red water and the blue player can pass through blue water Neither player can pass through green water ",
-        "category": "adventure"
-    },
-    {
-        "id": 7,
-        "name": "Garten of Banban Obby",
-        "image": "https://img.gamemonetize.com/7nln2mvl8552ar0htsvknhrdqg4yg9xo/512x384.jpg",
-        "description": "Obby must survive the Garden of Banban monsters. There are two different tasks available: you can either help Obby on your own or team up with two friends to assist Obby and Nooby. Collect all the gold coins and buy the most beautiful costumes for yourselves. Become the owners of super cool costumes. While escaping, never look back. The monster is right behind you, dont stop running. Run from the monster.",
-        "rating": 4.4,
-        "downloads": "14.1K",
-        "instructions": " Steve Press WASD keys to move and jump Alex Press Arrow Keys keys to move and jump Mobile Control Available",
-        "category": "action"
-    },
-    {
-        "id": 8,
-        "name": "Steve and Alex Dungeons",
-        "image": "https://img.gamemonetize.com/raotplpsueygxqkey9azho8502r8avkb/512x384.jpg",
-        "description": "Steve and Alex are trapped in a dungeon in the dark, and you must help them escape. You need to rescue both of them one by one. The dungeon is very dangerous and filled with obstacles. Be careful of jumping over obstacles and watch out for spinning wheels. Collect the diamonds you need and escape from the dungeon. You must reach the door at the end of the dungeon.",
-        "rating": 4.6,
-        "downloads": "13.7K",
-        "instructions": " Played with WASD Arrow Keys Mobile touch control is available ",
-        "category": "adventure"
-    },
-    {
-        "id": 9,
-        "name": "MC8Bit",
-        "image": "https://img.gamemonetize.com/ltfogid7eci5jptgw84wm8m71nwrykmu/512x384.jpg",
-        "description": "Are you ready for an 8-bit gaming adventure? In this 8-bit game, youll need to guide Alex and Steve to the finish line in Minecraft. Leave the house and be cautious of monsters in the spooky forest. Your pickaxe is of no use here, so dont rely on it. Defeat the monsters in the forest. Collect all the obsidian stones. If you dont collect the obsidian stones, the portal wont form. Without the portal, you cant progress to the next level.",
-        "rating": 4.5,
-        "downloads": "11.2K",
-        "instructions": " Played with WASD Arrow Keys Mobile touch control is available ",
-        "category": "adventure"
-    },
-    {
-        "id": 10,
-        "name": "Kingdom of Toilets",
-        "image": "https://img.gamemonetize.com/mce44c3kkyd0sqn7a6kn1ts3043bhust/512x384.jpg",
-        "description": "You need to help the toilet robots escape from this underground prison filled with obstacles. You must assist them in escaping. Be careful as there are toxic waters everywhere underground. You must collect all the gold coins, or else the portal wont activate. Collect all the gold coins to activate the portal.",
-        "rating": 4.2,
-        "downloads": "9.8K",
-        "instructions": " Played with WASD Arrow Keys Mobile touch control is available double jump available ",
-        "category": "adventure"
-    },
-    {
-        "id": 11,
-        "name": "Aqua Dogy",
-        "image": "https://img.gamemonetize.com/fbl8n2cqlakjqbqk9w1x6kriqaps3b76/512x384.jpg",
-        "description": "Would you like to join the adventure of the dog siblings having fun at the water park? This adventure is just for you. Slide down the slides with the dogs and collect all the badges. Gather all the badges and head straight to the finish line. Slide down the slide with your friend and reach the finish line together.",
-        "rating": 4.7,
-        "downloads": "10.5K",
-        "instructions": " Collect all the badges activate the Black Hole Playable on both desktop and mobile Jump by pressing the W key and the Arrow up key ",
-        "category": "adventure"
-    },
-    {
-        "id": 12,
-        "name": "Aquapark Balls Party",
-        "image": "https://img.gamemonetize.com/5frcdrr0zclnzo0yla564znzsj8a73px/512x384.jpg",
-        "description": "The Aquapark adventure is beginning with the rolling balls this time. Pass through the math gates and increase or decrease the ball number inside your group. Fly between the ramps and try to get your ball group to the finish pool before your opponents. Join this race in 2 player mode and double your fun by competing against a friend. Dont forget to visit the shop from time to time. New ball skins will be waiting for you. Let the roll begin!",
-        "rating": 4.8,
-        "downloads": "15.9K",
-        "instructions": "Player 1 Move A D or LEFT-RIGHT ARROWS Player 2 Move LEFT-RIGHT ARROWS",
-        "category": "racing"
-    },
-    {
-        "id": 13,
-        "name": "Table Pong",
-        "image": "https://img.gamemonetize.com/s412v6ji3z4xvr8p9iw97tlz1krwrlwp/512x384.jpg",
-        "description": "Get ready for an exciting table tennis experience with your friend! This game offers a visually appealing design and guarantees endless fun. Enjoy challenging matches and have a blast together. Let the games begin!",
-        "rating": 4.6,
-        "downloads": "12.3K",
-        "instructions": "Keyboard Up arrow key Down arrow key Left arrow key Right arrow key W A S D Mobile Arrow keys that appear on the screen",
-        "category": "sports"
-    },
-    {
-        "id": 14,
-        "name": "Fish Eat Getting Big",
-        "image": "https://img.gamemonetize.com/k8if9upb0h9k96zqoys4yrrbvw9nfxg6/512x384.jpg",
-        "description": "These fishes are getting bigger once they start eating little fishes than their size. Call some friends and play the game with up to three players the Fish Eat Getting Big game. Many fishes and various fish types in the huge ocean are waiting for you. Try to hunt smaller fishes which are specified with their numbers and try to reach the biggest size. Each level will bring you some coins and you will be able to buy new fish types from the market. You can also dive into different oceans and keep your adventure in different places.",
-        "rating": 4.9,
-        "downloads": "18.7K",
-        "instructions": "Player 1 Move W A S D Player 2 Move ARROW KEYS Player 3 Move MOUSE and LEFT-CLICK",
-        "category": "action"
-    },
-    {
-        "id": 15,
-        "name": "Nail Art Game",
-        "image": "https://img.gamemonetize.com/d52ab7dz0jjoilg5mbaivoycdkbufp2k/512x384.jpg",
-        "description": "The long-awaited spring has arrived! Time to freshen up your look. Use the latest fashion trends and make a fabulous manicure",
-        "rating": 4.3,
-        "downloads": "8.5K",
-        "instructions": "Left mouse button or touch ",
-        "category": "girl"
-    },
-    {
-        "id": 16,
-        "name": "Angela Tom Perfect Valentine",
-        "image": "https://img.gamemonetize.com/jj7xmfi5s8yvt6scnnmzt11nkwe65h98/512x384.jpg",
-        "description": "Welcome to the Angela Perfect Valentine game. Angela and Tom love to spend time together on this valentine.",
-        "rating": 4.4,
-        "downloads": "7.2K",
-        "instructions": "Left Mouse Button Click ",
-        "category": "girl"
-    },
-    {
-        "id": 17,
-        "name": "Angela Dress up Game",
-        "image": "https://img.gamemonetize.com/geaxn44jupqac8f179a0azzf69vjsoq9/512x384.jpg",
-        "description": "Welcome to Angela's Dress-Up Game.",
-        "rating": 4.2,
-        "downloads": "6.8K",
-        "instructions": "Left Mouse Button Click ",
-        "category": "girl"
-    },
-    {
-        "id": 18,
-        "name": "Fashion Short Hair Dress up",
-        "image": "https://img.gamemonetize.com/1hu9hv5i7elsq8xf1sz4otuktcferjf1/512x384.jpg",
-        "description": "Fashion girls Chloe, Bella and Sofia want to change their hairstyles dress up",
-        "rating": 4.5,
-        "downloads": "9.3K",
-        "instructions": "Mouse click or tap to play ",
-        "category": "girl"
-    },
-    {
-        "id": 19,
-        "name": "Salon Beauty Makeup ",
-        "image": "https://img.gamemonetize.com/cbzlyknr094w6liy03m4rrh0aom7yf34/512x384.jpg",
-        "description": "A vicious witch cursed the beautiful little princess, who slept in the castle for many years.",
-        "rating": 4.1,
-        "downloads": "5.6K",
-        "instructions": "Mouse or tap to play ",
-        "category": "girl"
-    },
-    {
-        "id": 20,
-        "name": "Daisy Bunny Dress up",
-        "image": "https://img.gamemonetize.com/qstkqetpny895d1fdmwjn2fzllbhv4vy/512x384.jpg",
-        "description": "Play our daisy bunny game and you will learn how to take care of pet rabbits. You need to respond to Daisy's wishes. As a good pet owner",
-        "rating": 4.3,
-        "downloads": "7.9K",
-        "instructions": "Mouse click or tap to play ",
-        "category": "girl"
-    },
-    {
-        "id": 21,
-        "name": "Drunken Duel 2 Players",
-        "image": "https://img.gamemonetize.com/sduudlvzhi5rn8g4jqg0ldjyoyypnce7/512x384.jpg",
-        "description": "Drunken Duel is an entertaining western game with physics-based one-button control that can be played as two people and one person. In the game, two drunk rag dolls duel. The game rules are very simple, you must first choose which mode you will play. If you want to play the game alone, you should choose 1 player mode. When you select this mode, the computer will match you with a bot playing at random difficulty, each game consists of five matches, to score points in each match, you must lower your opponent's energy level and maintain your own energy level. whose energy is reset first loses and his opponent scores and wins the game with a total of five points.",
-        "rating": 4.7,
-        "downloads": "14.5K",
-        "instructions": "LEFT CLICK ",
-        "category": "action"
-    },
-    {
-        "id": 22,
-        "name": "Steve and Alex",
-        "image": "https://img.gamemonetize.com/iib71rz7t6khqrhmowpy2ntqneyi1gmy/512x384.jpg",
-        "description": "Steve needs to help Alex in the love story of Steve and Alex. You have to be in Steven's place and collect the portal pieces from where Alex is stuck. Collect 10 obsidians and create the alexsin portal. and complete the track and go to the portal. be careful don't fall down you may die if you fall down. or you will explode if you touch the TNTs.",
-        "rating": 4.8,
-        "downloads": "16.8K",
-        "instructions": " Move to WASD Arrow Keys Double Jump available Mobile Touch Control",
-        "category": "adventure"
+        "id": 88,
+        "name": "Burger Rush Restaurant",
+        "description": "Welcome to your burger paradise! Dive into the sizzling world of restaurant management where every burger tells a story. Craft mouthwatering creations from a diverse range of ingredients, meeting each customers unique taste buds. Serve fast, combine cleverly, and watch your tiny burger joint grow into the town&rsquo;s favorite spot for delicious burgers. Your burger mastery starts now!",
+        "instructions": "Touch Click the ingredients to make a burger and click the customer to serve it",
+        "category": "adventure",
+        "tags": [
+            "Arcade",
+            "Cook",
+            "Cooking",
+            "Restaurant"
+        ],
+        "image": "https://img.gamemonetize.com/zsn8chm3hmle88thmv96ok6ch9o0eifw/512x384.jpg",
+        "downloads": "9.2K",
+        "rating": 4.7
     },
     {
         "id": 23,
@@ -277,154 +168,21 @@
         "category": "kids"
     },
     {
-        "id": 24,
-        "name": "Foosball Funny",
-        "image": "https://img.gamemonetize.com/984qz8m6pjfbj7h27k3cn7zv5g74pkwt/512x384.jpg",
-        "description": "Children and adults can play this free online foosball game on their PC or mobile devices by clicking in the window below.",
-        "rating": 4.5,
-        "downloads": "10.2K",
-        "instructions": "Player 1 W and S Player 2 Up an Down ",
-        "category": "sports"
-    },
-    {
-        "id": 25,
-        "name": "Fish Eat Fish 2",
-        "image": "https://img.gamemonetize.com/rlr5qfvla8ld3u2b624pmi0ns50opl6g/512x384.jpg",
-        "description": "Fish Eat Fish is a game where you must eat other fish to survive. It can be played in single player, 2 player, and 3 player modes. Use the keyboard and mouse to battle it out to see who is the top fish. Remember to eat fish smaller than yourself.",
-        "rating": 4.9,
-        "downloads": "19.5K",
-        "instructions": "Player 1 W A S D Player 2 ARROW KEYS Player 3 MOUSE and LEFT-CLICK ",
-        "category": "action"
-    },
-    {
-        "id": 26,
-        "name": "Air Hockey Glow: 2 Players",
-        "image": "https://img.gamemonetize.com/od325ee0a7h8dhk3xhykdwddvpuqamsa/512x384.jpg",
-        "description": "Great air hockey with modern glow style. Move finger and place the puck on the screen. Control your ball by drag speed. Play air hockey with multiplayer offline on your device! It's like a ice hockey, but in the glow space world. Challenge yourself with the computer opponents!",
-        "rating": 4.6,
-        "downloads": "13.4K",
+        "id": 152,
+        "name": "Cooking Crush - cooking games",
+        "description": "Become the best culinary master in exciting free cooking games & time management games You’re now invited to play in the city of madness in the cooking games for adults where you get to explore the passionate chef in you in free cooking games for adults. Now you can dash it as a cook-off challenge in your favorite kitchen games. Cook & serve delicious meals in this frenzy of cooking games for free from all across the world.",
         "instructions": "",
-        "category": "sports"
-    },
-    {
-        "id": 27,
-        "name": "Nightmare Runners",
-        "image": "https://img.gamemonetize.com/k90ptrr1dyyh2roq34rk4v55uaw8evqk/512x384.jpg",
-        "description": "Nightmare Runners is the ultimate knockout game with both fun and surprising traps! Runners race at night and unknown traps and monsters can get in your way. The aim of the game is to advance in each race without being eliminated. Of course, this is not as easy as it seems; because there are many obstacles, traps and rivals... You can play the Nightmare Runners game against 1 Player online / bot opponents, or against your friend in 2 Player mode. You can unlock new skins and characters with the coins you get with game achievements.",
-        "rating": 4.8,
-        "downloads": "17.2K",
-        "instructions": "If playing single Move W A S D or ARROW KEYS Jump SPACE If playing two player Player 1 Move W A S D Jump G Player 2 Move ARROW KEYS Jump L ",
-        "category": "racing"
-    },
-    {
-        "id": 28,
-        "name": "Gang Fall Party",
-        "image": "https://img.gamemonetize.com/i7uarc0zpakotfo600u3t1j18vdzan26/512x384.jpg",
-        "description": "Get ready to start a great online fighting game with the Gang Fall Party game! All of the fights will be on the high places and your only goal in this game is to fall your opponents from the places you're fighting on with your punches. You can play the game in single player mode or in two player game mode. You can fight against a friend in 1vs1 game mode and you can fight against lots of online opponents with your friends in 2 player mode with the Vs All game mode. You can fight against online friends in 1P game mode. In each online game, you will fight against 16 or 17 players.",
-        "rating": 4.7,
-        "downloads": "15.6K",
-        "instructions": "Player 1 Move W A S D Run C Punch V Player 2 Move ARROW KEYS Run O Punch P ",
-        "category": "action"
-    },
-    {
-        "id": 29,
-        "name": "Pingpong Dot",
-        "image": "https://img.gamemonetize.com/h1cxbhtap710xr9kxs7pph4khv9hspt4/512x384.jpg",
-        "description": "Pingpong Dot, look how high your score?",
-        "rating": 4.3,
-        "downloads": "8.9K",
-        "instructions": "",
-        "category": "sports"
-    },
-    {
-        "id": 30,
-        "name": "SORT THEM ALL GAME",
-        "image": "https://img.gamemonetize.com/t9sbqi3c9xhq5e2ohjs9uxlufugvfqp8/512x384.jpg",
-        "description": "Fun Water Sorting Puzzle Game is here for you! It's time to know how smart you all are. Test your intelligence by solving this liquid sort water puzzle. Sort them all. This puzzle game stimulates your brain in a very fun and challenging way. Enjoy the mental brain IQ challenge as you stack the colorful waters in the tubes in this water sort game. Let's see how good you are at juggling the colors in different water tubes in this mind relaxing iq games.",
-        "rating": 4.5,
-        "downloads": "12.1K",
-        "instructions": "Fun Water Sorting Puzzle Game is here for you It s time to know how smart you all are Test your intelligence by solving this liquid sort water puzzle Sort them all This puzzle game stimulates your brain in a very fun and challenging way Enjoy the men",
-        "category": "puzzle"
-    },
-    {
-        "id": 31,
-        "name": "CHECKERS - Dames",
-        "image": "https://img.gamemonetize.com/i8j2zx1c8m4pm9f6xx7o1ycf02u0rn3a/512x384.jpg",
-        "description": "Hi gamers, I created my Checkers app as an example of a good checkers game for me and published it in the Store as a free board game for you. I hope you will enjoy it and have a lot of fun playing it. :)",
-        "rating": 4.6,
-        "downloads": "11.8K",
-        "instructions": "To win a game of checkers you have to move your pieces towards your opponent s side of the board You can move faster by jumping your opponent s pieces and removing them from the board ",
-        "category": "puzzle"
-    },
-    {
-        "id": 32,
-        "name": "Shipnt.io",
-        "image": "https://img.gamemonetize.com/wtv5n88rw87m09b8cj8gubgdoi8l2w2z/512x384.jpg",
-        "description": "Shipnt.io is a mobile-friendly co-op physics based game where you and other people help free the ship stuck in the Suez Canal. The goal of the game is to free the boat currently stuck as soon as you can as you are fighting with other people on the leaderboard.",
-        "rating": 4.4,
-        "downloads": "9.7K",
-        "instructions": "The game s avatar pulls the ship based on physics You move the avatar by dragging and pulling him around but he will always return to the ship once you let go If there is no person present or if they disconnect you can use both avatars to move further ",
-        "category": "puzzle"
-    },
-    {
-        "id": 33,
-        "name": "Color Block",
-        "image": "https://img.gamemonetize.com/e7n8gmeqt1smz8rrels22x225028fgrt/512x384.jpg",
-        "description": "Puzzle de remplissage de couleur est l'un des meilleurs jeux 3D satisfaisants, avec des graphismes de haute qualité, un simple contrôle, des effets d'animation sympas et des superbes mécanismes de jeu. Il vous mènera à travers un monde impressionnant rempli d'une variété de nouvelles formes à remplir de couleurs et d'obstacles difficiles pour une expérience de jeu incroyable. Faites une pause dans votre travail et rafraîchissez votre cerveau dans ce nouveau jeu 3D de cube de couleur. Vous allez l'adorer!",
-        "rating": 4.7,
-        "downloads": "14.3K",
-        "instructions": "Puzzle de remplissage de couleur est l un des meilleurs jeux 3D satisfaisants avec des graphismes de haute qualit un simple contr le des effets d animation sympas et des superbes m canismes de jeu Il vous m nera travers un monde impressionnant remp",
-        "category": "puzzle"
-    },
-    {
-        "id": 34,
-        "name": "Neon Water",
-        "image": "https://img.gamemonetize.com/wqqpdsr2apdx13pgujwgptf75694cf68/512x384.jpg",
-        "description": "Neon Water",
-        "rating": 4.2,
-        "downloads": "6.5K",
-        "instructions": "Neon Water",
-        "category": "puzzle"
-    },
-    {
-        "id": 35,
-        "name": "Disco Sheep",
-        "image": "https://img.gamemonetize.com/ft5g4sp2cy89nriwvfrzczcqd045lb50/512x384.jpg",
-        "description": "Une application officielle du film Shaun le Mouton ! Offrez-vous une coupe à la Shaun le Mouton dans ce salon de coiffure pas comme les autres - une expérience à se tondre de rire ! Partagez votre style Prenez une photo de vous ou d'un ami et l'application transformera vos cheveux en un tas de laine que vous pourrez couper, tondre et colorer comme vous le souhaitez ! Personnalisez votre coiffure Choisissez l'un des nombreux personnages puis personnalisez votre coupe en utilisant tous les outils qui sont à votre disposition. Ciseaux, rasoir, shampooing, peigne : à vous de choisir ! Partagez vos portraits avec vos amis Une fois la coupe achevée, partagez votre nouveau look sur les réseaux sociaux ! Ou enregistrez la photo dans votre album personnel. Jeu GRATUIT L'application est gratuite et n'inclut aucune option payante. L'application vous permet aux joueurs de se connecter sur les réseaux sociaux comme Facebook et Twitter pour partager vos photos. Toutefois, il n'est pas nécessaire d'être connecté sur ces réseaux pour profiter de l'application",
-        "rating": 4.5,
-        "downloads": "10.8K",
-        "instructions": "Une application officielle du film Shaun le Mouton Offrez-vous une coupe la Shaun le Mouton dans ce salon de coiffure pas comme les autres - une exp rience se tondre de rire Partagez votre style Prenez une photo de vous ou d un ami et l applic",
-        "category": "girl"
-    },
-    {
-        "id": 36,
-        "name": "Viking Tomahawk",
-        "image": "https://img.gamemonetize.com/7fkam0l4bylmbxye14hcn0d4nondqlxx/512x384.jpg",
-        "description": "You can fight with CPU, or you can fight with your good friends. Take advantage of the axe in your hand and attack!",
-        "rating": 4.8,
-        "downloads": "16.4K",
-        "instructions": "Use your mouse to control ",
-        "category": "action"
-    },
-    {
-        "id": 37,
-        "name": "Fireboy and Watergirls.IO",
-        "image": "https://img.gamemonetize.com/sre01gq07iyixyhnl51ohykrk3rzx77p/512x384.jpg",
-        "description": "Fireboy and Watergirl, made by Oslo Albet, are exploring the Forest Temple in search of diamonds. Switch between Fireboy",
-        "rating": 4.9,
-        "downloads": "19.2K",
-        "instructions": "AWSD",
-        "category": "adventure"
-    },
-    {
-        "id": 38,
-        "name": "Backgammonia - online backgammon game",
-        "image": "https://img.gamemonetize.com/rg00fk5s40g0kstrnynctsm1mkowdm14/512x384.jpg",
-        "description": "Backgammonia is a online backgammon game where you can play classic backgammon against computer or against a friend in 2 players mode. The old set is no longer needed, now you can play backgammon live at the internet. So lets roll the dice",
-        "rating": 4.6,
-        "downloads": "13.9K",
-        "instructions": "Mouse Touch ",
-        "category": "puzzle"
+        "category": "adventure",
+        "tags": [
+            "Cook",
+            "Cooking",
+            "Game",
+            "Games",
+            "HTML5"
+        ],
+        "image": "https://img.gamemonetize.com/ww9xe84ji0gskv23e8h861uzm50h5plc/512x384.jpg",
+        "downloads": "19.6K",
+        "rating": 3.5
     },
     {
         "id": 39,
@@ -437,34 +195,751 @@
         "category": "action"
     },
     {
-        "id": 40,
-        "name": "Neon Slimes",
-        "image": "https://img.gamemonetize.com/39ym7ekx2tlc96018bi11j37mbz33on6/512x384.jpg",
-        "description": "Make your opponent fall. Jump on his had to make him weak and small. Use double jump to be cool. Have fun!",
-        "rating": 4.8,
-        "downloads": "17.8K",
-        "instructions": "Keyboard Mouse",
+        "id": 13,
+        "name": "Table Pong",
+        "image": "https://img.gamemonetize.com/s412v6ji3z4xvr8p9iw97tlz1krwrlwp/512x384.jpg",
+        "description": "Get ready for an exciting table tennis experience with your friend! This game offers a visually appealing design and guarantees endless fun. Enjoy challenging matches and have a blast together. Let the games begin!",
+        "rating": 4.6,
+        "downloads": "12.3K",
+        "instructions": "Keyboard Up arrow key Down arrow key Left arrow key Right arrow key W A S D Mobile Arrow keys that appear on the screen",
+        "category": "sports"
+    },
+    {
+        "id": 98,
+        "name": "Idle Restaurant Tycoon",
+        "description": "Do you want to be a unique restaurant manager? You can learn how to be a manager with the Idle Restaurant game. You may need some experts for cooking and serving. Hire a master chef, develop your staff, manage your finances and become the perfect boss. Also, dont forget to check your market for surprise gifts. You can play Idle Restaurant Tycoon in a simple way without the need to constantly click.",
+        "instructions": "Mouse click or tap to play",
+        "category": "kids",
+        "tags": [
+            "Cook",
+            "Cooking",
+            "eating",
+            "Funny",
+            "Hot",
+            "Interactive",
+            "Kids",
+            "Mobile",
+            "Strategy"
+        ],
+        "image": "https://img.gamemonetize.com/znokgo6d1qsz3pwqoy5t43wf95aque88/512x384.jpg",
+        "downloads": "2.1K",
+        "rating": 4.8
+    },
+    {
+        "id": 24,
+        "name": "Foosball Funny",
+        "image": "https://img.gamemonetize.com/984qz8m6pjfbj7h27k3cn7zv5g74pkwt/512x384.jpg",
+        "description": "Children and adults can play this free online foosball game on their PC or mobile devices by clicking in the window below.",
+        "rating": 4.5,
+        "downloads": "10.2K",
+        "instructions": "Player 1 W and S Player 2 Up an Down ",
+        "category": "sports"
+    },
+    {
+        "id": 10,
+        "name": "Kingdom of Toilets",
+        "image": "https://img.gamemonetize.com/mce44c3kkyd0sqn7a6kn1ts3043bhust/512x384.jpg",
+        "description": "You need to help the toilet robots escape from this underground prison filled with obstacles. You must assist them in escaping. Be careful as there are toxic waters everywhere underground. You must collect all the gold coins, or else the portal wont activate. Collect all the gold coins to activate the portal.",
+        "rating": 4.2,
+        "downloads": "9.8K",
+        "instructions": " Played with WASD Arrow Keys Mobile touch control is available double jump available ",
+        "category": "adventure"
+    },
+    {
+        "id": 170,
+        "name": "SUSHI CHEF",
+        "description": "1. Players need to make all kinds of food and materials, and all kinds of props and materials in the game are for players to use at will 2. The game adventure Parkour playing method can bring you many surprises and give each player a wonderful simulation challenge 3. You will be surprised by the new interactive Parkour playing method and various interesting simulation production and design methods",
+        "instructions": "Assassin battle mobile version this is a very simple assassin breakthrough game with hands You can basically see the rough way of playing the game and painting style from the pictures of the game The 3D pictures are also very fun The content of the gam",
+        "category": "sports",
+        "tags": [
+            "Adventure",
+            "Brain",
+            "Classic",
+            "Cooking",
+            "Restaurant"
+        ],
+        "image": "https://img.gamemonetize.com/p0elhs3sbhslkpqz6xi8hxtcpue7tm3n/512x384.jpg",
+        "downloads": "2.2K",
+        "rating": 4.5
+    },
+    {
+        "id": 213,
+        "name": "Dream Chefs",
+        "description": "Do you have a chef's dream？Dream chef is a fun cooking game. Experience the fever of real cooking in the kitchen without making any effort.You must fulfill customer orders and create different tasty dishes in a restaurant.",
+        "instructions": "You must fulfill customer orders and create different tasty dishes in a restaurant ",
+        "category": "kids",
+        "tags": [
+            "Cook",
+            "Cooking",
+            "Food",
+            "Restaurant"
+        ],
+        "image": "https://img.gamemonetize.com/48momzh4kkuigno6ogqd4mgvbcd9rqsv/512x384.jpg",
+        "downloads": "17.0K",
+        "rating": 5
+    },
+    {
+        "id": 108,
+        "name": "Cooking Place",
+        "description": "You in the game Cooking Place will help the chef to serve the customers. In front of you on the screen will be visible to the rack behind which your hero will be. Customers will come to her and place orders. They will be displayed next to customers as pictures. You will have to study it carefully and then start cooking. Certain foodstuffs will be at your disposal. You, following the instructions on the screen, will have to prepare a given dish and then give it to the customer. If everything suits him, then the client will be satisfied and pay for the prepared dish.",
+        "instructions": "Use mouse or touch on the screen ",
+        "category": "sports",
+        "tags": [
+            "Best",
+            "Boys",
+            "Burger",
+            "Food",
+            "Fun",
+            "Funny",
+            "Girls",
+            "HTML5",
+            "Kids",
+            "Mobile",
+            "Restaurant",
+            "Skill"
+        ],
+        "image": "https://img.gamemonetize.com/g905frowfw4cqcg481urvf0inkl4npj7/512x384.jpg",
+        "downloads": "14.6K",
+        "rating": 4.5
+    },
+    {
+        "id": 7,
+        "name": "Garten of Banban Obby",
+        "image": "https://img.gamemonetize.com/7nln2mvl8552ar0htsvknhrdqg4yg9xo/512x384.jpg",
+        "description": "Obby must survive the Garden of Banban monsters. There are two different tasks available: you can either help Obby on your own or team up with two friends to assist Obby and Nooby. Collect all the gold coins and buy the most beautiful costumes for yourselves. Become the owners of super cool costumes. While escaping, never look back. The monster is right behind you, dont stop running. Run from the monster.",
+        "rating": 4.4,
+        "downloads": "14.1K",
+        "instructions": " Steve Press WASD keys to move and jump Alex Press Arrow Keys keys to move and jump Mobile Control Available",
         "category": "action"
     },
     {
-        "id": 41,
-        "name": "Combo Snake",
-        "description": "Control the snake to move and collect gems. Collecting gems of the same color will create nodes of the corresponding color on the snakes body. When three nodes of the same color are connected, they will be automatically eliminated. Eliminating nodes can earn you extra points. Hitting the wall or colliding with itself will lead to the end of the game. Successfully eliminating the entire snakes body results in a game victory.",
-        "instructions": "Computer Use the arrow keys to control Mobile phone Tap the screen to control the direction ",
+        "id": 16,
+        "name": "Angela Tom Perfect Valentine",
+        "image": "https://img.gamemonetize.com/jj7xmfi5s8yvt6scnnmzt11nkwe65h98/512x384.jpg",
+        "description": "Welcome to the Angela Perfect Valentine game. Angela and Tom love to spend time together on this valentine.",
+        "rating": 4.4,
+        "downloads": "7.2K",
+        "instructions": "Left Mouse Button Click ",
+        "category": "girl"
+    },
+    {
+        "id": 11,
+        "name": "Aqua Dogy",
+        "image": "https://img.gamemonetize.com/fbl8n2cqlakjqbqk9w1x6kriqaps3b76/512x384.jpg",
+        "description": "Would you like to join the adventure of the dog siblings having fun at the water park? This adventure is just for you. Slide down the slides with the dogs and collect all the badges. Gather all the badges and head straight to the finish line. Slide down the slide with your friend and reach the finish line together.",
+        "rating": 4.7,
+        "downloads": "10.5K",
+        "instructions": " Collect all the badges activate the Black Hole Playable on both desktop and mobile Jump by pressing the W key and the Arrow up key ",
+        "category": "adventure"
+    },
+    {
+        "id": 51,
+        "name": "Maze Pac Runner",
+        "description": "Pac Maze Runner is a puzzle game online and a free game that you will be addicted to, which is perfect for kids. You just need to click the button to launch the beans, Pac man eats all the beans. Pays attention to the moving obstacles. It's time to test your reflexes, and the classic Pacman gameplay gives you an exciting experience.",
+        "instructions": "Mouse or tap to play",
         "category": "puzzle",
-        "image": "https://img.gamemonetize.com/s3qipzsmowz03sobcyid3h15cn3zssfv/512x384.jpg",
-        "downloads": "5.4K",
+        "image": "https://img.gamemonetize.com/cf6pwvtlghlup2ncdhzjvacxi5paszja/512x384.jpg",
+        "downloads": "8.6K",
+        "rating": 4.5
+    },
+    {
+        "id": 149,
+        "name": "Pecel Skipper",
+        "description": "In this game you will become a \"Pecel\" skipper. Pecel is one of traditional's Indonesian food. Serve buyers as best you can to earn income and upgrade your stall.",
+        "instructions": "Click on the menu requested by the buyer Then click on the buyer to complete your service ",
+        "category": "adventure",
+        "tags": [
+            "2D",
+            "Arcade",
+            "Casual",
+            "Cooking"
+        ],
+        "image": "https://img.gamemonetize.com/m52j36cdy319fmtzcsvlf90taget3siu/512x384.jpg",
+        "downloads": "1.4K",
         "rating": 4.6
     },
     {
-        "id": 42,
-        "name": "Survival Rush",
-        "description": "Gear up for the ultimate survival showdown in Survival Rush! In this 3D action-packed adventure,you&rsquo;ll face waves of enemies while testing your attack, defense, and survival skills. You run around the platform, spotting enemies and using your skills to destroy them.",
-        "instructions": "Mouse click or tap to play",
+        "id": 25,
+        "name": "Fish Eat Fish 2",
+        "image": "https://img.gamemonetize.com/rlr5qfvla8ld3u2b624pmi0ns50opl6g/512x384.jpg",
+        "description": "Fish Eat Fish is a game where you must eat other fish to survive. It can be played in single player, 2 player, and 3 player modes. Use the keyboard and mouse to battle it out to see who is the top fish. Remember to eat fish smaller than yourself.",
+        "rating": 4.9,
+        "downloads": "19.5K",
+        "instructions": "Player 1 W A S D Player 2 ARROW KEYS Player 3 MOUSE and LEFT-CLICK ",
+        "category": "action"
+    },
+    {
+        "id": 217,
+        "name": "Pizzaiolo!",
+        "description": "Your pizzeria is open! Hurry to complete the customer's order, win too much praise!",
+        "instructions": "Tap to play ",
+        "category": "kids",
+        "tags": [
+            "Casual",
+            "Cook",
+            "Cooking",
+            "Decorate",
+            "Decoration",
+            "Food",
+            "Kid",
+            "Relaxation"
+        ],
+        "image": "https://img.gamemonetize.com/pgyfqv0mxumjc6t71kv524bg7ak48cby/512x384.jpg",
+        "downloads": "8.9K",
+        "rating": 4.7
+    },
+    {
+        "id": 227,
+        "name": "Hoho's Burger Stacko",
+        "description": "Stack burger and serve it to the customer! Make a perfect stack to gain more money",
+        "instructions": "Mouse - Left-click Drag Touch-screen - Tap Drag",
+        "category": "kids",
+        "tags": [
+            "Burger",
+            "Business",
+            "Cook",
+            "Cooking"
+        ],
+        "image": "https://img.gamemonetize.com/f34eykevaivg2dxypd1hexq5rimpugl9/512x384.jpg",
+        "downloads": "13.6K",
+        "rating": 4.1
+    },
+    {
+        "id": 76,
+        "name": "Vegetables Rush",
+        "description": "Vegetables Rush is puzzle Match game with colorful and beautiful graphics, collect three or more of the same fruits or vegetables.",
+        "instructions": "connect the vegetables 3 or more ",
         "category": "puzzle",
-        "image": "https://img.gamemonetize.com/omv8gh31cvl17uw8ekvv4qa7uvaj1ucr/512x384.jpg",
-        "downloads": "8.8K",
+        "image": "https://img.gamemonetize.com/i10i99q1909mcnm6p2tdbr01u9goc0ou/512x384.jpg",
+        "downloads": "15.5K",
+        "rating": 3.6
+    },
+    {
+        "id": 126,
+        "name": "Doner Kebab : Salad Tomatoes Onions",
+        "description": "Go to the other side of the counter with Doner Kebab. Take control of your restaurant and make a maximum of meal as fast as you can while following your clients's demands in this arcade-like game.",
+        "instructions": "You are finally your own boss and you own your restaurant but now you must do better Prepare as much meal as you can for your clients with the good ingredients Finish each level to earn stars get more ingredients and become the king of kebab ",
+        "category": "racing",
+        "tags": [
+            "Casual",
+            "Chicken",
+            "Cook",
+            "Cooking",
+            "Restaurant"
+        ],
+        "image": "https://img.gamemonetize.com/yl6so8xoqxlzngdh45k9jgg121kwn9ov/512x384.jpg",
+        "downloads": "15.6K",
+        "rating": 4.2
+    },
+    {
+        "id": 29,
+        "name": "Pingpong Dot",
+        "image": "https://img.gamemonetize.com/h1cxbhtap710xr9kxs7pph4khv9hspt4/512x384.jpg",
+        "description": "Pingpong Dot, look how high your score?",
+        "rating": 4.3,
+        "downloads": "8.9K",
+        "instructions": "",
+        "category": "sports"
+    },
+    {
+        "id": 55,
+        "name": "Animal Tiles",
+        "description": "Animal Tiles Game requires you to match 3 blocks of the same element, you will pass the level when all tiles are matched. Which is different with Mahjong or other block puzzle game. Tile Master Match consists a large number of levels that get progressively more difficult.",
+        "instructions": " Tap to match 3 blocks of the same element",
+        "category": "puzzle",
+        "image": "https://img.gamemonetize.com/xlw1gis0phxca7qwg2m20ho2r88j5rws/512x384.jpg",
+        "downloads": "13.0K",
+        "rating": 4.3
+    },
+    {
+        "id": 144,
+        "name": "Cooking Madness chef",
+        "description": "This is Cooking Madness, an amazing cooking game. Cook delicious food and try to serve all clients before time s up Have have playing Cooking Madness. Deliciously fun.",
+        "instructions": "Use Mouse button for selection",
+        "category": "kids",
+        "tags": [
+            "Boy",
+            "Boys",
+            "Cook",
+            "Cooking",
+            "Girl",
+            "Girls",
+            "Simulation"
+        ],
+        "image": "https://img.gamemonetize.com/2w30pl5dncmi9epv56iogihx0i3z9h7n/512x384.jpg",
+        "downloads": "7.0K",
+        "rating": 4
+    },
+    {
+        "id": 77,
+        "name": "Corona Crush Saga",
+        "description": "Corona Crash Saga, do you want to destroy these bad viruses that affect the whole world? To get the highest score and destroy the most viruses, you have to make the same viruses in a series of three or more pieces. Do not think too much, time is running out, be quick and delete viruses from the earth.",
+        "instructions": "Corona Crash Saga do you want to destroy these bad viruses that affect the whole world To get the highest score and destroy the most viruses you have to make the same viruses in a series of three or more pieces Do not think too much time is running o",
+        "category": "puzzle",
+        "image": "https://img.gamemonetize.com/g4b7wfy4cgmmn3a7r5jeuk6ifxmgyk1f/512x384.jpg",
+        "downloads": "3.6K",
+        "rating": 4.2
+    },
+    {
+        "id": 58,
+        "name": "Fruits Pop",
+        "description": "Welcome to a new Fruits bubble shooting game. Fruits Pop comes with a new game logic. Help the little pets trapped inside by shooting fruits. you need to shoot 2 or more identical fruit to clear them from the board. The game will help you sometimes with some magical bubbles. Explore some amazing and challenging levels. Let's pop all fruits",
+        "instructions": "Slide to aim and shoot",
+        "category": "puzzle",
+        "image": "https://img.gamemonetize.com/jrkzac7i18hbvjnub9dl0d7lgztbmyjz/512x384.jpg",
+        "downloads": "2.0K",
         "rating": 4.6
+    },
+    {
+        "id": 36,
+        "name": "Viking Tomahawk",
+        "image": "https://img.gamemonetize.com/7fkam0l4bylmbxye14hcn0d4nondqlxx/512x384.jpg",
+        "description": "You can fight with CPU, or you can fight with your good friends. Take advantage of the axe in your hand and attack!",
+        "rating": 4.8,
+        "downloads": "16.4K",
+        "instructions": "Use your mouse to control ",
+        "category": "action"
+    },
+    {
+        "id": 222,
+        "name": "Shopkins: Shoppie Cupcake Maker",
+        "description": "Shoppies Shopkins Cooking Cupcake Game Lesson 7, is here Shoppies shows you how fun and amazing it is to cook new and astonishing cupcake dessert recipes. You will be captivated by these recipes and cooking will surely become your new passion! Sharpen all your senses while cooking adorable and delicate cupcake recipes that look great, smell so heavenly while baking, taste divinely delicious, feel so smooth in your mouth, and seem to be the most relaxing and fun cooking game experience ever. All that with this Cooking Lesson 7!",
+        "instructions": " ",
+        "category": "kids",
+        "tags": [
+            "Cake",
+            "Candy",
+            "Casual",
+            "Christmas",
+            "Cook",
+            "Cool",
+            "Craft",
+            "Girls",
+            "Hello Kitty"
+        ],
+        "image": "https://img.gamemonetize.com/i4xmd8jq5gqqgdv9860fzg5qbulbdh1v/512x384.jpg",
+        "downloads": "3.2K",
+        "rating": 4
+    },
+    {
+        "id": 69,
+        "name": "Farm Heroes Match",
+        "description": "A fun and addicting match-3 game. Match the same tiles to collect the powers for the corresponding hero, to fire at the harmful insects. Play as fast as possible before the countdown timer runs out, to win a high score. Features: - colorful tiles - nice animations and effects PLAY NOW!",
+        "instructions": "Tap and drag to match the tiles ",
+        "category": "puzzle",
+        "image": "https://img.gamemonetize.com/vsuoa6kpja9vechi04tqm4uvg8ot39dy/512x384.jpg",
+        "downloads": "14.4K",
+        "rating": 3.8
+    },
+    {
+        "id": 151,
+        "name": "Cooking Truck - Food truck worldwide cuisine",
+        "description": "Help Julia run her burger food truck. Her goal is to prepare the most delicious burgers. Her little food truck is constantly visited by hungry customers. Each customer approaches the food truck and orders his favorite burger. Julia has very little time to prepare the meal, but if she manages to do that quickly, customers are very generous.",
+        "instructions": "Tap on the ingredients shown on the screen to add it to the burger Follow the client s order to earn money You need to tap on the coins left by the customer to collect it ",
+        "category": "kids",
+        "tags": [
+            "Cook",
+            "Cooking",
+            "Food",
+            "Game",
+            "Games"
+        ],
+        "image": "https://img.gamemonetize.com/f6fruyy8eawz9cd2kgfe3v1o9ho4h8cp/512x384.jpg",
+        "downloads": "16.7K",
+        "rating": 4.3
+    },
+    {
+        "id": 85,
+        "name": "Desert Rush",
+        "description": "Desert Rush is a typical arcade matching game. Your goal is to connect the dots. Three animals surviving their way out from their hunters. Master Chain reactions Bigger the chain stronger the attack. A chain comprising of 12+ gems will yield a surprise Ariel attack. Unique game fun to play, epic adventure. There are about 30+ unique levels for you to challenge yourself. Bosses change with every stage and difficulty becomes more fun after clearing each level.",
+        "instructions": "Connect Gems to win The Goal of the Game is to have the Hero reach the flag In order to move the horse forward you need to create a chain of 3 or more poisonous mushrooms but they also deplete your life Bigger the chain - stronger the attack A",
+        "category": "puzzle",
+        "image": "https://img.gamemonetize.com/zrrzl1932zgh5phfqaq33axx6tv3pi8p/512x384.jpg",
+        "downloads": "2.3K",
+        "rating": 3.8
+    },
+    {
+        "id": 78,
+        "name": "Pirates the match 3",
+        "description": "Swap and match gems on your journey with pirates through unknown lands and seas in this addictive and exciting match-3 game. Dig treasures, open chests, fight enemies and fulfil other tasks you are given in each level. Combine gems to create mighty ones and then combine these new gems to create even more powerful ones!",
+        "instructions": "Swap gems to create rows and columns of at least three Make longer matches to forge mighty new gems Experiment with these new gems and find all possible match combinations ",
+        "category": "puzzle",
+        "image": "https://img.gamemonetize.com/r9rjm8hvdtc4o37xm41pzuolphj8r72i/512x384.jpg",
+        "downloads": "9.9K",
+        "rating": 4.9
+    },
+    {
+        "id": 229,
+        "name": "Cotton Candy Shop",
+        "description": "Cotton Candy Shop is the best candy game Become the creator of great food and surprise your customers in the cooking game with delicious desserts",
+        "instructions": "Mouse Control",
+        "category": "puzzle",
+        "tags": [
+            "2D",
+            "Candy",
+            "Girl",
+            "Restaurant"
+        ],
+        "image": "https://img.gamemonetize.com/urti71w3ola7bgub80geh5p28du1l6tg/512x384.jpg",
+        "downloads": "1.1K",
+        "rating": 3.6
+    },
+    {
+        "id": 163,
+        "name": "Lets Create with Tom and Jerry",
+        "description": "Play Let's Create with Tom and Jerry Game online in your web browser and mobile at Superkidgames.com for free and more html5 games. This game Lets Create with Tom and Jerry, we have had a really awesome time playing it ourselves, so there is no doubt in our minds that the same is going to be applying to your own time with it also, as there is never a bad time to have fun with lovable characters like Tom and Jerry! In case you want to learn more about how these creativity games work, allow us to teach you here. You begin by choosing one of the available black and white pictures, and you are then going to use the several buttons and tools all around the image, which you can color, modify, and decorate however you see fit, since this is a game all about using your imagination to create new and interesting pictures out of the existing ones. Join in on the fun right now, and stick around, since more awesome games are coming for you today, and we want you to check them out also!",
+        "instructions": "Use the mouse ",
+        "category": "puzzle",
+        "tags": [
+            "Best",
+            "Boys",
+            "Cat",
+            "Color",
+            "Coloring",
+            "Draw",
+            "Drawing",
+            "Educational",
+            "Family",
+            "Fun",
+            "Girls",
+            "HTML5",
+            "Kids",
+            "Mobile"
+        ],
+        "image": "https://img.gamemonetize.com/a4mtm6wfnhnovnvltxc6ushpllh2hlww/512x384.jpg",
+        "downloads": "4.4K",
+        "rating": 4.8
+    },
+    {
+        "id": 97,
+        "name": "Big Donuts Mania",
+        "description": "If youve made a match, the donuts will be clear, and you will get the points! The more you get, the better you will rank in the high score. Warning: Big Donuts Mania is as addictive as a box of donuts!",
+        "instructions": "Line them up ",
+        "category": "puzzle",
+        "tags": [
+            "Best Games",
+            "Match-3"
+        ],
+        "image": "https://img.gamemonetize.com/vzk4zr4ad5elwwx1d5c9vm0b4osmotb4/512x384.jpg",
+        "downloads": "2.6K",
+        "rating": 4.1
+    },
+    {
+        "id": 162,
+        "name": "Cooking Golden Santa Bread",
+        "description": "Cooking Golden Santa Bread is a very interesting free online cooking game. For the Holidays everyone makes beautiful cakes with very unusual forms and colors. In this game, you have to make very delicious bread that has Santa's look. First make the dough with flour, water, sugar, salt, eggs, and other ingredients. After you make the dough, make the shapes for Santa with the given knife. Follow the given instructions in the up left corner. After you have made the Santa, use the brush to brush Santa's hat, nose, and cheeks. And at the end put the Santa in the oven. Now the Golden Santa Bread is ready for eating. Enjoy and have fun playing this game during the holiday celebrations!",
+        "instructions": "Use a mouse to play this game ",
+        "category": "puzzle",
+        "tags": [
+            "Christmas",
+            "Cooking",
+            "Fun",
+            "Girls",
+            "Kids"
+        ],
+        "image": "https://img.gamemonetize.com/i5ebf4g8glpzc4gvrhx0942ezguxdxsu/512x384.jpg",
+        "downloads": "7.1K",
+        "rating": 4.9
+    },
+    {
+        "id": 138,
+        "name": "Win soda challenge",
+        "description": "A casual puzzle game full of fun. The player needs to manipulate the can flexibly to color the squares in the maze. Different colored squares will have different chemical reactions, soda cans offer a huge variety of missions to challenge you, especially to test your reaction and hand speed, the whole operation is not difficult to use.",
+        "instructions": "Use the mouse to click the adjacent pipeline connection repairthe pipeline can be received soda come together to drink soda ",
+        "category": "action",
+        "tags": [
+            "Action",
+            "Click",
+            "Clicker",
+            "Cook",
+            "Cooking",
+            "Cool",
+            "Food",
+            "H5"
+        ],
+        "image": "https://img.gamemonetize.com/ptrno2lf5v74droy0l5k7yykt4wl19fw/512x384.jpg",
+        "downloads": "9.3K",
+        "rating": 5
+    },
+    {
+        "id": 99,
+        "name": "Speedy Bartender",
+        "description": "Step into the fast-paced world of a master mixologist in Speedy Bartender, a thrilling arcade game where quenching thirst meets adrenaline pumping action! Thirsty customers line the bar, their eyes pleading for a taste of your liquid artistry. Will you be the hero who delivers the perfect pour, or will frustration bubble over with spilled drinks and disappointed sighs?",
+        "instructions": "Mobile Touch PC Mouse",
+        "category": "action",
+        "tags": [
+            "1 Player",
+            "Adult",
+            "Cooking",
+            "Hypercasual"
+        ],
+        "image": "https://img.gamemonetize.com/tevy36r7qnipasd04yrutfp3jaikpo1v/512x384.jpg",
+        "downloads": "14.2K",
+        "rating": 3.9
+    },
+    {
+        "id": 161,
+        "name": "Scary Vending Machine",
+        "description": "Scary Vending Machine is an amazing game that helps your child to learn math by playing! Choose among three vending machines: one with toys, one with sweet treats, and one with food; each item inside the vending machines has a price you have a set of coins at your disposal to insert the right sum you can see on the display, If you’re right, the vending machine will release the item, if you’re wrong you’ll receive an error message.",
+        "instructions": "Just mouse to play ",
+        "category": "sports",
+        "tags": [
+            "Arcade",
+            "Kids",
+            "Simulation",
+            "Simulator"
+        ],
+        "image": "https://img.gamemonetize.com/pye3cyuqan6c3iztumkqeapvju73qc3m/512x384.jpg",
+        "downloads": "8.4K",
+        "rating": 3.9
+    },
+    {
+        "id": 160,
+        "name": "Burger Cooking Chef",
+        "description": "Live your dream of becoming a restaurant chef and a master of cooking in street food burger shops for enjoying joyful cooking. Let’s make our street burger shop full of costumers. Your mission is to prepare burgers for costumers as fast as you can to ear money. the first level will help you to learn how to play. Let's go!",
+        "instructions": "Tap or click",
+        "category": "racing",
+        "tags": [
+            "Arcade",
+            "Best",
+            "Brain",
+            "Burger",
+            "Clicker",
+            "Cooking",
+            "Girl",
+            "Girls",
+            "Hot"
+        ],
+        "image": "https://img.gamemonetize.com/qw4v21ei18qupf0om1whltxbc1kn1vqa/512x384.jpg",
+        "downloads": "3.3K",
+        "rating": 3.8
+    },
+    {
+        "id": 90,
+        "name": "Kitchen King Rush",
+        "description": "Kitchen King Rush is a fast-paced restaurant game where hungry customers arrive, and it&rsquo;s up to you to serve them delicious meals on time! Cook, plate, and deliver a variety of mouthwatering dishes while managing the kitchen chaos. Keep your customers happy, earn big tips, and upgrade your restaurant to become the ultimate Kitchen King! With vibrant graphics, exciting challenges, and addictive gameplay, this culinary adventure will test your speed and strategy. Available in English and Espa&ntilde;ol, dive into the fun and prove your skills as the best chef in town! &zwj; &iexcl;Juega ahora y convi&eacute;rtete en el rey de la cocina!",
+        "instructions": "Serve food ASAP ",
+        "category": "action",
+        "tags": [
+            "Best",
+            "Clicker"
+        ],
+        "image": "https://img.gamemonetize.com/irtmhn74jcqsejzgvkh802bkc55u0p7d/512x384.jpg",
+        "downloads": "9.8K",
+        "rating": 4.2
+    },
+    {
+        "id": 89,
+        "name": "Cook it 3D",
+        "description": "Dive into the colorful and exciting world of match-3! Collect juicy ingredients on a plate to cook unique recipes and surprise everyone with delicious masterpieces. Uncover new ingredients, discover even more delicious recipes and become a master of culinary adventures! Ready for a fun and delicious challenge? Then start right now!",
+        "instructions": "Combine 3 required ingredients on the plate with your mouse or finger to get points Do not add more than 3 products to the plate ",
+        "category": "action",
+        "tags": [
+            "3D",
+            "Cooking",
+            "Food",
+            "Simulator"
+        ],
+        "image": "https://img.gamemonetize.com/w4h80fkwq0ipv6u699rm3mwr6wcfjpqx/512x384.jpg",
+        "downloads": "11.8K",
+        "rating": 3.9
+    },
+    {
+        "id": 4,
+        "name": "Would you Rather?",
+        "image": "https://img.gamemonetize.com/ixvzq0t2ry6tuekdtiih6fio7rur9scx/512x384.jpg",
+        "description": "Would You Rather is the ultimate group game to play with friends! This party app contains over 120 of the best Would You Rather questions. * Perfect group party game to play with friends. * Great game for playing with groups of friends and family * Works offline making it the perfect road trip game to play in the car *Hundreds of difficult Would You Rather clean and dirty questions await for your friends and family! Can you answer them all?",
+        "rating": 4.6,
+        "downloads": "19.9K",
+        "instructions": "Just Sellectv a Question ",
+        "category": "puzzle"
+    },
+    {
+        "id": 172,
+        "name": "Hot Dog Maker Fast-food - jeu de cuisine",
+        "description": "Kids get ready to enjoy the madness of real food in the most amazing street food games. Enter the fast food restaurant kitchen filled with hot sausages for a delicious hot dog. Start your own interesting street food store and get a set of fun cooking games.",
+        "instructions": "Exciting levels of spicy hot dog makers give you an extra dose of sausage fun Level mode and control mode of street cooking games are ready to surprise you One by one complete levels of chef cooking games and learn hot dog maker skills Then enjoy all t",
+        "category": "racing",
+        "tags": [
+            "Food",
+            "Hot",
+            "HTML5"
+        ],
+        "image": "https://img.gamemonetize.com/wac81fzayb89sgudciz1k98o2b4hsgep/512x384.jpg",
+        "downloads": "11.7K",
+        "rating": 4.9
+    },
+    {
+        "id": 194,
+        "name": "SpongeBob Cook : Restaurant Management & Food Game",
+        "description": "Join SpongeBob SquarePants on a hilarious culinary adventure through the restaurants and kitchens of Bikini Bottom! When Mr. Krabs realizes there’s more money to be earned in the fast-food business, the penny-pinching entrepreneur sets out to expand his restaurant empire starting with a breakfast stand outside of SpongeBob’s house…and who better to help him run it than SpongeBob SquarePants himself?",
+        "instructions": "- Easy to master gameplay - Simple controls and fun challenges - 5 exquisite menus to cook like a chef 20 recipes for breakfast family meals or fast food - Ingredients to buy in the store - Stars and coins to collect",
+        "category": "action",
+        "tags": [
+            "Burger",
+            "Cake",
+            "Candy",
+            "Chicken",
+            "Cook",
+            "Cooking",
+            "Fish",
+            "Food",
+            "Restaurant",
+            "Simulation",
+            "Spongebob",
+            "World"
+        ],
+        "image": "https://img.gamemonetize.com/ka9ia7ihvx474ci8badlelip4ocdnq68/512x384.jpg",
+        "downloads": "15.1K",
+        "rating": 3.6
+    },
+    {
+        "id": 3,
+        "name": "MCATLANTS",
+        "image": "https://img.gamemonetize.com/mzlr8k9dkmo5bsc17br69ygn99c2snfm/512x384.jpg",
+        "description": "In this new adventure, you must reach the portal. To reach the portal, you should collaborate with your friend and work as a team. Teamwork is essential to survive in the Atlantis world. Work together with your friend and triumph. Defeat all the monsters. You must vanquish all the monsters and collect the black coins. The black coins are necessary to create the portal.",
+        "rating": 4.3,
+        "downloads": "12.8K",
+        "instructions": " Played with WASD Arrow Keys Mobile touch control is available To throw the sword use the Q and P keys ",
+        "category": "adventure"
+    },
+    {
+        "id": 167,
+        "name": "Picnic Penguin",
+        "description": "Picnic Penguin is a puzzle game created by Neutronized. Help the penguin to push tasty treats onto the picnic blanket by pushing multiple blocks at a time and rearranging them to open the path. There are several worlds to unlock with a huge variation of puzzles to solve while finding coins to collect all the skins on the gashapon machine. Are you ready for a sick picnic?",
+        "instructions": "Push multiple blocks at a time and rearrange them to open the path and complete the levels ",
+        "category": "adventure",
+        "tags": [
+            "Burger",
+            "Cook",
+            "Cooking",
+            "Creation",
+            "Food",
+            "Ice"
+        ],
+        "image": "https://img.gamemonetize.com/t2dqiaytnn9ldc9ulp62jnuhqia1c0rt/512x384.jpg",
+        "downloads": "13.5K",
+        "rating": 4.2
+    },
+    {
+        "id": 133,
+        "name": "Mixed Juice",
+        "description": "The latest version of mixed fruit juice master is fresh and crisp. You can complete various operations with your fingers and enjoy the fun of your fingertips. It will be very interesting. Players will have their own tools here to make different flavors of fruit juice.",
+        "instructions": "With your hands squeeze the fruit into the juicer Be careful not to reach too far or you could easily get hurt Enough fruit is mixed and juiced to produce fruit teas of different colors and flavors",
+        "category": "sports",
+        "tags": [
+            "3D Games",
+            "Cook",
+            "Cooking",
+            "Cool",
+            "Crafting",
+            "cut",
+            "Food",
+            "Funny"
+        ],
+        "image": "https://img.gamemonetize.com/gwsadqnt3dkfpqz5p2xgaijii9coctsx/512x384.jpg",
+        "downloads": "4.0K",
+        "rating": 4.2
+    },
+    {
+        "id": 228,
+        "name": "Glory Chef",
+        "description": "Be the Glorious chef of all the time. Serve the best dishes by linking and collecting the ingredients as much and as fast as you can.",
+        "instructions": "Mouse - Left-click Touch-screen - Tap",
+        "category": "racing",
+        "tags": [
+            "Adventure",
+            "Cooking"
+        ],
+        "image": "https://img.gamemonetize.com/frkm7tva5ao9epiz42l9ldh3w783fgmv/512x384.jpg",
+        "downloads": "11.2K",
+        "rating": 4.9
+    },
+    {
+        "id": 31,
+        "name": "CHECKERS - Dames",
+        "image": "https://img.gamemonetize.com/i8j2zx1c8m4pm9f6xx7o1ycf02u0rn3a/512x384.jpg",
+        "description": "Hi gamers, I created my Checkers app as an example of a good checkers game for me and published it in the Store as a free board game for you. I hope you will enjoy it and have a lot of fun playing it. :)",
+        "rating": 4.6,
+        "downloads": "11.8K",
+        "instructions": "To win a game of checkers you have to move your pieces towards your opponent s side of the board You can move faster by jumping your opponent s pieces and removing them from the board ",
+        "category": "puzzle"
+    },
+    {
+        "id": 38,
+        "name": "Backgammonia - online backgammon game",
+        "image": "https://img.gamemonetize.com/rg00fk5s40g0kstrnynctsm1mkowdm14/512x384.jpg",
+        "description": "Backgammonia is a online backgammon game where you can play classic backgammon against computer or against a friend in 2 players mode. The old set is no longer needed, now you can play backgammon live at the internet. So lets roll the dice",
+        "rating": 4.6,
+        "downloads": "13.9K",
+        "instructions": "Mouse Touch ",
+        "category": "puzzle"
+    },
+    {
+        "id": 6,
+        "name": "Duo Water and Fire",
+        "image": "https://img.gamemonetize.com/iwwffks7uv61lj9mhvmz1263abloo3xh/512x384.jpg",
+        "description": "Have you ever participated in the adventure of Stickman Fire and Water before? You need to collect the key and reach the door. As Fire and Water, you must overcome all obstacles. You are two opposite siblings, one with the power of fire and one with the power of water. Collect the red and blue keys. After collecting the keys, gather all the gold and reach the doors. Be careful, sometimes its like a puzzle. It can challenge your intellect.",
+        "rating": 4.9,
+        "downloads": "17.6K",
+        "instructions": " Move to WASD Arrow Keys Double Jump available Mobile Touch Control The red player can pass through red water and the blue player can pass through blue water Neither player can pass through green water ",
+        "category": "adventure"
+    },
+    {
+        "id": 86,
+        "name": "EG Smiles",
+        "description": "The goal is to crushes all the smiles.. except the red one! So simple! Touch or click as fast as you can. Ecaps Games with tons of games for all ages and bringing fun to player Play free online games Have fun!",
+        "instructions": "Mouse or Touch",
+        "category": "puzzle",
+        "image": "https://img.gamemonetize.com/odnzqiijmnu2ibmdnditjw1n8jg4s62g/512x384.jpg",
+        "downloads": "8.2K",
+        "rating": 4.8
+    },
+    {
+        "id": 49,
+        "name": "Dice Math",
+        "description": "A fun math game for kids to learn basic arithmetic skills using dice. Improve addition, subtraction, multiplication, and division. The Dice Math Kids Game is an exciting and educational game designed for kids to learn and improve their arithmetic skills using dice. With this game, your child will have fun while practicing addition, subtraction, multiplication, and division.",
+        "instructions": "Mouse click or tap to play",
+        "category": "kids",
+        "image": "https://img.gamemonetize.com/n412slsirp0rlj8kjc4133gdecjvs72k/512x384.jpg",
+        "downloads": "12.8K",
+        "rating": 3.7
+    },
+    {
+        "id": 83,
+        "name": "Jewel And Santa Claus",
+        "description": "Break the jewel-obstacles to help the Santa Claus back to his home. 30 levels to enjoy. Play now! Merry Christmas!",
+        "instructions": "Tap Click to break the jewel-obstacles ",
+        "category": "puzzle",
+        "image": "https://img.gamemonetize.com/sezgl4hottucvxgld398s7s9u3g6j9yb/512x384.jpg",
+        "downloads": "14.9K",
+        "rating": 4.9
+    },
+    {
+        "id": 1,
+        "name": "Bitcoin Mining Simulator X",
+        "image": "https://img.gamemonetize.com/glarfn6gagok3igj8v2mqz5h9isrm7v3/512x384.jpg",
+        "description": "Bitcoin mining simulator game. Build up your bitcoin balance and get rich. Buy different pcs to keeps getting richer and build up your bitcoin empire. [This game does not give bitcoin]",
+        "rating": 4.5,
+        "downloads": "15.2K",
+        "instructions": "Click bitcoin to earn ",
+        "category": "puzzle"
+    },
+    {
+        "id": 225,
+        "name": "The Best Pizza",
+        "description": "Step by step cooking with 6 different types of pizza",
+        "instructions": "Mouse - Left-click Touch-screen - Tap",
+        "category": "kids",
+        "tags": [
+            "Cook",
+            "Cooking",
+            "Girl",
+            "Girls"
+        ],
+        "image": "https://img.gamemonetize.com/ei5ni6td9yd7nfb2hy53deosl36qpga4/512x384.jpg",
+        "downloads": "8.3K",
+        "rating": 4.3
     },
     {
         "id": 43,
@@ -487,274 +962,121 @@
         "rating": 4.3
     },
     {
-        "id": 45,
-        "name": "Emerland Solitaire",
-        "description": "Welcome to the wonderful country of Emerland! Dive deep into the world of magical tale where great mages battle for the Source of the ancient magic of the Cards! Explore mysterious lands accompanied by heroes that include a noble Knight, an Elven Archeress and a mystical Sorceress to defeat the malevolent Dark Master! Solve puzzles and collect combinations to complete difficult and varied levels! Get rewards and find new assistants! Prove that you have learned all of the mysteries of the magic of Solitaire and challenge the most difficult trials at the card table! This game is easy to learn, but are you brave enough to master it?",
-        "instructions": "Mouse click or tap to play",
+        "id": 41,
+        "name": "Combo Snake",
+        "description": "Control the snake to move and collect gems. Collecting gems of the same color will create nodes of the corresponding color on the snakes body. When three nodes of the same color are connected, they will be automatically eliminated. Eliminating nodes can earn you extra points. Hitting the wall or colliding with itself will lead to the end of the game. Successfully eliminating the entire snakes body results in a game victory.",
+        "instructions": "Computer Use the arrow keys to control Mobile phone Tap the screen to control the direction ",
         "category": "puzzle",
-        "image": "https://img.gamemonetize.com/p64058ybqqb8gwhmesfp87rsqm1m4o7n/512x384.jpg",
-        "downloads": "6.8K",
+        "image": "https://img.gamemonetize.com/s3qipzsmowz03sobcyid3h15cn3zssfv/512x384.jpg",
+        "downloads": "5.4K",
+        "rating": 4.6
+    },
+    {
+        "id": 121,
+        "name": "Open Restaurant Simulator",
+        "description": "Open Restaurant is a game where you have to run a restaurant and bring your management skills to every diner! Survive the daily target to get high score.",
+        "instructions": "simple game speed for customer satisfaction",
+        "category": "action",
+        "tags": [
+            "3D",
+            "3D Games",
+            "Restaurant",
+            "Simulation",
+            "Simulator"
+        ],
+        "image": "https://img.gamemonetize.com/yhzo0lrt6x8jk9kru67h321qfo0o8202/512x384.jpg",
+        "downloads": "16.3K",
         "rating": 3.9
     },
     {
-        "id": 46,
-        "name": "Magic Solitaire",
-        "description": "Welcome to the amazing magical world of solitaire! Here you can make yourself at home, playing layouts on a tavern table by the fireside, or in the shade of an oak tree by a majestic rushing waterfall. Your fairy helper will guide you through this magical world full of mystery and ancient secrets.",
-        "instructions": "Mouse click or tap to play",
-        "category": "puzzle",
-        "image": "https://img.gamemonetize.com/j2qpzxqk4a54ho37ilyxj5q06othpvjs/512x384.jpg",
-        "downloads": "1.2K",
-        "rating": 4.4
+        "id": 17,
+        "name": "Angela Dress up Game",
+        "image": "https://img.gamemonetize.com/geaxn44jupqac8f179a0azzf69vjsoq9/512x384.jpg",
+        "description": "Welcome to Angela's Dress-Up Game.",
+        "rating": 4.2,
+        "downloads": "6.8K",
+        "instructions": "Left Mouse Button Click ",
+        "category": "girl"
     },
     {
-        "id": 47,
-        "name": "Kids Education",
-        "description": "Kids Education is game that aims to educate kids in a funny way without them getting bored or feel like they are studying.The game has many different Sections like Puzzles, learn how to read,write etc.",
-        "instructions": "Mouse click or tap to play",
+        "id": 226,
+        "name": "Hoho's Cupcake party",
+        "description": "Help hoho to serve the cupcakes for the party.",
+        "instructions": "Mouse - Left-click Touch-screen - Tap",
         "category": "kids",
-        "image": "https://img.gamemonetize.com/iqjxnqk15h0mxj0be9hi3gxoh39dd16y/512x384.jpg",
-        "downloads": "9.6K",
-        "rating": 3.7
-    },
-    {
-        "id": 48,
-        "name": "Fantasy Forest 2",
-        "description": "Fantasy Forest &ndash; is a HTML5 Game! Cool match logic game. The game has 100 levels and an in-game store that will help you complete this puzzle game.You need to collect the required number of three types of blocks for each level and at the same time not leaving more than one extra block.",
-        "instructions": "mouse",
-        "category": "puzzle",
-        "image": "https://img.gamemonetize.com/61qhaiw98hx93lwa3tbe6u4tau5cbf9c/512x384.jpg",
-        "downloads": "6.4K",
-        "rating": 3.7
-    },
-    {
-        "id": 49,
-        "name": "Dice Math",
-        "description": "A fun math game for kids to learn basic arithmetic skills using dice. Improve addition, subtraction, multiplication, and division. The Dice Math Kids Game is an exciting and educational game designed for kids to learn and improve their arithmetic skills using dice. With this game, your child will have fun while practicing addition, subtraction, multiplication, and division.",
-        "instructions": "Mouse click or tap to play",
-        "category": "kids",
-        "image": "https://img.gamemonetize.com/n412slsirp0rlj8kjc4133gdecjvs72k/512x384.jpg",
-        "downloads": "12.8K",
-        "rating": 3.7
-    },
-    {
-        "id": 50,
-        "name": "Math Playground",
-        "description": "Math Playground is an online educational game that helps kids learn math. It's a great way for kids to practice their math skills and have fun at the same time. Math Playground is an online educational game that helps kids learn math. It's a great way for kids to practice their math skills and have fun at the same time. Players can use the game to help them learn basic math concepts, including addition and subtraction, multiplication and division, and geometry. The game has a variety of challenges and activities to keep kids entertained, and it is free to play.",
-        "instructions": "Tap To Play",
-        "category": "kids",
-        "image": "https://img.gamemonetize.com/8wttfggfhrxxl4xfhyslodt3ei83sw0u/512x384.jpg",
-        "downloads": "8.6K",
-        "rating": 5.0
-    },
-    {
-        "id": 51,
-        "name": "Maze Pac Runner",
-        "description": "Pac Maze Runner is a puzzle game online and a free game that you will be addicted to, which is perfect for kids. You just need to click the button to launch the beans, Pac man eats all the beans. Pays attention to the moving obstacles. It's time to test your reflexes, and the classic Pacman gameplay gives you an exciting experience.",
-        "instructions": "Mouse or tap to play",
-        "category": "puzzle",
-        "image": "https://img.gamemonetize.com/cf6pwvtlghlup2ncdhzjvacxi5paszja/512x384.jpg",
-        "downloads": "8.6K",
-        "rating": 4.5
-    },
-    {
-        "id": 52,
-        "name": " Christmas at Cattle Hill Jigsaw Puzzle Games For ",
-        "description": "Christmas Jigsaw puzzles game about Christmas! The most realistic jigsaw experience you can get on a smart phone.It is a fun jigsaw puzzle game applicable for all ages.",
-        "instructions": "Mouse or tap to play",
-        "category": "puzzle",
-        "image": "https://img.gamemonetize.com/l8c732cc1lyojfeofszhn4b265om5611/512x384.jpg",
-        "downloads": "13.4K",
-        "rating": 3.6
-    },
-    {
-        "id": 53,
-        "name": "Bubble Hunter",
-        "description": "Bubble Hunter is a cool bubble shooter game. You are a little boy who goes on an adventurous journey into the jungle. There you should help him unlock the valuable objects from times long past play it on iyigames.com. Play with your mouse or your fingers and always match 3 or more of the same bubbles in the sky to remove them from the game and unlock the treasure. Bubble Hunter is a classic bubble shooter play it on iyigames.com. Bubble Hunter has over 1000 stages and still playable with no internet! You can aim and shoot to pop the bubble to make the best bubble blast! Continuous lucky shot will activate your bubble shooter boosters and you can pop the stage easy!",
-        "instructions": "Mouse Match Shoot bubbles ",
-        "category": "puzzle",
-        "image": "https://img.gamemonetize.com/ajav2b2twudkbn3oy3if8s2tx99kwjxl/512x384.jpg",
-        "downloads": "15.5K",
-        "rating": 4.3
-    },
-    {
-        "id": 54,
-        "name": "Musical Bubble",
-        "description": "Welcome to Musical Bubble! Burst bubbles of the same color as fast as possible to earn points and finish all the levels. Use three different powers to help you: the aim, the bomb and the quick shot.",
-        "instructions": "Aim and shoot the bubble to make a chain of 3 or more same-color bubbles ",
-        "category": "puzzle",
-        "image": "https://img.gamemonetize.com/wrfwczqiwv93yheyu2b08pk9x3rknffl/512x384.jpg",
-        "downloads": "9.5K",
-        "rating": 4.9
-    },
-    {
-        "id": 55,
-        "name": "Animal Tiles",
-        "description": "Animal Tiles Game requires you to match 3 blocks of the same element, you will pass the level when all tiles are matched. Which is different with Mahjong or other block puzzle game. Tile Master Match consists a large number of levels that get progressively more difficult.",
-        "instructions": " Tap to match 3 blocks of the same element",
-        "category": "puzzle",
-        "image": "https://img.gamemonetize.com/xlw1gis0phxca7qwg2m20ho2r88j5rws/512x384.jpg",
-        "downloads": "13.0K",
-        "rating": 4.3
-    },
-    {
-        "id": 56,
-        "name": "Fury Dash",
-        "description": "Fury Dash is a match-3 game in which you must touch groups of diamonds to make them explode. Chain explosions as fast as you can to activate fury mode and use your magical powers to earn lots of points. Be careful: If you touch a group that contains less than three diamonds, it won't explode!",
-        "instructions": "Show your superiority through two game modes In the Time Trial mode you have two minutes to earn the biggest score In the Survival mode you must reach an ever-growing score How far can you go ",
-        "category": "puzzle",
-        "image": "https://img.gamemonetize.com/gksbldmjr5qnib5keoje0vd9gc98wcp0/512x384.jpg",
-        "downloads": "0.2K",
+        "tags": [
+            "Arcade",
+            "Cake",
+            "Cook",
+            "Cooking"
+        ],
+        "image": "https://img.gamemonetize.com/m9kqhgtg2lmbvsv6ahkrdfqddb7246oq/512x384.jpg",
+        "downloads": "6.6K",
         "rating": 3.8
     },
     {
-        "id": 57,
-        "name": "Fruits Juice Crush",
-        "description": "Fruit Juice Crush is an amazing match3 puzzle game! Swipe to match 3 or more Fruit juices of the same color to clear them from the board and complete your mission. Explore tons of challenging levels and try to unlock them All. Good Luck! Game by vodogame.com",
-        "instructions": "swipe to match elements",
+        "id": 120,
+        "name": "Santa Cooking",
+        "description": "Santa cooking is one of the newest and most addictive restaurant food cooking games, featuring time management skills, strategy, and simulation fun. Show your cooking skills by making delicious burgers and toast to become a master chef!",
+        "instructions": "Cooking is crazy Tap ingredients to craft food ",
         "category": "puzzle",
-        "image": "https://img.gamemonetize.com/30cf93dr50hzhm8tslo7412ttk0hg796/512x384.jpg",
-        "downloads": "8.8K",
-        "rating": 4.5
+        "tags": [
+            "Christmas",
+            "Cooking",
+            "Funny",
+            "Puzzle",
+            "Skills",
+            "Strategy",
+            "Timing"
+        ],
+        "image": "https://img.gamemonetize.com/z6xc8b32h9hjfyk7gzagezfwxmn1n1p4/512x384.jpg",
+        "downloads": "14.5K",
+        "rating": 4.3
     },
     {
-        "id": 58,
-        "name": "Fruits Pop",
-        "description": "Welcome to a new Fruits bubble shooting game. Fruits Pop comes with a new game logic. Help the little pets trapped inside by shooting fruits. you need to shoot 2 or more identical fruit to clear them from the board. The game will help you sometimes with some magical bubbles. Explore some amazing and challenging levels. Let's pop all fruits",
-        "instructions": "Slide to aim and shoot",
-        "category": "puzzle",
-        "image": "https://img.gamemonetize.com/jrkzac7i18hbvjnub9dl0d7lgztbmyjz/512x384.jpg",
-        "downloads": "2.0K",
-        "rating": 4.6
-    },
-    {
-        "id": 59,
-        "name": "Candy Bonanza 5 in Row",
-        "description": "Click the candy you want to move, then click the place that you want it to go. but if other candies were on the moving route, you cannot pass through. Your mission is to move candies to align the same color of candies for 5 or more in a horizontal, vertical or diagonal line to crush. Get a high score and visite hyhygames.com for more games",
-        "instructions": "click on candy then click on the place you want it to go ",
-        "category": "puzzle",
-        "image": "https://img.gamemonetize.com/ddc0mpt6pn54qibvvncg9ttncf5b284f/512x384.jpg",
-        "downloads": "19.3K",
-        "rating": 4.1
-    },
-    {
-        "id": 60,
-        "name": "Bejeweled Classic",
-        "description": "\"Bejeweled may be the most incredibly addictive action-think game ever created.\" - Games Magazine Combine gems in this cult title and explore 6 stunning game modes: compete in a frantic race against the clock in Lightning mode, get the best hands to win in Poker mode, and more! Create special power gems like Fire Gems, Star Gems, Hyper Cubes or Supernova Gems. Collect beautiful Bejeweled badges and achievements, climb the Game Center leaderboards, and enjoy stunning graphics optimized for the Retina display! What are you waiting for? Dive into this legendary title and rediscover the fascinating world of Bejeweled!",
-        "instructions": "",
-        "category": "puzzle",
-        "image": "https://img.gamemonetize.com/qwl0zt1wyh78bxjhhax2hn30sv69ssy0/512x384.jpg",
-        "downloads": "12.8K",
-        "rating": 4.8
-    },
-    {
-        "id": 61,
-        "name": "Zumba Ocean",
-        "description": "Zumba Ocean with over 59 levels is an online Boy and Girl game. Zumba Ocean plays like all the Zuma series of arcade puzzle games with bottles and diamonds models. With the same match 3 play rules, you are required to destroy all jewels in the chain and get the marked scores at each level. Glad you will complete all targets and win three stars at all levels! You can also find more games at superkidgames.com, pick up one and have fun!",
-        "instructions": "Match 3 or more same-coloured gems to eliminate them Destroy all gems in the chain before it hits the end ",
-        "category": "puzzle",
-        "image": "https://img.gamemonetize.com/ixcce3ic7s20gybem1au09ject2k5rpa/512x384.jpg",
-        "downloads": "15.7K",
-        "rating": 4.6
-    },
-    {
-        "id": 62,
-        "name": "Professor Bubble Online",
-        "description": "Professor Bubble needs your help! In his excitement over his new bubble machine, he has flooded his own laboratory with bubbles. You've been equipped with a bubble shooter to help clear the mess, but there is something you need to know. These bubbles will only pop if they are clustered into groups of three or more. So lineup every shot perfectly, and pay attention to the colors!",
-        "instructions": "Use Mouse Or keyboard To Play",
-        "category": "puzzle",
-        "image": "https://img.gamemonetize.com/br4oehlmvw2iaptrqwktwdg9yztdspq4/512x384.jpg",
-        "downloads": "17.2K",
-        "rating": 4.0
-    },
-    {
-        "id": 63,
-        "name": "Candy Bonbon",
-        "description": "Candy Bonbon is puzzle match3 game. Tap to Crush 3 or more similar Candies and complete your mission. Collect boosters and use them to complete your level. Explore tons of amazing challenging levels. Have fun",
-        "instructions": "tap to crush candies",
-        "category": "puzzle",
-        "image": "https://img.gamemonetize.com/72zd2l22gt8du68vh8oj5xfoug5e6jee/512x384.jpg",
-        "downloads": "1.4K",
-        "rating": 4.6
-    },
-    {
-        "id": 64,
-        "name": "Sand.Draw",
-        "description": "Draw On Sand in that you can write a note or message to someone on your screens as well as suitable for all because they could develop their sketch skill using sand art on sand. Draw on Sand or Sketch Drawing is a best photography app to make it simple to used and draw a sketch on like a sand on beach",
-        "instructions": "Draw On Sand in that you can write a note or message to someone on your screens as well as suitable for all because they could develop their sketch skill using sand art on sand Draw on Sand or Sketch Drawing is a best photography app to make it simpl",
-        "category": "kids",
-        "image": "https://img.gamemonetize.com/u39grqhd0u2u599vesihb9lhiqhm0z8u/512x384.jpg",
-        "downloads": "3.3K",
-        "rating": 4.4
-    },
-    {
-        "id": 65,
-        "name": "Tie Dyeing 3D",
-        "description": "Here we go WIth Best Family Satisfaction Game , Make Your Colors Shirts pants With Make Tie Dying Perfectly With Different colors Have Fun T- Shirts Pants Many More . The BEST Way To Tie and Dye That You HAVEN'T Tried like Master 3D No need to mix up your dyes for the ultra-cool ice tie-dye technique! Let the ice do the work to produce one-of-a-kind watercolor tie-dye effects. Tie-Dye Techniques in Your Summer FIND IT FAST Ultra Bright Tie and Dye! Stuff to Tie Dying Method Extra Large Tie-Dye Kits 8-Color Tie-Dye Kits 5-Color Tie-Dye Kits 3-Color Tie-Dye Kits Two-Minute Tie - Dye Theme Kits Activity Kits 1-Color Tie-Dye Kits Tie-Dye Refill Packs How to Play Tie Dyeing! Master 3D Game : Just Dip Cloths In Colors make it Perfect Just Me. Tie Dyeing Everything.",
-        "instructions": "Here we go WIth Best Family Satisfaction Game Make Your Colors Shirts pants With Make Tie Dying Perfectly With Different colors Have Fun T- Shirts Pants Many More The BEST Way To Tie and Dye That You HAVEN T Tried like Master 3D No need to mix ",
+        "id": 147,
+        "name": "Chef Righty Mix",
+        "description": "Chef Right Mix is a great cooking challenge in which you can test your cooking skills. Help our chef prepare the most delicious dishes. For that purpose, you need to get the ingredients for your recipe, mix them well, cook and serve. Click on the food or flavoring that you want to use for your dish and then click on the Add button to put it in the basket. When you have no more space in your basket you can start cooking. Finally, when you finish cooking, then you can serve your wonderful creation. Cross your fingers to make the best meal ever and earn a high score. If you mix up the ingredients, you will get a pile of crap that nobody will like to eat. Have fun and good luck with Chef Right Mix!",
+        "instructions": "Cross your fingers to make the best meal ever and earn a high score ",
         "category": "girl",
-        "image": "https://img.gamemonetize.com/40n9v467fiewtl8mgi9hhigovtke4vw8/512x384.jpg",
-        "downloads": "0.6K",
-        "rating": 3.6
-    },
-    {
-        "id": 66,
-        "name": "Shopping Mall For Rich Girls Supermarket Cashier",
-        "description": "Crazy shopping lovers! A new store has opened in the city and they are offering the most exclusive trendy designer clothes, cosmetic kits, shoes, fashion jewelry and bags. Go out with your rich bff (best friend forever) at shopping time to buy the most expensive and popular brand clothes, shoes, makeover accessories and jewelry fashionista products. Live a wonderfully quiet life and enjoy your time with multi-daughter friends. Shop till you are tired! Go from shop to shop in this supermarket game simulator to see full style superstores, dress up in designer boutiques with personal stylish friends. Get a princess makeover, dress up in the best clothes and look like a celeb in the city's biggest shopping mall. Dress and change like a ramp model and walk the cat the way you are in a fashion competition. Show your VIP status and live a good life with unlimited money shopping. Shopping malls for rich girls have a huge crowd at the store to buy all the goods on Black Friday at a 50% sale discount. Take advantage of 50% of Black Friday offer and shop in this shopping game for girls. Shopping Mall is a supermarket shopping and cashier simulator game for rich girls. Little boys and girls join the best cash registers, supermarket managers and shopping games to experience the virtual reality of real-life mall shopping. Play a role as a supermarket manager and as a pro treasurer to experience the fun frenzy with crazy store customers. Sell elegantly designed and fashionable clothing in 50 game levels of entertainment and adventure games for girls. For girls you can buy a variety of dresses from boutique stores including pants, shirts, tops, skirts and wedding dresses. Shoes include sandals and heels. Purchase stylish jewelry in gold and diamonds. Many designed necklaces, rings and bracelets are also available. Buy classy designs and glass, hats, and classy design hats on sale on Black Friday. The shopping mall game also has a cosmetic kit factory store where you can buy all makeup kit products from popular factories. Makeover accessories include nail polish, lipstick, face spa mask and eye shades. Finally, pretend to be the cashier at the cash register counter and manage the money. Scan shopping items, put them in shopping bags and collect cash money. Manage money in a cashier machine. This Cahier game is as much fun as any grocery, cafe and fast food shop game. Now download this shopping mall for rich girls games and enjoy the mania. Features - 50 levels of shopping, cash registers and time management fun. - The shoe store includes all types of shoes such as high heels and sandals. - Clothes shopping from a wide range of prom party wear, jeans, wedding dresses and designer shirts. - jewelry accessories Includes trendy style necklaces, rings and bracelets. - Cosmetic stores have a wide range of cosmetic makeover accessories such as nail polish and lipstick. - Learn bill payments, cash management and time management at the cash counter. - High quality amazing graphics and exciting game play.",
-        "instructions": "Use Mouse To Play and Follow introduction",
-        "category": "girl",
-        "image": "https://img.gamemonetize.com/eimvyfp8j2f92g5wo78eau998o6ufd6u/512x384.jpg",
-        "downloads": "14.2K",
-        "rating": 3.7
-    },
-    {
-        "id": 67,
-        "name": "Supermarket: Shopping Games for Kids",
-        "description": "Kids supermarket is funny games for kids with educational elements. Mommy makes a list of the goods that you need to buy in the supermarket. Daddy, Hippo and her brother have taken a trolley and gone to the supermarket to find all products that Mommy has added to the shopping list. At the top of the screen there a list of goods you must find. Help Hippo to find all the products which are in the list. Look attentive at the shop shelves and when you see a product from the list, just put it to the trolley. Do not forget to look for the Daddy and little brother, they always try to throw in the basket something extra.",
-        "instructions": "Use Mouse To Play and Follow introduction",
-        "category": "kids",
-        "image": "https://img.gamemonetize.com/52apelyub6si97fd27j9d1uqkot0cz8i/512x384.jpg",
-        "downloads": "17.6K",
+        "tags": [
+            "Click",
+            "Clicker",
+            "Cook",
+            "Cooking",
+            "Fire",
+            "Food",
+            "HTML",
+            "HTML5"
+        ],
+        "image": "https://img.gamemonetize.com/wz0213lj9sf763d5t4cbqckbqpf70872/512x384.jpg",
+        "downloads": "2.6K",
         "rating": 3.5
     },
     {
-        "id": 68,
-        "name": "Space Heroes Match",
-        "description": "A fun and addicting match-3 game. Match the same tiles to collect the powers for the corresponding hero, to fire at the enemy spaceships. Play as fast as possible before the countdown timer runs out, to win a high score. Features: - colorful tiles - nice animations and effects PLAY NOW!",
-        "instructions": "Tap and drag to match the tiles ",
-        "category": "puzzle",
-        "image": "https://img.gamemonetize.com/2l6bemyentqp7b7sabujofb8n9g5lcho/512x384.jpg",
-        "downloads": "4.7K",
-        "rating": 3.8
-    },
-    {
-        "id": 69,
-        "name": "Farm Heroes Match",
-        "description": "A fun and addicting match-3 game. Match the same tiles to collect the powers for the corresponding hero, to fire at the harmful insects. Play as fast as possible before the countdown timer runs out, to win a high score. Features: - colorful tiles - nice animations and effects PLAY NOW!",
-        "instructions": "Tap and drag to match the tiles ",
-        "category": "puzzle",
-        "image": "https://img.gamemonetize.com/vsuoa6kpja9vechi04tqm4uvg8ot39dy/512x384.jpg",
-        "downloads": "14.4K",
-        "rating": 3.8
-    },
-    {
-        "id": 70,
-        "name": "Xmas Match Deluxe ",
-        "description": "Swap adjacent gifts in order to make a horizontal or vertical row of 3 identical gifts. To complete a level you need to collect required number of gifts in limited turns. Collect more than 5 gifts to get a spell (power-up) which will show up on the right side of the screen. Cast spells by dragging and dropping it on the target. The \"hint\" and \"double\" spells are cast by clicking on them. Click next to know about spells.",
-        "instructions": "Use mouse or touch to play this game ",
-        "category": "puzzle",
-        "image": "https://img.gamemonetize.com/3o0kfb206ee8sjh1q14uu8cc2eiywur0/512x384.jpg",
-        "downloads": "18.5K",
-        "rating": 4.7
-    },
-    {
-        "id": 71,
-        "name": "Christmas Block Collapse",
-        "description": "Touch or click to collect similar items that are horizontally or vertically connected to each other. You have to collect all the items from the board. If you collect a group of 2 or more you will get score. If you collect more than 7 items in a single turn you will get a random power-up (Bomb or Arrow or Magnet). If you collect only 1 item in a turn, 200 points will be deducted from your score. Use the information in the Projection box to see how much each collection is worth. Reach or pass each level's Target amount and clear all the items in the board to go on to the next level. That's okay, if you don't reach the target amount as you can always retry the level.",
-        "instructions": "Touch or click to collect similar items that are horizontally or vertically connected to each other ",
-        "category": "puzzle",
-        "image": "https://img.gamemonetize.com/iv0cl7ne6sd244flk83qa4dlb389n0l6/512x384.jpg",
-        "downloads": "12.6K",
-        "rating": 3.8
+        "id": 114,
+        "name": "Cooking Challenge",
+        "description": "A hungry customer is an impatient customer. Which needs to be served as soon as possible. This is exactly what will happen in the game Cooking Challenge. Your restaurant is open. Quickly put cutlets on the pan, throw potato straws into the boiling oil and turn on the beverage dispenser. All this will be needed soon and let the dishes be ready in advance so that hungry customers do not wait and are not nervous. Serve quickly, get paid a solid tip, complete the tasks of the levels. And there will be fifty of them. Buy equipment, upgrade it and all this for the fastest service in Cooking Challenge.",
+        "instructions": "Use mouse or tap on the screen ",
+        "category": "racing",
+        "tags": [
+            "Burger",
+            "Casual",
+            "Food",
+            "Fun",
+            "Funny",
+            "Girls",
+            "HTML5",
+            "Hypercasual",
+            "Kids",
+            "Mobile",
+            "Restaurant",
+            "Skill",
+            "Strategy"
+        ],
+        "image": "https://img.gamemonetize.com/ygyegpn6a3817y9yt3vl9ifec6qc50jk/512x384.jpg",
+        "downloads": "3.5K",
+        "rating": 4.5
     },
     {
         "id": 72,
@@ -767,74 +1089,32 @@
         "rating": 4.9
     },
     {
-        "id": 73,
-        "name": "Planets Match 3",
-        "description": "Swap blocks in order to make a group of 3 or more identical planets adjacent horizontally or vertically. Keep matching till you match the required number of planets. Each level includes different planets which you need to match.",
-        "instructions": "Use mouse or touch pad to play this game ",
-        "category": "puzzle",
-        "image": "https://img.gamemonetize.com/0cpenqml9w1t1f98kx3k3agowpqbekdf/512x384.jpg",
-        "downloads": "0.7K",
-        "rating": 4.1
+        "id": 33,
+        "name": "Color Block",
+        "image": "https://img.gamemonetize.com/e7n8gmeqt1smz8rrels22x225028fgrt/512x384.jpg",
+        "description": "Puzzle de remplissage de couleur est l'un des meilleurs jeux 3D satisfaisants, avec des graphismes de haute qualité, un simple contrôle, des effets d'animation sympas et des superbes mécanismes de jeu. Il vous mènera à travers un monde impressionnant rempli d'une variété de nouvelles formes à remplir de couleurs et d'obstacles difficiles pour une expérience de jeu incroyable. Faites une pause dans votre travail et rafraîchissez votre cerveau dans ce nouveau jeu 3D de cube de couleur. Vous allez l'adorer!",
+        "rating": 4.7,
+        "downloads": "14.3K",
+        "instructions": "Puzzle de remplissage de couleur est l un des meilleurs jeux 3D satisfaisants avec des graphismes de haute qualit un simple contr le des effets d animation sympas et des superbes m canismes de jeu Il vous m nera travers un monde impressionnant remp",
+        "category": "puzzle"
     },
     {
-        "id": 74,
-        "name": "Bubble Shooter Egypt",
-        "description": "Collect all the antiques from the Bubbles. The antiques will be collected when the bubble shot by you, combines with a group of 3 or more bubbles of same type. You must complete a level within allowed time. You will get better score if you complete the level early.",
-        "instructions": "Use mouse or touch pad to shoot the bubble ",
-        "category": "puzzle",
-        "image": "https://img.gamemonetize.com/54m5059woy9airt0469xzuow7sbnmaps/512x384.jpg",
-        "downloads": "6.3K",
-        "rating": 4.5
-    },
-    {
-        "id": 75,
-        "name": "Big Farm Match 3",
-        "description": "Use left, right and down keys to move the blocks. Use up key to rotate the blocks. Alternatively you can tap or click buttons to do the same. Your target is to fit the blocks to make a row of blocks",
-        "instructions": "Use touch buttons or mouse or keyboard to play this game ",
-        "category": "puzzle",
-        "image": "https://img.gamemonetize.com/natri7ls15nrob8fupuml306oun91cip/512x384.jpg",
-        "downloads": "12.4K",
-        "rating": 4.4
-    },
-    {
-        "id": 76,
-        "name": "Vegetables Rush",
-        "description": "Vegetables Rush is puzzle Match game with colorful and beautiful graphics, collect three or more of the same fruits or vegetables.",
-        "instructions": "connect the vegetables 3 or more ",
-        "category": "puzzle",
-        "image": "https://img.gamemonetize.com/i10i99q1909mcnm6p2tdbr01u9goc0ou/512x384.jpg",
-        "downloads": "15.5K",
-        "rating": 3.6
-    },
-    {
-        "id": 77,
-        "name": "Corona Crush Saga",
-        "description": "Corona Crash Saga, do you want to destroy these bad viruses that affect the whole world? To get the highest score and destroy the most viruses, you have to make the same viruses in a series of three or more pieces. Do not think too much, time is running out, be quick and delete viruses from the earth.",
-        "instructions": "Corona Crash Saga do you want to destroy these bad viruses that affect the whole world To get the highest score and destroy the most viruses you have to make the same viruses in a series of three or more pieces Do not think too much time is running o",
-        "category": "puzzle",
-        "image": "https://img.gamemonetize.com/g4b7wfy4cgmmn3a7r5jeuk6ifxmgyk1f/512x384.jpg",
-        "downloads": "3.6K",
-        "rating": 4.2
-    },
-    {
-        "id": 78,
-        "name": "Pirates the match 3",
-        "description": "Swap and match gems on your journey with pirates through unknown lands and seas in this addictive and exciting match-3 game. Dig treasures, open chests, fight enemies and fulfil other tasks you are given in each level. Combine gems to create mighty ones and then combine these new gems to create even more powerful ones!",
-        "instructions": "Swap gems to create rows and columns of at least three Make longer matches to forge mighty new gems Experiment with these new gems and find all possible match combinations ",
-        "category": "puzzle",
-        "image": "https://img.gamemonetize.com/r9rjm8hvdtc4o37xm41pzuolphj8r72i/512x384.jpg",
-        "downloads": "9.9K",
-        "rating": 4.9
-    },
-    {
-        "id": 79,
-        "name": "Castle Defense",
-        "description": "Defend your castle in a relentless battle against hordes of terrifying enemies! Play as a range of characters, including Severidric the wizard and Gendra the princess and stop orcs, trolls, bats and other scary creatures from invading your castle. Along the way collect coins that allow you to buy special power ups, such as magical staffs, fireballs and poison. You'll need to use all the magical spells in your power to help you suceed in your quest to keep the evil forces away!",
-        "instructions": "Defend your castle in a relentless battle against hordes of terrifing enemies Cast your spells destroy the enemies and increase your magical powers The fate of the kingdom depends upon you and your powerful magic ",
-        "category": "puzzle",
-        "image": "https://img.gamemonetize.com/8ho6im78j2n2nk4g9dcg23pvxin8op4w/512x384.jpg",
-        "downloads": "1.8K",
-        "rating": 4.8
+        "id": 156,
+        "name": "My Restaurant Empire:Decorating Story Cooking Game",
+        "description": "Welcome to the adventure of building a great Restaurant Empire, the newest top 3D cooking game of the time-management game series .",
+        "instructions": "Double tap to throw away a dish on a plate Tap to start cooking and tap to serve your hungry customers ",
+        "category": "action",
+        "tags": [
+            "Cook",
+            "Cooking",
+            "Decoration",
+            "Game",
+            "Games",
+            "Restaurant"
+        ],
+        "image": "https://img.gamemonetize.com/6p8bkuxnstg9pwki0nuylj5v9m4h3xgq/512x384.jpg",
+        "downloads": "2.9K",
+        "rating": 3.9
     },
     {
         "id": 80,
@@ -847,214 +1127,70 @@
         "rating": 4.0
     },
     {
-        "id": 81,
-        "name": "Jewel Christmas",
-        "description": "It's Xmas time and what better way to celebrate than with some explosive matching action! Match three gingerbread men, stockings, trees, candy canes, presents or baubles and watch them explode! With five festive game modes and more challenges along the way this game is a perfect gift for you this Xmas! Expect plenty of jewel busting, exploding match 3 heaven with this cracker of a game!",
-        "instructions": "Match any 3 decorations in a line to pop them Line up 4 or more of the same decorations and create Xmas Explosion decorations Match them or try to combine them to create even bigger blasts The more decorations you pop the more points you score ",
+        "id": 26,
+        "name": "Air Hockey Glow: 2 Players",
+        "image": "https://img.gamemonetize.com/od325ee0a7h8dhk3xhykdwddvpuqamsa/512x384.jpg",
+        "description": "Great air hockey with modern glow style. Move finger and place the puck on the screen. Control your ball by drag speed. Play air hockey with multiplayer offline on your device! It's like a ice hockey, but in the glow space world. Challenge yourself with the computer opponents!",
+        "rating": 4.6,
+        "downloads": "13.4K",
+        "instructions": "",
+        "category": "sports"
+    },
+    {
+        "id": 191,
+        "name": "Jungle Monkey Run",
+        "description": "Monkey kong is very hungry.So he is finding food in the jungle.But There are many many crises in the jungle like savage,spider,fountain,bouncing flowers,and so on. The jungle is so danger.Please help monkey kong running out of the jungle and collect more bananas.",
+        "instructions": "",
+        "category": "kids",
+        "tags": [
+            "Action",
+            "Adventure",
+            "Cooking",
+            "jump",
+            "Monkey"
+        ],
+        "image": "https://img.gamemonetize.com/mbhcls0yajexc0ss1y9xnugsiwr974pu/512x384.jpg",
+        "downloads": "5.5K",
+        "rating": 3.6
+    },
+    {
+        "id": 61,
+        "name": "Zumba Ocean",
+        "description": "Zumba Ocean with over 59 levels is an online Boy and Girl game. Zumba Ocean plays like all the Zuma series of arcade puzzle games with bottles and diamonds models. With the same match 3 play rules, you are required to destroy all jewels in the chain and get the marked scores at each level. Glad you will complete all targets and win three stars at all levels! You can also find more games at superkidgames.com, pick up one and have fun!",
+        "instructions": "Match 3 or more same-coloured gems to eliminate them Destroy all gems in the chain before it hits the end ",
         "category": "puzzle",
-        "image": "https://img.gamemonetize.com/is9rk8sdsodp2bvf0f54qn0jy5kahl9z/512x384.jpg",
-        "downloads": "1.0K",
+        "image": "https://img.gamemonetize.com/ixcce3ic7s20gybem1au09ject2k5rpa/512x384.jpg",
+        "downloads": "15.7K",
         "rating": 4.6
     },
     {
-        "id": 82,
-        "name": "Candy Match Saga",
-        "description": "Candy Match Saga is a match 3 game like candy crush game",
-        "instructions": "match 3 or more candy to earn score",
-        "category": "puzzle",
-        "image": "https://img.gamemonetize.com/4i10763brhdq07kicyzgtp05rx2ci03m/512x384.jpg",
-        "downloads": "3.0K",
-        "rating": 3.5
-    },
-    {
-        "id": 83,
-        "name": "Jewel And Santa Claus",
-        "description": "Break the jewel-obstacles to help the Santa Claus back to his home. 30 levels to enjoy. Play now! Merry Christmas!",
-        "instructions": "Tap Click to break the jewel-obstacles ",
-        "category": "puzzle",
-        "image": "https://img.gamemonetize.com/sezgl4hottucvxgld398s7s9u3g6j9yb/512x384.jpg",
-        "downloads": "14.9K",
-        "rating": 4.9
-    },
-    {
-        "id": 84,
-        "name": "Jewel Pop",
-        "description": "Get ready to match and pop some colourful balloons! Crush through blocks and other obstacles standing in your way. The classic turn based match-3 arcade with lots of challenging levels awaits you!",
-        "instructions": "Aim Swap and match colourful balloons to form chains of 3 or more of the same colour You will be rewarded with explosive power-ups if you match 4 or more ",
-        "category": "puzzle",
-        "image": "https://img.gamemonetize.com/67u3mkrfs6fd5c3mjg2htccbzkkirltx/512x384.jpg",
-        "downloads": "10.1K",
-        "rating": 4.1
-    },
-    {
-        "id": 85,
-        "name": "Desert Rush",
-        "description": "Desert Rush is a typical arcade matching game. Your goal is to connect the dots. Three animals surviving their way out from their hunters. Master Chain reactions Bigger the chain stronger the attack. A chain comprising of 12+ gems will yield a surprise Ariel attack. Unique game fun to play, epic adventure. There are about 30+ unique levels for you to challenge yourself. Bosses change with every stage and difficulty becomes more fun after clearing each level.",
-        "instructions": "Connect Gems to win The Goal of the Game is to have the Hero reach the flag In order to move the horse forward you need to create a chain of 3 or more poisonous mushrooms but they also deplete your life Bigger the chain - stronger the attack A",
-        "category": "puzzle",
-        "image": "https://img.gamemonetize.com/zrrzl1932zgh5phfqaq33axx6tv3pi8p/512x384.jpg",
-        "downloads": "2.3K",
-        "rating": 3.8
-    },
-    {
-        "id": 86,
-        "name": "EG Smiles",
-        "description": "The goal is to crushes all the smiles.. except the red one! So simple! Touch or click as fast as you can. Ecaps Games with tons of games for all ages and bringing fun to player Play free online games Have fun!",
-        "instructions": "Mouse or Touch",
-        "category": "puzzle",
-        "image": "https://img.gamemonetize.com/odnzqiijmnu2ibmdnditjw1n8jg4s62g/512x384.jpg",
-        "downloads": "8.2K",
-        "rating": 4.8
-    },
-    {
-        "id": 87,
-        "name": "Ice Cream Toppings",
-        "description": "Ice Cream Toppings is a delightful and fast-paced online game made especially for kids who love sweet challenges! At the top of the screen, you&rsquo;ll see a list of yummy ice cream orders waiting to be completed. Your mission is to match each order perfectly by adding the right toppings and flavors. Test your memory, speed, and creativity in this fun ice cream-making adventure!",
-        "instructions": "Mouse to play ",
+        "id": 103,
+        "name": "Pizza Cafe Tycoon",
+        "description": "Are you ready to build a successful cafe empire with you? You currently own a pizza shop and customers love their delicious pizza. Your task is to deliver various pizza orders on time and quickly. Remember, speed and quality are everything in the cafe business. You have to work with dedication to ensure the satisfaction of your customers. Manage orders quickly and effectively without slowing down and offer your customers an unforgettable experience. Build your own strategies for success in your cafe empire and seize opportunities to grow your business.",
+        "instructions": "How to play Desktop Mouse Mobile Touch control ",
         "category": "action",
         "tags": [
-            "Adventure",
-            "Arcade",
-            "Cooking",
-            "Creation",
-            "Funny",
-            "Girls",
-            "Hypercasual",
-            "Matching",
-            "Memory",
-            "Puzzle",
-            "Skill"
-        ],
-        "image": "https://img.gamemonetize.com/b0ykbbsn67tx1enbc6zfm90xcd17qfxc/512x384.jpg",
-        "downloads": "13.1K",
-        "rating": 4.4
-    },
-    {
-        "id": 88,
-        "name": "Burger Rush Restaurant",
-        "description": "Welcome to your burger paradise! Dive into the sizzling world of restaurant management where every burger tells a story. Craft mouthwatering creations from a diverse range of ingredients, meeting each customers unique taste buds. Serve fast, combine cleverly, and watch your tiny burger joint grow into the town&rsquo;s favorite spot for delicious burgers. Your burger mastery starts now!",
-        "instructions": "Touch Click the ingredients to make a burger and click the customer to serve it",
-        "category": "adventure",
-        "tags": [
-            "Arcade",
             "Cook",
             "Cooking",
-            "Restaurant"
+            "Game",
+            "Restaurant",
+            "Simulation",
+            "Street Fighting",
+            "Timing"
         ],
-        "image": "https://img.gamemonetize.com/zsn8chm3hmle88thmv96ok6ch9o0eifw/512x384.jpg",
-        "downloads": "9.2K",
-        "rating": 4.7
-    },
-    {
-        "id": 89,
-        "name": "Cook it 3D",
-        "description": "Dive into the colorful and exciting world of match-3! Collect juicy ingredients on a plate to cook unique recipes and surprise everyone with delicious masterpieces. Uncover new ingredients, discover even more delicious recipes and become a master of culinary adventures! Ready for a fun and delicious challenge? Then start right now!",
-        "instructions": "Combine 3 required ingredients on the plate with your mouse or finger to get points Do not add more than 3 products to the plate ",
-        "category": "action",
-        "tags": [
-            "3D",
-            "Cooking",
-            "Food",
-            "Simulator"
-        ],
-        "image": "https://img.gamemonetize.com/w4h80fkwq0ipv6u699rm3mwr6wcfjpqx/512x384.jpg",
-        "downloads": "11.8K",
-        "rating": 3.9
-    },
-    {
-        "id": 90,
-        "name": "Kitchen King Rush",
-        "description": "Kitchen King Rush is a fast-paced restaurant game where hungry customers arrive, and it&rsquo;s up to you to serve them delicious meals on time! Cook, plate, and deliver a variety of mouthwatering dishes while managing the kitchen chaos. Keep your customers happy, earn big tips, and upgrade your restaurant to become the ultimate Kitchen King! With vibrant graphics, exciting challenges, and addictive gameplay, this culinary adventure will test your speed and strategy. Available in English and Espa&ntilde;ol, dive into the fun and prove your skills as the best chef in town! &zwj; &iexcl;Juega ahora y convi&eacute;rtete en el rey de la cocina!",
-        "instructions": "Serve food ASAP ",
-        "category": "action",
-        "tags": [
-            "Best",
-            "Clicker"
-        ],
-        "image": "https://img.gamemonetize.com/irtmhn74jcqsejzgvkh802bkc55u0p7d/512x384.jpg",
-        "downloads": "9.8K",
-        "rating": 4.2
-    },
-    {
-        "id": 91,
-        "name": "Baby Taylor Thanksgiving Cooking",
-        "description": "This is an online cooking game for Thanksgiving. You will have the opportunity to go into Taylors house to help them prepare for Thanksgiving. Firstly you will need to go to the supermarket and go shopping for ingredients and items to prepare the decorations. When you get home you will need to make the turkey first, from the ingredients to the baking.",
-        "instructions": "Mouse click or tap to play",
-        "category": "kids",
-        "tags": [
-            "Food",
-            "Shopping",
-            "Super"
-        ],
-        "image": "https://img.gamemonetize.com/435zfhv6y544y6tyc75qobkf9w5nabqb/512x384.jpg",
+        "image": "https://img.gamemonetize.com/ozrihsbvi9tirbdb9cnyu7rks1ydj8hc/512x384.jpg",
         "downloads": "19.0K",
-        "rating": 4.4
-    },
-    {
-        "id": 92,
-        "name": "Idle Restaurant Tale",
-        "description": "This is a restaurant management simulation game, start as a street food bar, hire new staff and upgrade machine to earn more money, then open a bigger restaurant! Feature: - Simple and easy to start - Strategically upgrade your restaurants to maximize revenue - Various restaurants and food waiting for you to unlock.There are 11 cities and more than 100 different levels. - There are many game adventure events.",
-        "instructions": "Game control is very simple just tap the machines and foods to complete the game levels ",
-        "category": "action",
-        "tags": [
-            "Casual",
-            "Cooking",
-            "Cool",
-            "Food",
-            "Point And Click",
-            "Restaurant"
-        ],
-        "image": "https://img.gamemonetize.com/r8zdmvt4yo1vjaet9i2cjattvq3vh40j/512x384.jpg",
-        "downloads": "7.4K",
         "rating": 4.1
     },
     {
-        "id": 93,
-        "name": "Cookie Clicker : clicker games",
-        "description": "Play Cookie Clicker Online for Free,Its an incredibly fun game where your goal is to bake as many cookies as possible. You start by clicking to produce cookies, and then you can unlock exciting upgrades and achievements to increase your baking speed! If you enjoy games that keep you engaged and wanting to come back for more, Cookie Clicker is an excellent choice for you To become a master cookie maker, its essential to understand how the game works and to implement the best strategies. This guide will provide you with all the basics you need to get started",
-        "instructions": "Mouse click or tap to play",
-        "category": "racing",
-        "tags": [
-            "Click",
-            "Clicker",
-            "Point And Click"
-        ],
-        "image": "https://img.gamemonetize.com/z5n072q7gj0w969r5ul4ignnxe0fzsun/512x384.jpg",
-        "downloads": "14.2K",
-        "rating": 3.5
-    },
-    {
-        "id": 94,
-        "name": "The Crazy Dentist wojak game",
-        "description": "Join Dr. Wojak, the friendly and knowledgeable dentist, in an exciting 2D adventure crafted especially for kids! In Dental Adventure with Dr. Wojak, young players will dive into a colorful world where learning about dental hygiene is both fun and engaging. Features: Engaging Gameplay: Assist Dr. Wojak in various mini-games that involve cleaning, brushing, and caring for patients teeth. Educational Content: Discover the importance of brushing, flossing, and regular dental check-ups through interactive lessons. Colorful Graphics: Delight in vibrant and whimsical graphics that make dental care an enjoyable experience. Customizable Characters:",
-        "instructions": "Mouse click or tap to play",
-        "category": "sports",
-        "tags": [
-            ".io Games",
-            "2 Player Games",
-            "Adventure",
-            "Arcade",
-            "Baby Hazel",
-            "Bejeweled",
-            "Craft",
-            "Hidden"
-        ],
-        "image": "https://img.gamemonetize.com/y8iedym7u25m04ns5xdabpzxnp1pyr7h/512x384.jpg",
-        "downloads": "18.1K",
-        "rating": 4.5
-    },
-    {
-        "id": 95,
-        "name": "Baby Taylor Back To School",
-        "description": "Baby Taylor Back To School is an educational game. The long vacation is coming to an end. TodayTaylor is going to pack her school things. Lets help Taylor pack her things! Taylor is still asleep, wake her up quickly, and help her brush her teeth and wash her face. The most important thing for school is the school bag. Help her organize the books and pencils she needs to bring to school and put them in her school bag. And the most important thing is the school uniform, dont forget it. Finally, help Taylor review the knowledge she has learned so that her knowledge will be more solid.",
-        "instructions": "Mouse click or tap to play",
-        "category": "kids",
-        "tags": [
-            "Educational"
-        ],
-        "image": "https://img.gamemonetize.com/ma46cka3c27lucz8bzfp99samggqeo9p/512x384.jpg",
-        "downloads": "19.6K",
-        "rating": 3.6
+        "id": 21,
+        "name": "Drunken Duel 2 Players",
+        "image": "https://img.gamemonetize.com/sduudlvzhi5rn8g4jqg0ldjyoyypnce7/512x384.jpg",
+        "description": "Drunken Duel is an entertaining western game with physics-based one-button control that can be played as two people and one person. In the game, two drunk rag dolls duel. The game rules are very simple, you must first choose which mode you will play. If you want to play the game alone, you should choose 1 player mode. When you select this mode, the computer will match you with a bot playing at random difficulty, each game consists of five matches, to score points in each match, you must lower your opponent's energy level and maintain your own energy level. whose energy is reset first loses and his opponent scores and wins the game with a total of five points.",
+        "rating": 4.7,
+        "downloads": "14.5K",
+        "instructions": "LEFT CLICK ",
+        "category": "action"
     },
     {
         "id": 96,
@@ -1083,825 +1219,33 @@
         "rating": 4.4
     },
     {
-        "id": 97,
-        "name": "Big Donuts Mania",
-        "description": "If youve made a match, the donuts will be clear, and you will get the points! The more you get, the better you will rank in the high score. Warning: Big Donuts Mania is as addictive as a box of donuts!",
-        "instructions": "Line them up ",
+        "id": 22,
+        "name": "Steve and Alex",
+        "image": "https://img.gamemonetize.com/iib71rz7t6khqrhmowpy2ntqneyi1gmy/512x384.jpg",
+        "description": "Steve needs to help Alex in the love story of Steve and Alex. You have to be in Steven's place and collect the portal pieces from where Alex is stuck. Collect 10 obsidians and create the alexsin portal. and complete the track and go to the portal. be careful don't fall down you may die if you fall down. or you will explode if you touch the TNTs.",
+        "rating": 4.8,
+        "downloads": "16.8K",
+        "instructions": " Move to WASD Arrow Keys Double Jump available Mobile Touch Control",
+        "category": "adventure"
+    },
+    {
+        "id": 81,
+        "name": "Jewel Christmas",
+        "description": "It's Xmas time and what better way to celebrate than with some explosive matching action! Match three gingerbread men, stockings, trees, candy canes, presents or baubles and watch them explode! With five festive game modes and more challenges along the way this game is a perfect gift for you this Xmas! Expect plenty of jewel busting, exploding match 3 heaven with this cracker of a game!",
+        "instructions": "Match any 3 decorations in a line to pop them Line up 4 or more of the same decorations and create Xmas Explosion decorations Match them or try to combine them to create even bigger blasts The more decorations you pop the more points you score ",
         "category": "puzzle",
-        "tags": [
-            "Best Games",
-            "Match-3"
-        ],
-        "image": "https://img.gamemonetize.com/vzk4zr4ad5elwwx1d5c9vm0b4osmotb4/512x384.jpg",
-        "downloads": "2.6K",
-        "rating": 4.1
-    },
-    {
-        "id": 98,
-        "name": "Idle Restaurant Tycoon",
-        "description": "Do you want to be a unique restaurant manager? You can learn how to be a manager with the Idle Restaurant game. You may need some experts for cooking and serving. Hire a master chef, develop your staff, manage your finances and become the perfect boss. Also, dont forget to check your market for surprise gifts. You can play Idle Restaurant Tycoon in a simple way without the need to constantly click.",
-        "instructions": "Mouse click or tap to play",
-        "category": "kids",
-        "tags": [
-            "Cook",
-            "Cooking",
-            "eating",
-            "Funny",
-            "Hot",
-            "Interactive",
-            "Kids",
-            "Mobile",
-            "Strategy"
-        ],
-        "image": "https://img.gamemonetize.com/znokgo6d1qsz3pwqoy5t43wf95aque88/512x384.jpg",
-        "downloads": "2.1K",
-        "rating": 4.8
-    },
-    {
-        "id": 99,
-        "name": "Speedy Bartender",
-        "description": "Step into the fast-paced world of a master mixologist in Speedy Bartender, a thrilling arcade game where quenching thirst meets adrenaline pumping action! Thirsty customers line the bar, their eyes pleading for a taste of your liquid artistry. Will you be the hero who delivers the perfect pour, or will frustration bubble over with spilled drinks and disappointed sighs?",
-        "instructions": "Mobile Touch PC Mouse",
-        "category": "action",
-        "tags": [
-            "1 Player",
-            "Adult",
-            "Cooking",
-            "Hypercasual"
-        ],
-        "image": "https://img.gamemonetize.com/tevy36r7qnipasd04yrutfp3jaikpo1v/512x384.jpg",
-        "downloads": "14.2K",
-        "rating": 3.9
-    },
-    {
-        "id": 100,
-        "name": "Bakery Chefs Shop",
-        "description": "Bakery Chefs Shop is a delicious and fun cooking adventure game for girls and kids. You are a talented cook who has many loyal customers in your 2D cartoon bakery. You can make orders and learn how to bake a cake in 60 levels. You can also decorate your cakes with extra items that you can unlock with gold coins. You have to serve the order well to get all 3 yellow stars and more bonus coins. Have a blast baking cakes!",
-        "instructions": "Mouse click or tap to play",
-        "category": "sports",
-        "tags": [
-            "2D",
-            "Cook",
-            "Cooking",
-            "Design",
-            "Food"
-        ],
-        "image": "https://img.gamemonetize.com/9cn5c1omowu3y2t8qn65vuwhci3srppz/512x384.jpg",
-        "downloads": "12.6K",
-        "rating": 4.5
-    },
-    {
-        "id": 101,
-        "name": "Sweet Cotton Candy Maker",
-        "description": "Blue, pink, yellow, white, wow! Marshmallows have many amazing colors and flavors. You can create your own marshmallows anytime. In cotton candy manufacturers, grab your candy and add your favorite flavor to make yummy desserts. The machine is hot and waiting for you! This dessert is easy to make, and you will be a professional soon. Mix your sugar and pick yours. There are many options to try, so let&rsquo;s cook!",
-        "instructions": "Tap to play",
-        "category": "puzzle",
-        "tags": [
-            "2D",
-            "Cartoon",
-            "Casual",
-            "Food",
-            "Girls",
-            "Kids",
-            "Simulation"
-        ],
-        "image": "https://img.gamemonetize.com/duay2vzk328wwhrufwowb0gy5nlqvql2/512x384.jpg",
-        "downloads": "6.6K",
-        "rating": 4.2
-    },
-    {
-        "id": 102,
-        "name": "Bartender: The Right Mix",
-        "description": "Help Miguel the bartender mix cocktails for himself in the right ratios! Choose from a shelf full of different drinks and mix them together to make the ultimate cocktail for a good night out. Add ice or lemon to give it that extra kick but be careful, mixing in the wrong amounts or simply mixing the wrong drinks could end in the worst of ways! No bartending school required!",
-        "instructions": "- Click to choose items - Click and hold to pour and shake",
-        "category": "sports",
-        "tags": [
-            "1 Player",
-            "Adult",
-            "Cooking"
-        ],
-        "image": "https://img.gamemonetize.com/a3kq2m27xqrt0vfitkakrwu36oi1ylbp/512x384.jpg",
-        "downloads": "19.2K",
-        "rating": 3.8
-    },
-    {
-        "id": 103,
-        "name": "Pizza Cafe Tycoon",
-        "description": "Are you ready to build a successful cafe empire with you? You currently own a pizza shop and customers love their delicious pizza. Your task is to deliver various pizza orders on time and quickly. Remember, speed and quality are everything in the cafe business. You have to work with dedication to ensure the satisfaction of your customers. Manage orders quickly and effectively without slowing down and offer your customers an unforgettable experience. Build your own strategies for success in your cafe empire and seize opportunities to grow your business.",
-        "instructions": "How to play Desktop Mouse Mobile Touch control ",
-        "category": "action",
-        "tags": [
-            "Cook",
-            "Cooking",
-            "Game",
-            "Restaurant",
-            "Simulation",
-            "Street Fighting",
-            "Timing"
-        ],
-        "image": "https://img.gamemonetize.com/ozrihsbvi9tirbdb9cnyu7rks1ydj8hc/512x384.jpg",
-        "downloads": "19.0K",
-        "rating": 4.1
-    },
-    {
-        "id": 104,
-        "name": "Cooking Trendy",
-        "description": "Do you want your food to bring joy to everyone? Theres nothing better than cooking in your own restaurant.Let Cooking Trend make your dreams come true ??When playing Cooking Trend, you will transform into a famous chef, creating delicious dishes to satisfy diners every day.Not only that, you will receive attractive rewards after completing each mission and use them to upgrade items, build your own restaurant.",
-        "instructions": "1 Delight customers with well-prepared meals 2 Upgrade your restaurant and kitchen appliances with the gold you get after each level 3 Unlock more delicious ingredients and condiments 4 Cooking games teach you how to do business and quality service 5 Ex",
-        "category": "kids",
-        "tags": [
-            "Cooking",
-            "Food",
-            "Restaurant"
-        ],
-        "image": "https://img.gamemonetize.com/docrms4jca8iu8kndsglrihp3ihf3xh8/512x384.jpg",
-        "downloads": "17.7K",
-        "rating": 3.7
-    },
-    {
-        "id": 105,
-        "name": "TMNT: Pizza Time",
-        "description": "In the Pizza Time game, Michelangelo needs your help in making delicious pizzas at Antonio's Pizza place. You have a limited time to prepare all the orders, so put on your apron and get ready to slice and cook as many pizzas as you can!",
-        "instructions": "It s time to learn how things go around the kitchen and you should start learning the controls first Many ingredients will fly around the place and you should hold your Left Click and move your mouse to cut them all up Don t worry if you miss some Th",
-        "category": "kids",
-        "tags": [
-            "Arcade",
-            "Best",
-            "Cook",
-            "Cooking",
-            "H5",
-            "Hot",
-            "HTML5",
-            "New",
-            "Ninja",
-            "Ninjago"
-        ],
-        "image": "https://img.gamemonetize.com/hynoxd8wkdy2e05sld8xmrslb5vmppax/512x384.jpg",
-        "downloads": "17.0K",
-        "rating": 3.9
-    },
-    {
-        "id": 106,
-        "name": "625 Sandwich Stacker",
-        "description": "Stack the biggest sandwiches possible by catching ingredients, but don't catch any yucky stuff! This game does not contain any external links.",
-        "instructions": "Desktop Use arrow keys to move a character Mobile Tap and hold on the right or left part of the screen ",
-        "category": "kids",
-        "tags": [
-            "Cartoon",
-            "Cook",
-            "HTML5",
-            "Kids",
-            "Mobile",
-            "Skills"
-        ],
-        "image": "https://img.gamemonetize.com/fi9tq41y1fdxjic2q0aerphxg4af4k7e/512x384.jpg",
-        "downloads": "1.2K",
-        "rating": 4.8
-    },
-    {
-        "id": 107,
-        "name": "My Ice Cream Maker",
-        "description": "Ice Cream Maker shop is now open to serve delicious ice cream cones and pair them with a frozen cupcake. Then serve this delicious icy dessert to your happy customers in this ice cream games. Ice Cream Maker - will unleash your creativity! If you know the answer to the question – How do you make ice cream? – this “addictive game” is the best option for you! or just dessert making games with levels, you choose! Are you ready for this breath of sweet and fresh air? Let’s have fun!",
-        "instructions": "Ice Cream Maker shop is now open to serve delicious ice cream cones and pair them with a frozen cupcake Then serve this delicious icy dessert to your happy customers in this ice cream games Ice Cream Maker - will unleash your creativity If",
-        "category": "adventure",
-        "tags": [
-            "Arcade",
-            "Casual",
-            "Cook",
-            "Cooking",
-            "Food",
-            "Girls",
-            "Ice",
-            "Machine"
-        ],
-        "image": "https://img.gamemonetize.com/9p08cplp68sc1lcw9cxqvxltfrplvd1n/512x384.jpg",
-        "downloads": "13.8K",
-        "rating": 4.2
-    },
-    {
-        "id": 108,
-        "name": "Cooking Place",
-        "description": "You in the game Cooking Place will help the chef to serve the customers. In front of you on the screen will be visible to the rack behind which your hero will be. Customers will come to her and place orders. They will be displayed next to customers as pictures. You will have to study it carefully and then start cooking. Certain foodstuffs will be at your disposal. You, following the instructions on the screen, will have to prepare a given dish and then give it to the customer. If everything suits him, then the client will be satisfied and pay for the prepared dish.",
-        "instructions": "Use mouse or touch on the screen ",
-        "category": "sports",
-        "tags": [
-            "Best",
-            "Boys",
-            "Burger",
-            "Food",
-            "Fun",
-            "Funny",
-            "Girls",
-            "HTML5",
-            "Kids",
-            "Mobile",
-            "Restaurant",
-            "Skill"
-        ],
-        "image": "https://img.gamemonetize.com/g905frowfw4cqcg481urvf0inkl4npj7/512x384.jpg",
-        "downloads": "14.6K",
-        "rating": 4.5
-    },
-    {
-        "id": 109,
-        "name": "Cake Maker :Carrot Cake",
-        "description": "Hungry? Get baking! Become the best cake baker in town and create the yummiest cakes, in this delicious cooking game! This cooking game’s beautiful 3D art will make you feel like you’re baking a real cake! Yummy! What are you waiting for? Get your mixer out and start cracking those eggs! Be the best cake baker the world has ever seen! What’s your favorite type of cake? Sweet birthday cakes? Fancy wedding cakes? Whatever it is, you can make it! Decorate your cakes to make them extra beautiful, and take photos so you can show your friends your yummy creations! You can even enter your cakes in a contest and serve them to your friends at the cake party! Features: > Learn how to bake the most delicious cakes EVER in this fun cooking game! > Tons of mouth-watering cake recipes to make for you and your friends! > Use professional baker tools to bake, design & decorate the most delicious cakes! > From rainbow-sprinkled birthday cakes to strawberry cupcakes, the choices are infinite! > Decorate your cakes with yummy frosting, delicious decorations & adorable toppers! > Are those wedding bells? Design and bake a beautiful cake for the bride. > Put the prettiest picture of yourself on your very own cake! > Have a cake party with your fuzzy bunny, kitty and puppy friends, cute babies, and more! > Make the party extra festive with your very own party decorations! > Enter the cake bake competition, vote for your favorite cake, and win first prize! > To-die-for dark chocolate, cherry-banana cake or cheesecake? You choose - You’re the baker! > It’s princess party time! Put your favorite princess on a cake! > Take pictures of your masterpiece to show off your gorgeous cake designs! > Make a cake album so you’ll always remember your incredibly delicious creations! > Tons of adorable and fun coloring pages for you to draw in, in this awesome cooking game!",
-        "instructions": "Get baking ",
-        "category": "adventure",
-        "tags": [
-            "Cook",
-            "Cooking"
-        ],
-        "image": "https://img.gamemonetize.com/ihopepb3fmu9r38lu31wkvssw6qkd1ol/512x384.jpg",
-        "downloads": "10.6K",
-        "rating": 3.5
-    },
-    {
-        "id": 110,
-        "name": "Circus Restaurant",
-        "description": "Are you a food lover? Become a Masterchef of your restaurant, build a restaurant empire in different countries, make money from your foods, and accelerate your development by investing in your business. In this idle tycoon simulator game, unlock your products, upgrade your recipes, decorate your restaurant, and recruit new chefs and waiters to run your profitable restaurant. ★Manage your restaurant Join the adventure of running a restaurant from scratch. ★Meet the masters Collaborate with various famous characters who quickly take your restaurant to world level. ★Get to know world cuisines Serve food to your customers from all around to world. ★Decorate your restaurant Renovate and customize! Make your own style in all restaurants. ★Finish the missions Do not miss the special surprise at the end of the world with specially crafted missions. ★Keep earning offline As you grow your restaurant, your income will increase when you are offline. ★Join the competition Compare yourself to chefs from all around the world on the leaderboard. ★Welcome special guests Provide good service to Gourmet and VIP customers to make more money from your restaurant empire. Restaurant Tycoon - Idle Game is an exciting game that includes strategy, fun, and delicious foods from different countries. Become a billionaire by developing new strategies for new products, ingredients, chefs, cutters, waiters and tables.",
-        "instructions": "Tap To Play ",
-        "category": "action",
-        "tags": [
-            "Cook",
-            "Cooking",
-            "Restaurant"
-        ],
-        "image": "https://img.gamemonetize.com/531f01wlxovdz5ukpjhf17nv70qp3x8b/512x384.jpg",
-        "downloads": "14.5K",
+        "image": "https://img.gamemonetize.com/is9rk8sdsodp2bvf0f54qn0jy5kahl9z/512x384.jpg",
+        "downloads": "1.0K",
         "rating": 4.6
     },
     {
-        "id": 111,
-        "name": "Baking with Santa",
-        "description": "Try the world's finest cookies recipes for you in this kitchen cooking game. Hey Little young chefs it’s time to surprise your family with perfect Christmas cookies. Make your Christmas holidays special playing all new special holiday season game from junior games studio Christmas Cookies Recipes - Sweet Holidays Cooking. Select the best cookie recipe what you want to bake from multiple flavors such as - Classic Plain Cookies - Chocolate chip Cookies - Strawberry Flavored cookies Choose to cut cookies using various cookie cutter shapes such as star heart round etc. bake in kitchen oven to perfection an serve to family an friends. Decorate home-made cookies with color candies jellies, icings creams and many more. Change backgrounds to live up to the Christmas holiday spirit.",
-        "instructions": "Tap To Play",
-        "category": "adventure",
-        "tags": [
-            "Cook",
-            "Cooking",
-            "Sandbox"
-        ],
-        "image": "https://img.gamemonetize.com/mehazxjfszsf9rdan7z0gf2niqsv9gw5/512x384.jpg",
-        "downloads": "0.8K",
-        "rating": 4.4
-    },
-    {
-        "id": 112,
-        "name": "Lunch Box ",
-        "description": "Ready to become the best organizer that ever existed. Fill the fridge, pack a tasty breakfast, and even make a happy meal with this satisfying, simulator game. Lunch Box Ready is a ASMR packing game that allows you to design your sandwich, arrange snacks, and even slice food. If you like fridge organizing and to fill the fridge, this is taking your packing skills to the next level. Get ready for school with this tasty simulator game. Lunch Box Ready is a real life sorting game and a puzzle game that is extremely fun to play!",
-        "instructions": "Tap To Play",
-        "category": "racing",
-        "tags": [
-            "Cook",
-            "Cooking"
-        ],
-        "image": "https://img.gamemonetize.com/e78eiyuve1l8mwcxs26o7wg7bekwtx28/512x384.jpg",
-        "downloads": "12.4K",
-        "rating": 4.8
-    },
-    {
-        "id": 113,
-        "name": "ICE CREAM, PLEASE!",
-        "description": "In Ice Cream, Please!, you take on the role of a small ice cream shop owner in this fun and engaging restaurant simulation game. Your task is to mix and match flavors, toppings, fruits, and nuts to create the perfect ice cream orders for your customers. Use your finger, mouse or keyboard to select the ingredients and prepare the ice cream as per your customer's request. Be quick and accurate, as the faster you serve the customers, the more points you will earn. With challenging levels, fun gameplay and the potential to become the most famous ice cream shop in the city, Ice Cream, Please! is the perfect game for anyone who loves ice cream and wants to test their management skills.",
-        "instructions": "Tap on the cones ice cream types or toppings to select and use them ",
-        "category": "adventure",
-        "tags": [
-            "Boys",
-            "Cooking",
-            "Food",
-            "Girls",
-            "Restaurant",
-            "Simulation"
-        ],
-        "image": "https://img.gamemonetize.com/16x1z2l7e58u93hhmk8dja23sbhbceh6/512x384.jpg",
-        "downloads": "18.4K",
-        "rating": 3.9
-    },
-    {
-        "id": 114,
-        "name": "Cooking Challenge",
-        "description": "A hungry customer is an impatient customer. Which needs to be served as soon as possible. This is exactly what will happen in the game Cooking Challenge. Your restaurant is open. Quickly put cutlets on the pan, throw potato straws into the boiling oil and turn on the beverage dispenser. All this will be needed soon and let the dishes be ready in advance so that hungry customers do not wait and are not nervous. Serve quickly, get paid a solid tip, complete the tasks of the levels. And there will be fifty of them. Buy equipment, upgrade it and all this for the fastest service in Cooking Challenge.",
-        "instructions": "Use mouse or tap on the screen ",
-        "category": "racing",
-        "tags": [
-            "Burger",
-            "Casual",
-            "Food",
-            "Fun",
-            "Funny",
-            "Girls",
-            "HTML5",
-            "Hypercasual",
-            "Kids",
-            "Mobile",
-            "Restaurant",
-            "Skill",
-            "Strategy"
-        ],
-        "image": "https://img.gamemonetize.com/ygyegpn6a3817y9yt3vl9ifec6qc50jk/512x384.jpg",
-        "downloads": "3.5K",
-        "rating": 4.5
-    },
-    {
-        "id": 115,
-        "name": "Cooking Marina 2023",
-        "description": "Welcome to Cooking Marina - new cooking restaurant games 2021. As you know, Singapore is well-known as one of the most beautiful and fresh cities in the world and especially Singapore is also famous for a diverse cuisine paradise. This fast restaurant cooking game will take you to travel around Singapore and some countries in Asia to experience tasty dishes with unique cooking recipes.",
-        "instructions": "Tap To Play",
-        "category": "adventure",
-        "tags": [
-            "Arcade",
-            "Best",
-            "Brain",
-            "Burger",
-            "Cooking",
-            "Girls",
-            "Kids"
-        ],
-        "image": "https://img.gamemonetize.com/ezm7nl5go8l2d6t0s3xql9evvt5qsu9c/512x384.jpg",
-        "downloads": "7.2K",
-        "rating": 3.6
-    },
-    {
-        "id": 116,
-        "name": "Funny Pizza Maker",
-        "description": "Pizza Maker: My Pizzeria Game is the ideal fast food cooking game in which you can make pizza for your customers! Take every “pizza order call”, make and sell pizza and get a review from the customers. Make sure not to disappoint them, follow the recipe carefully and deliver pizza on time!",
-        "instructions": "Tab to screen",
-        "category": "sports",
-        "tags": [
-            "Cook",
-            "Cooking"
-        ],
-        "image": "https://img.gamemonetize.com/hd4lbep45o231k8y0bigxwuwct3nqhzy/512x384.jpg",
-        "downloads": "9.7K",
-        "rating": 3.7
-    },
-    {
-        "id": 117,
-        "name": "Funny Burger Shop",
-        "description": "Prepare your burgers according to the wishes of your customers. Try to deliver on time or your customers will abandon the order.",
-        "instructions": "Tab to screen",
-        "category": "kids",
-        "tags": [
-            "Burger",
-            "Cook",
-            "Cooking",
-            "Unity3D"
-        ],
-        "image": "https://img.gamemonetize.com/zc1z6q0q9o21pejfqukrirvvhg7rpvno/512x384.jpg",
-        "downloads": "2.4K",
-        "rating": 3.9
-    },
-    {
-        "id": 118,
-        "name": "Funny Smoothie Maker",
-        "description": "Welcome to our smoothies empire, where you can make the best smoothies! Once your smoothies is done, use our decorating stuff that can turn smoothies into tasty and yummy desserts! Do the same thing with a smoothies cups – decorate them with different straws and stickers. Make smoothies look lovable. Isn’t this one of the best desserts games ever or what?!",
-        "instructions": "Tab to screen",
-        "category": "kids",
-        "tags": [
-            "Boys",
-            "Cooking",
-            "Girls",
-            "Kids"
-        ],
-        "image": "https://img.gamemonetize.com/i1f8y1bxilwuba1qh8nkx1fanmv0p3a2/512x384.jpg",
-        "downloads": "18.2K",
-        "rating": 4
-    },
-    {
-        "id": 119,
-        "name": "Potato Chips Making",
-        "description": "Enter the world of fast food games with levels, and make the best potato chips ever",
-        "instructions": "Tab to screen",
-        "category": "adventure",
-        "tags": [
-            "Cook",
-            "Cooking",
-            "Restaurant"
-        ],
-        "image": "https://img.gamemonetize.com/p6oceg8cc0ypmw6vipg94mmps4j8ff15/512x384.jpg",
-        "downloads": "19.2K",
-        "rating": 4.7
-    },
-    {
-        "id": 120,
-        "name": "Santa Cooking",
-        "description": "Santa cooking is one of the newest and most addictive restaurant food cooking games, featuring time management skills, strategy, and simulation fun. Show your cooking skills by making delicious burgers and toast to become a master chef!",
-        "instructions": "Cooking is crazy Tap ingredients to craft food ",
-        "category": "puzzle",
-        "tags": [
-            "Christmas",
-            "Cooking",
-            "Funny",
-            "Puzzle",
-            "Skills",
-            "Strategy",
-            "Timing"
-        ],
-        "image": "https://img.gamemonetize.com/z6xc8b32h9hjfyk7gzagezfwxmn1n1p4/512x384.jpg",
-        "downloads": "14.5K",
-        "rating": 4.3
-    },
-    {
-        "id": 121,
-        "name": "Open Restaurant Simulator",
-        "description": "Open Restaurant is a game where you have to run a restaurant and bring your management skills to every diner! Survive the daily target to get high score.",
-        "instructions": "simple game speed for customer satisfaction",
-        "category": "action",
-        "tags": [
-            "3D",
-            "3D Games",
-            "Restaurant",
-            "Simulation",
-            "Simulator"
-        ],
-        "image": "https://img.gamemonetize.com/yhzo0lrt6x8jk9kru67h321qfo0o8202/512x384.jpg",
+        "id": 5,
+        "name": "Black and White Stickman",
+        "image": "https://img.gamemonetize.com/637unv00hou83ty0j348ak3q7rhp1fi1/512x384.jpg",
+        "description": "Would you like to join the adventure of the black and white stickmen? Help them in this adventure and guide them to the portal. The black and white stickmen need to collect all the star points and monster balls to reach the portal. Remember to collect not only the stars but also the monster balls. Be cautious of obstacles; if you collide with them, youll lose and fail. Stay alert to avoid losing.",
+        "rating": 4.7,
         "downloads": "16.3K",
-        "rating": 3.9
-    },
-    {
-        "id": 122,
-        "name": "Drink Buffet",
-        "description": "Prepare fruit cocktails according to the wishes of your customers. Prepare drinks faster by purchasing new cocktail machines and decorations with the money you earn.",
-        "instructions": "Tab to screen",
-        "category": "racing",
-        "tags": [
-            "1 Player",
-            "Cook"
-        ],
-        "image": "https://img.gamemonetize.com/6f2gnbbw7eueoxtspiukc87evlocjxqa/512x384.jpg",
-        "downloads": "4.9K",
-        "rating": 3.9
-    },
-    {
-        "id": 123,
-        "name": "Cooking Cafe",
-        "description": "Choose what you want to cook from the menu, buy the missing ingredients and start preparing.",
-        "instructions": "Click or hold the screen at the right time",
-        "category": "kids",
-        "tags": [
-            "Cook",
-            "Cooking"
-        ],
-        "image": "https://img.gamemonetize.com/mg953tsbyotroif1r1mu29dciazjvrci/512x384.jpg",
-        "downloads": "12.0K",
-        "rating": 4.6
-    },
-    {
-        "id": 124,
-        "name": "Time Travel Caffe",
-        "description": "Ever dreamed to be a host of a Café? Ever Wanted to be a cook and make coffee, flower tea, delicious ice cream, yummy cakes and more dishes on your own? Bring your fantasy to life with tasty coffee in Baby Panda's Café! Baby Panda's Café will make your dream come true in this busy summer! Roll Out Summer Coffee As a host of a Coffee Shop, you have to start your journey of being a cook! With temperatures slowly climbing and summer well on its way, it’s time to build a menu of refreshing coffee and more drinks for your Café. Prepare to surprise your friends this summer with these easy to make coffee drinks and dishes at Baby Panda's café! Cook Coffee & Dishes Cook amazing café dishes and summer coffee by collecting nearly 80 ingredients, such as coffee bean, vanilla, chocolate... Operate cool kitchen tools and prepare your coffee and dishes before decorating and drinking them. Make sandwiches with vegetables or bacon? Make a heart-shaped cookie or a little bear biscuit? It all depends on you! Serve Customers You need to arrange seats for your little customers and help them order from the menu! To meet their needs,you’ll be busy with making their favorite coffee, tea, ice cream, salad, donuts,cakes and all kinds of yummy food! When the guests leave, remember to clean up the table. Your intimate service can help you to bring more and more customers! There are more and more guests at your coffee shop. You need to speed up, little cook! FEATURES: - Roll out summer menu with 9 different food and drinks！ - Explore cooking by using nearly 80 ingredients in creative way. -Take orders, serve food and handle cash in Baby Panda's Café! - Collect gold coins to unlock more yummy food recipes. - Café kitchen and coffee shop recipes inspire kids’ imagination. - Funny character reaction will make you giggle. - Learn time management skills as super cashier! - Easy to use and simple to understand！ - No time limits and any rules!",
-        "instructions": "Tap To Play",
-        "category": "action",
-        "tags": [
-            "Cook",
-            "Cooking",
-            "Girls"
-        ],
-        "image": "https://img.gamemonetize.com/jhy8ubhk2ud0075oqnx6supxm4og9e4i/512x384.jpg",
-        "downloads": "11.8K",
-        "rating": 4.6
-    },
-    {
-        "id": 125,
-        "name": "Lemonade Stand",
-        "description": "Your goal is to make as much money as you can in 7, 14, or 30 days by selling lemonade at your lemonade stand. Buy cups, lemons, sugar, and ice cubes, then set your recipe based on the weather and conditions. Start with the basic recipe, but try to vary the recipe and see if you can do better. Lastly, set your price and sell your lemonade at the stand. Try changing up the price based on the weather conditions as well. At the end of the game, you'll see how much money you made. Write it down and play again to try and beat your score!",
-        "instructions": "Use the mouse",
-        "category": "kids",
-        "tags": [
-            "2D",
-            "Anime",
-            "Cartoon",
-            "Cartoon Network",
-            "Coloring",
-            "Cook",
-            "Cool",
-            "Disney",
-            "Food",
-            "HTML",
-            "HTML5",
-            "Kids",
-            "Makeover"
-        ],
-        "image": "https://img.gamemonetize.com/h4n0v524cc5xnblp36b2fak2n0wm40j9/512x384.jpg",
-        "downloads": "14.0K",
-        "rating": 3.9
-    },
-    {
-        "id": 126,
-        "name": "Doner Kebab : Salad Tomatoes Onions",
-        "description": "Go to the other side of the counter with Doner Kebab. Take control of your restaurant and make a maximum of meal as fast as you can while following your clients's demands in this arcade-like game.",
-        "instructions": "You are finally your own boss and you own your restaurant but now you must do better Prepare as much meal as you can for your clients with the good ingredients Finish each level to earn stars get more ingredients and become the king of kebab ",
-        "category": "racing",
-        "tags": [
-            "Casual",
-            "Chicken",
-            "Cook",
-            "Cooking",
-            "Restaurant"
-        ],
-        "image": "https://img.gamemonetize.com/yl6so8xoqxlzngdh45k9jgg121kwn9ov/512x384.jpg",
-        "downloads": "15.6K",
-        "rating": 4.2
-    },
-    {
-        "id": 127,
-        "name": "Christmas Factory",
-        "description": "It is a free arcade game, easy-to-use, with HD graphics. You are Santa Claus and your job is to manufacture as many toys as possible. You must manage all the elves, and that's not an easy task. Their job ? Create many gift wrapping. You must be ready on time for Christmas night. Your factory is today the craziest and most stressfull place in the world.",
-        "instructions": "Manage the queue of lutins as fast as possible to reach your objectives - The toy order form - Manufacturing the toy - the gift wrapping - The sleigh fill in with gifts",
-        "category": "adventure",
-        "tags": [
-            "Cooking",
-            "Management"
-        ],
-        "image": "https://img.gamemonetize.com/ljfk4ghjl0c7zocotl4kdvj7x0rng62k/512x384.jpg",
-        "downloads": "3.9K",
-        "rating": 4.8
-    },
-    {
-        "id": 128,
-        "name": "Club Sandwich",
-        "description": "Welcome into the world of the restoration with Club Sandwich. Challenge your reflexes and prepare as many burgers as you can as fast as you can to please your clients in this arcade game.",
-        "instructions": "Behind the desk of your restaurant you concentrate on preparing delicious meal for your clients You ll have to realize as many orders as you can while following their exigencies to satisfy them Finish every level get more and more ingredients to coo",
-        "category": "adventure",
-        "tags": [
-            "Arcade",
-            "Cook",
-            "Cooking",
-            "Food",
-            "Game"
-        ],
-        "image": "https://img.gamemonetize.com/1yjeju1bzsgn8bf7x9fbv217cg4bt1xb/512x384.jpg",
-        "downloads": "10.6K",
-        "rating": 3.8
-    },
-    {
-        "id": 129,
-        "name": "Sushi Roll 3D Cool",
-        "description": "1. This is a cartoon-style casual simulation game. 2. You're a big fan of sushi in the game, so you're ready to learn how to make delicious sushi yourself. 3. You need to roll the sushi in the form of parkour until it becomes a complete sushi roll to succeed. 4.Of course, the difficulty of the game will become more and more difficult with the continuous progress of the entry Oh, interested partners come to download the experience.",
-        "instructions": "1 You need to long press the left mouse button a variety of delicious sushi will be made by you complete the unique taste of sushi sense of accomplishment 2 Play more tricks will be a variety of raw materials to visit a variety of beautiful shapes ",
-        "category": "sports",
-        "tags": [
-            "3D Games",
-            "Best",
-            "Cook",
-            "Cooking",
-            "Crafting",
-            "cut",
-            "Food",
-            "H5",
-            "Restaurant",
-            "Simulation"
-        ],
-        "image": "https://img.gamemonetize.com/gg9rl10fh373q0w6pibvzbcu91dc1dxf/512x384.jpg",
-        "downloads": "3.0K",
-        "rating": 4.2
-    },
-    {
-        "id": 130,
-        "name": "Kinfe Invincible",
-        "description": "It is a style of simple and interesting relaxation of the game, in the game like a real chef to cut vegetables, hold the screen to swing the kitchen knife, each level has different vegetables, complete the goal of the clearance can be. The game is a bit like fruit ninja, not too difficult, but still requires a lot of hand speed, the player has to do is to control the kitchen knife in the hand, the conveyor belt to upload all vegetables into thin slices, very decompression.",
-        "instructions": "Although the vegetables in the screen will be transferred quickly there is no need to press the screen The game is a test of reaction in addition to the ingredients on the chopping board there will be obstacles if you cut wrong you will lose time ",
-        "category": "action",
-        "tags": [
-            "cut",
-            "Food",
-            "Fruits",
-            "Games",
-            "H5",
-            "Plant",
-            "Simulator",
-            "Super"
-        ],
-        "image": "https://img.gamemonetize.com/wqcr0buabxc65j1bmben6i71q6f59ju5/512x384.jpg",
-        "downloads": "12.9K",
-        "rating": 4.6
-    },
-    {
-        "id": 131,
-        "name": "Panda Pizza Parlor",
-        "description": "You have been hired in this spectacular restaurant where the specialty is Pizza, with a lot of different ingredients. This cute panda is now ready to manage a pizza business and serve yummy pizza to his customers! Move like a busy bee and prepare pizza dough, sauce and cook it before serving it hot to your hungry customers! Help the panda serve as many customers as he can for the day. The pizza menu have new offers as the level progresses. Here is the online game Panda Pizza Parlor, you can play it for free right now. It has 17 player votes with an average rating of 4.00. The game's release date is July 2022. Playing Panda Pizza Parlor is very simple, the goal is to complete 35 missions making your customers happy by delivering each order. Get to work and cook as you know, mix ingredients, bake the pizzas and make your pizzeria the best known in the world. The game can be played on the following platforms: Web Browser (PC), Android / iOS (Mobile). Have fun playing this fun pizza management game here at Dop5.com!",
-        "instructions": "Use the mouse",
-        "category": "adventure",
-        "tags": [
-            "2D",
-            "Anime",
-            "Arcade",
-            "Cartoon",
-            "Cartoon Network",
-            "Cook",
-            "Cooking",
-            "Disney",
-            "Girls",
-            "HTML5",
-            "Kids",
-            "Makeover",
-            "Panda"
-        ],
-        "image": "https://img.gamemonetize.com/cn1yvwk8oaw5z2up48gy6jipz4a5m60q/512x384.jpg",
-        "downloads": "1.9K",
-        "rating": 3.5
-    },
-    {
-        "id": 132,
-        "name": "Coppp",
-        "description": "Fever up your madness of chef cooking in free kitchen games to please your hungry diner & start writing free restaurant games story.",
-        "instructions": "Mouse Controls",
-        "category": "kids",
-        "tags": [
-            ".io Games",
-            "Action",
-            "Adventure",
-            "Arcade",
-            "Casual",
-            "Cook",
-            "Cooking",
-            "Fun",
-            "Funny",
-            "Hot",
-            "Hypercasual"
-        ],
-        "image": "https://img.gamemonetize.com/jcfys544kfrj890ap21o533ckwgdg227/512x384.jpg",
-        "downloads": "3.5K",
-        "rating": 4.2
-    },
-    {
-        "id": 133,
-        "name": "Mixed Juice",
-        "description": "The latest version of mixed fruit juice master is fresh and crisp. You can complete various operations with your fingers and enjoy the fun of your fingertips. It will be very interesting. Players will have their own tools here to make different flavors of fruit juice.",
-        "instructions": "With your hands squeeze the fruit into the juicer Be careful not to reach too far or you could easily get hurt Enough fruit is mixed and juiced to produce fruit teas of different colors and flavors",
-        "category": "sports",
-        "tags": [
-            "3D Games",
-            "Cook",
-            "Cooking",
-            "Cool",
-            "Crafting",
-            "cut",
-            "Food",
-            "Funny"
-        ],
-        "image": "https://img.gamemonetize.com/gwsadqnt3dkfpqz5p2xgaijii9coctsx/512x384.jpg",
-        "downloads": "4.0K",
-        "rating": 4.2
-    },
-    {
-        "id": 134,
-        "name": "My Cake Shop: Candy Store Game",
-        "description": "Everyone loves cakes, so why not have a sweet cake shop of your own? Run the best cake shop in town and prepare delicious mouth-watering baked goods! Check the ingredients and get ready to serve your customers tempting options of their favorite cakes!",
-        "instructions": "Mouse Controls",
-        "category": "puzzle",
-        "tags": [
-            ".io",
-            ".io Games",
-            "3D",
-            "3D Games",
-            "Action",
-            "Adventure",
-            "Arcade",
-            "Cake",
-            "Casual",
-            "Cook",
-            "Cooking",
-            "Fun",
-            "Funny",
-            "Hypercasual",
-            "Shopping"
-        ],
-        "image": "https://img.gamemonetize.com/a9l38adu4sbdnsj9utilq3410z85j2df/512x384.jpg",
-        "downloads": "16.0K",
-        "rating": 4.5
-    },
-    {
-        "id": 135,
-        "name": "My Burger Shop 2",
-        "description": "It’s lunch time! People are excited to visit your new burger shop and try the delicious hamburgers everyone has been talking about! Check the cooking game ingredients and get ready to serve the customers a delightful meal of their favorite recipes in sandwich games!",
-        "instructions": "Mouse Controls",
-        "category": "kids",
-        "tags": [
-            ".io",
-            ".io Games",
-            "3D",
-            "3D Games",
-            "Action",
-            "Adventure",
-            "Arcade",
-            "Casual",
-            "Cook",
-            "Cooking",
-            "Food",
-            "Hypercasual",
-            "Shopping"
-        ],
-        "image": "https://img.gamemonetize.com/qxbtwd5d99jg3vy7ai8wvnpa9qnbenpj/512x384.jpg",
-        "downloads": "3.7K",
-        "rating": 4.1
-    },
-    {
-        "id": 136,
-        "name": "Potato Chips Food Factory Game",
-        "description": "Potato Chips Game is your choice, If you want a relaxing game. It is a simple and addicting game for relaxing. This is the popular and classic type game. You can start making potatoes. From planting potato plants to frying, flavoring and packing bags for sale as needed.",
-        "instructions": "Mouse Controls",
-        "category": "kids",
-        "tags": [
-            ".io",
-            ".io Games",
-            "3D",
-            "3D Games",
-            "Action",
-            "Adventure",
-            "Arcade",
-            "Casual",
-            "Cook",
-            "Cooking",
-            "Hypercasual",
-            "Shopping",
-            "Unity3D"
-        ],
-        "image": "https://img.gamemonetize.com/87ktbyxpz953xrwydtrgpfwv7cg4yn7g/512x384.jpg",
-        "downloads": "8.4K",
-        "rating": 4.7
-    },
-    {
-        "id": 137,
-        "name": "Burger Shop",
-        "description": "Are you ready to cook burgers and serve fast food to the customers that come to your burger stall? Experience hands-on burger serving with this one of a kind burger maker game",
-        "instructions": "Mouse Controls",
-        "category": "racing",
-        "tags": [
-            "3D",
-            "3D Games",
-            "Action",
-            "Adventure",
-            "Arcade",
-            "Burger",
-            "Casual",
-            "Cook",
-            "Cooking",
-            "Fun",
-            "Funny",
-            "Hot",
-            "Hypercasual",
-            "Shopping",
-            "Unity3D"
-        ],
-        "image": "https://img.gamemonetize.com/t5jpfzqyiv31kkfz1jfqv0og0neaa722/512x384.jpg",
-        "downloads": "9.4K",
-        "rating": 4.2
-    },
-    {
-        "id": 138,
-        "name": "Win soda challenge",
-        "description": "A casual puzzle game full of fun. The player needs to manipulate the can flexibly to color the squares in the maze. Different colored squares will have different chemical reactions, soda cans offer a huge variety of missions to challenge you, especially to test your reaction and hand speed, the whole operation is not difficult to use.",
-        "instructions": "Use the mouse to click the adjacent pipeline connection repairthe pipeline can be received soda come together to drink soda ",
-        "category": "action",
-        "tags": [
-            "Action",
-            "Click",
-            "Clicker",
-            "Cook",
-            "Cooking",
-            "Cool",
-            "Food",
-            "H5"
-        ],
-        "image": "https://img.gamemonetize.com/ptrno2lf5v74droy0l5k7yykt4wl19fw/512x384.jpg",
-        "downloads": "9.3K",
-        "rating": 5
-    },
-    {
-        "id": 139,
-        "name": "Making Beverages",
-        "description": "1.Players run a milk tea shop,there are a variety of milk tea,make you feel colorful,you can add more ingredients in a cup of milk tea. 2.Let your customers enjoy the unique taste,feel the unique charm and play.",
-        "instructions": "1 Players run a milk tea shop there are a variety of milk tea make you feel colorful you can add more ingredients in a cup of milk tea 2 Different materials with different milk tea to create a unique taste of milk tea ",
-        "category": "puzzle",
-        "tags": [
-            "Clicker",
-            "Color",
-            "Cooking",
-            "Cool",
-            "Crafting",
-            "Cute",
-            "Food",
-            "H5"
-        ],
-        "image": "https://img.gamemonetize.com/8w7r1zgqznxfvcp3jdw1p3h2xuh8w8s0/512x384.jpg",
-        "downloads": "12.5K",
-        "rating": 5
-    },
-    {
-        "id": 140,
-        "name": "Papas Burgeria",
-        "description": "Welcome to Papa's Burgeria, a cooking game. Grab your spatula and get ready for a burger-flipping adventure! Take orders, grill patties, add toppings, and serve the burgers to all of your wacky customers. Have fun. You can play this game on your web browser for free on Superkidgames.com. Control at each step of the burger-building process and juggle between each area of the restaurant. Keep an eye out for customers waiting in the lobby, drag and flip burger patties on the grill to cook them just right, and add toppings and sauces to the sandwiches before serving them to your customers! Use your hard-earned tips to buy restaurant upgrades and hats to wear, and you can also decorate your lobby with furniture and posters from the Furniture Shop. Can you turn your burgeria into the most famous fast food chain in the world? - Flip the burgers with passion Papa's Burgeria guides you through the basics of flipping burgers and making a buck. Take your first order and follow the instructions on-screen. You'll start by taking the order and frying up the patty, before finalizing the burger with tomatoes, onions, sauces, seeded buns, and other cherished burger ingredients. - Manage your time As the levels progress, you'll be introduced to new customers with more complex orders. And, the number of customers will increase. That means you'll need to balance your responsibilities and learn the timings to get the best scores and tips from your customers. - Buy upgrades Papa demands that you use the tips to buy upgrades for the restaurant rather than on your own leisurely activities. You have the option to buy upgrades after each level is completed. The shop features items that will help improve customer waiting times (like a television), lamps that keep burgers warm, and many other items to spend your hard-earned cash on. - Snoop on your clientele Papa keeps a profile on all of his most prized customers. You can look in the customer book to see the detailed preferences of your returning customers.",
-        "instructions": "Select drag and move ingredients - Left mouse button",
-        "category": "action",
-        "tags": [
-            "Cooking",
-            "Funny",
-            "Management"
-        ],
-        "image": "https://img.gamemonetize.com/uw4s71zy0s3jxo6hckel04mw9rbopba8/512x384.jpg",
-        "downloads": "18.9K",
-        "rating": 3.7
+        "instructions": " Collect all the badges activate the Black Hole Playable on both desktop and mobile Jump by pressing the W key and the Arrow up key ",
+        "category": "adventure"
     }
 ]
