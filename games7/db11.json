@@ -1,0 +1,1307 @@
+[{
+        "info1": [
+            "adventure",
+            "sports",
+            "kids",
+            "girl",
+            "action",
+            "puzzle",
+            "racing"
+        ],
+        "info2": [
+            "action",
+            "girl",
+            "racing",
+            "puzzle",
+            "sports",
+            "kids",
+            "adventure"
+        ],
+        "info3": [
+            "puzzle",
+            "racing",
+            "girl",
+            "kids",
+            "sports",
+            "adventure",
+            "action"
+        ],
+        "info4": [
+            "racing",
+            "puzzle",
+            "action",
+            "kids",
+            "girl",
+            "sports",
+            "adventure"
+        ],
+        "info5": [
+            "girl",
+            "action",
+            "kids",
+            "adventure",
+            "racing",
+            "sports",
+            "puzzle"
+        ]
+    },
+    {
+        "id": 333,
+        "name": "Baby Hazel Back To School",
+        "description": "Baby Hazel is going back to school! Help her get ready with school supplies and cute outfits!",
+        "instructions": "Mouse click to interact",
+        "category": "girl",
+        "tags": [
+            "Baby Hazel",
+            "School",
+            "Kids",
+            "Dress Up"
+        ],
+        "image": "./icons/333.jpg",
+        "downloads": "12.4K",
+        "rating": 4.5,
+        "old_id": "21456"
+    },
+    {
+        "id": 324,
+        "name": "Race.io",
+        "description": "\"Race.io\" gets really addictive and challenging game as you start playing it and keep making progress. Make insane jumps and challenge your opponents.",
+        "instructions": "",
+        "category": "racing",
+        "tags": [
+            ".io Games",
+            "Game",
+            "Games",
+            "Race",
+            "Racing"
+        ],
+        "image": "./icons/324.jpg",
+        "downloads": "17.8K",
+        "rating": 4.4,
+        "old_id": "23654"
+    },
+    {
+        "id": 264,
+        "name": "Zombs Royale",
+        "description": "Zombs Royale is a 2D battle royale game with zombies. Survive against 99 other players!",
+        "instructions": "WASD to move, Mouse to aim and shoot",
+        "category": "action",
+        "tags": [
+            ".io",
+            "Battle Royale",
+            "Zombie",
+            "Survival"
+        ],
+        "image": "./icons/264.jpg",
+        "downloads": "24.1K",
+        "rating": 4.4,
+        "old_id": "5612"
+    },
+    {
+        "id": 217,
+        "name": "Pizzaiolo!",
+        "description": "Your pizzeria is open! Hurry to complete the customer's order, win too much praise!",
+        "instructions": "Tap to play ",
+        "category": "kids",
+        "tags": [
+            "Casual",
+            "Cook",
+            "Cooking",
+            "Decorate",
+            "Decoration",
+            "Food",
+            "Kid",
+            "Relaxation"
+        ],
+        "image": "./icons/217.jpg",
+        "downloads": "8.9K",
+        "rating": 4.7
+    },
+    {
+        "id": 286,
+        "name": "Subway Santa Princess Runner",
+        "description": "Subway Santa Princess Runner is a festive endless runner. Help Santa collect gifts and deliver presents!",
+        "instructions": "Swipe or arrow keys to run and jump",
+        "category": "adventure",
+        "tags": [
+            "Christmas",
+            "Endless Runner",
+            "Princess",
+            "Santa"
+        ],
+        "image": "./icons/286.jpg",
+        "downloads": "11.8K",
+        "rating": 4.4,
+        "old_id": "39578"
+    },
+    {
+        "id": 228,
+        "name": "Glory Chef",
+        "description": "Be the Glorious chef of all the time. Serve the best dishes by linking and collecting the ingredients as much and as fast as you can.",
+        "instructions": "Mouse - Left-click Touch-screen - Tap",
+        "category": "racing",
+        "tags": [
+            "Adventure",
+            "Cooking"
+        ],
+        "image": "./icons/228.jpg",
+        "downloads": "11.2K",
+        "rating": 4.9
+    },
+    {
+        "id": 287,
+        "name": "Jetpack Joyride",
+        "description": "Jetpack Joyride is the ultimate vehicle obstacle racer. Use jetpacks and other vehicles to escape the lab!",
+        "instructions": "Click or tap to fly",
+        "category": "action",
+        "tags": [
+            "Endless Runner",
+            "Flying",
+            "Jetpack"
+        ],
+        "image": "./icons/287.jpg",
+        "downloads": "33.2K",
+        "rating": 4.7,
+        "old_id": "39712"
+    },
+    {
+        "id": 273,
+        "name": "City Car Driving",
+        "description": "City Car Driving is a realistic driving simulator. Explore the city and complete various missions!",
+        "instructions": "WASD to drive, Space to brake",
+        "category": "racing",
+        "tags": [
+            "Car",
+            "Driving",
+            "Simulation",
+            "City"
+        ],
+        "image": "./icons/273.jpg",
+        "downloads": "38.9K",
+        "rating": 4.7,
+        "old_id": "6712"
+    },
+    {
+        "id": 319,
+        "name": "Crazy Football War",
+        "description": "Car battles and football go together in this amazing game! Buckle up and fly through the world's arenas facing different opponents in a championship where only victory matters. Play Crazy Football War now and try to be the best in the world!",
+        "instructions": "Computer Arrow keys or WASD Mobile Touch on screen ",
+        "category": "sports",
+        "tags": [
+            "Adventure",
+            "Arcade",
+            "Football",
+            "Race",
+            "Racing",
+            "Soccer"
+        ],
+        "image": "./icons/319.jpg",
+        "downloads": "4.7K",
+        "rating": 3.8,
+        "old_id": "27212"
+    },
+    {
+        "id": 361,
+        "name": "Math Puzzle",
+        "description": "Math Puzzle is a brain-teasing math game. Solve mathematical equations quickly and improve your skills!",
+        "instructions": "Select the correct answer",
+        "category": "puzzle",
+        "tags": [
+            "Math",
+            "Puzzle"
+        ],
+        "image": "./icons/361.jpg",
+        "downloads": "0.4K",
+        "rating": 5,
+        "old_id": "12013"
+    },
+    {
+        "id": 255,
+        "name": "Knife Hit IO",
+        "description": "Knife Hit IO is a skill-based io game. Throw knives at the target and beat other players!",
+        "instructions": "Click or tap to throw knives",
+        "category": "action",
+        "tags": [
+            ".io",
+            "Knife",
+            "Skill",
+            "Throwing"
+        ],
+        "image": "./icons/255.jpg",
+        "downloads": "13.9K",
+        "rating": 4.4,
+        "old_id": "4512"
+    },
+    {
+        "id": 325,
+        "name": "Color Road",
+        "description": "Color Road is a relaxing rolling ball game. Match the ball color with the platform and avoid obstacles!",
+        "instructions": "Tap to change ball color",
+        "category": "action",
+        "tags": [
+            "3D",
+            "Ball",
+            "Color Matching",
+            "Rolling"
+        ],
+        "image": "./icons/325.jpg",
+        "downloads": "23.6K",
+        "rating": 4.5,
+        "old_id": "22489"
+    },
+    {
+        "id": 250,
+        "name": "Paper IO 2",
+        "description": "Paper IO 2 is a strategy io game. Expand your territory and conquer your opponents!",
+        "instructions": "Mouse to move",
+        "category": "puzzle",
+        "tags": [
+            ".io",
+            "Strategy",
+            "Territory"
+        ],
+        "image": "./icons/250.jpg",
+        "downloads": "22.1K",
+        "rating": 4.8,
+        "old_id": "4289"
+    },
+    {
+        "id": 227,
+        "name": "Hoho's Burger Stacko",
+        "description": "Stack burger and serve it to the customer! Make a perfect stack to gain more money",
+        "instructions": "Mouse - Left-click Drag Touch-screen - Tap Drag",
+        "category": "kids",
+        "tags": [
+            "Burger",
+            "Business",
+            "Cook",
+            "Cooking"
+        ],
+        "image": "./icons/227.jpg",
+        "downloads": "13.6K",
+        "rating": 4.1
+    },
+    {
+        "id": 353,
+        "name": "Rocket Soccer",
+        "description": "Rocket Soccer is car soccer at its finest. Drive rocket-powered cars and play soccer in amazing arenas!",
+        "instructions": "WASD to drive, Space to boost",
+        "category": "sports",
+        "tags": [
+            "Car",
+            "Football",
+            "Soccer",
+            "Rocket"
+        ],
+        "image": "./icons/353.jpg",
+        "downloads": "26.4K",
+        "rating": 4.7,
+        "old_id": "13256"
+    },
+    {
+        "id": 366,
+        "name": "Angry Birds",
+        "description": "Angry Birds is the legendary physics-based puzzle game. Launch birds and defeat the green pigs!",
+        "instructions": "Pull back slingshot and release",
+        "category": "puzzle",
+        "tags": [
+            "Angry Birds",
+            "Physics",
+            "Puzzle",
+            "Classic"
+        ],
+        "image": "./icons/366.jpg",
+        "downloads": "51.3K",
+        "rating": 4.9,
+        "old_id": "11456"
+    },
+    {
+        "id": 348,
+        "name": "Ninja Arashi",
+        "description": "Ninja Arashi is an action-platformer game. Play as a ninja warrior on a quest to save his son!",
+        "instructions": "Tap to jump and attack",
+        "category": "adventure",
+        "tags": [
+            "Action",
+            "Ninja",
+            "Platformer",
+            "Adventure"
+        ],
+        "image": "./icons/348.jpg",
+        "downloads": "13.2K",
+        "rating": 4.7,
+        "old_id": "13590"
+    },
+    {
+        "id": 311,
+        "name": "World Cup Penalty",
+        "description": "World Cup Penalty is the official penalty shootout game. Experience World Cup excitement!",
+        "instructions": "Mouse to aim and shoot",
+        "category": "sports",
+        "tags": [
+            "Football",
+            "Penalty",
+            "Soccer",
+            "World Cup"
+        ],
+        "image": "./icons/311.jpg",
+        "downloads": "20.5K",
+        "rating": 4.5,
+        "old_id": "27658"
+    },
+    {
+        "id": 249,
+        "name": "Zombie Shooter IO",
+        "description": "Zombie Shooter IO is an intense zombie survival game. Shoot all the zombies and survive as long as you can!",
+        "instructions": "Mouse to aim and shoot, WASD to move",
+        "category": "action",
+        "tags": [
+            ".io",
+            "Shooting",
+            "Survival",
+            "Zombie"
+        ],
+        "image": "./icons/249.jpg",
+        "downloads": "19.4K",
+        "rating": 4.7,
+        "old_id": "4125"
+    },
+    {
+        "id": 1,
+        "name": "Bitcoin Mining Simulator X",
+        "image": "./icons/1.jpg",
+        "description": "Bitcoin mining simulator game. Build up your bitcoin balance and get rich. Buy different pcs to keeps getting richer and build up your bitcoin empire. [This game does not give bitcoin]",
+        "rating": 4.5,
+        "downloads": "15.2K",
+        "instructions": "Click bitcoin to earn ",
+        "category": "puzzle"
+    },
+    {
+        "id": 327,
+        "name": "ARIEL MISSING ERIC",
+        "description": "Eric and Ariel is a lovely couple Eric is going to another country for stydy and Ariel will miss him so much Rapunzel and Cinderella try their best to make her feel a little bit happier They have a great plan called Mermaid cheer up All of them are going to go shopping dressing up and dancing all night Fun isnt it",
+        "instructions": "",
+        "category": "girl",
+        "tags": [
+            "Dress Up",
+            "Fashion",
+            "Girl",
+            "Girls",
+            "Princess"
+        ],
+        "image": "./icons/327.jpg",
+        "downloads": "6.6K",
+        "rating": 3.9,
+        "old_id": "22387"
+    },
+    {
+        "id": 81,
+        "name": "Jewel Christmas",
+        "description": "It's Xmas time and what better way to celebrate than with some explosive matching action! Match three gingerbread men, stockings, trees, candy canes, presents or baubles and watch them explode! With five festive game modes and more challenges along the way this game is a perfect gift for you this Xmas! Expect plenty of jewel busting, exploding match 3 heaven with this cracker of a game!",
+        "instructions": "Match any 3 decorations in a line to pop them Line up 4 or more of the same decorations and create Xmas Explosion decorations Match them or try to combine them to create even bigger blasts The more decorations you pop the more points you score ",
+        "category": "puzzle",
+        "image": "./icons/81.jpg",
+        "downloads": "1.0K",
+        "rating": 4.6
+    },
+    {
+        "id": 315,
+        "name": "Cooking Fever",
+        "description": "Cooking Fever is a time management cooking game. Manage your kitchen and serve customers!",
+        "instructions": "Click to prepare and serve food",
+        "category": "action",
+        "tags": [
+            "Cooking",
+            "Management",
+            "Time Management"
+        ],
+        "image": "./icons/315.jpg",
+        "downloads": "32.4K",
+        "rating": 4.8,
+        "old_id": "28145"
+    },
+    {
+        "id": 341,
+        "name": "Crazy Dodge",
+        "description": "Have you ever wondered how to get Escape from the Gears? Are you a real PLayer? Become a real Player tycoon by managing your Player and protect yourself from the Gears. Expand your Best Time by not hitting with the gear and boost yourself. Discover the new record of Best Time Surviving in the game and show off to your Friend for getting more Notorious in front of them.",
+        "instructions": " 1 One of the best time pass games 2 Geniously an interesting gameplay 3 A New truly Unique Game on the Internet 4 Protect Yourself Plane from the Gears 5 OPTIMIZED FOR MOBILE 6 Have fun and amaze your friends 7 100 free game ",
+        "category": "puzzle",
+        "tags": [
+            "1 Player",
+            "Funny",
+            "Puzzle"
+        ],
+        "image": "./icons/341.jpg",
+        "downloads": "4.1K",
+        "rating": 4.9,
+        "old_id": "15866"
+    },
+    {
+        "id": 83,
+        "name": "Jewel And Santa Claus",
+        "description": "Break the jewel-obstacles to help the Santa Claus back to his home. 30 levels to enjoy. Play now! Merry Christmas!",
+        "instructions": "Tap Click to break the jewel-obstacles ",
+        "category": "puzzle",
+        "image": "./icons/83.jpg",
+        "downloads": "14.9K",
+        "rating": 4.9
+    },
+    {
+        "id": 279,
+        "name": "Stickman Hook",
+        "description": "Stickman Hook is a physics-based swinging game. Swing from hook to hook and complete levels!",
+        "instructions": "Click or tap to swing",
+        "category": "action",
+        "tags": [
+            "Physics",
+            "Stickman",
+            "Swinging",
+            "Skill"
+        ],
+        "image": "./icons/279.jpg",
+        "downloads": "21.7K",
+        "rating": 4.6,
+        "old_id": "38956"
+    },
+    {
+        "id": 76,
+        "name": "Vegetables Rush",
+        "description": "Vegetables Rush is puzzle Match game with colorful and beautiful graphics, collect three or more of the same fruits or vegetables.",
+        "instructions": "connect the vegetables 3 or more ",
+        "category": "puzzle",
+        "image": "./icons/76.jpg",
+        "downloads": "15.5K",
+        "rating": 3.6
+    },
+    {
+        "id": 85,
+        "name": "Desert Rush",
+        "description": "Desert Rush is a typical arcade matching game. Your goal is to connect the dots. Three animals surviving their way out from their hunters. Master Chain reactions Bigger the chain stronger the attack. A chain comprising of 12+ gems will yield a surprise Ariel attack. Unique game fun to play, epic adventure. There are about 30+ unique levels for you to challenge yourself. Bosses change with every stage and difficulty becomes more fun after clearing each level.",
+        "instructions": "Connect Gems to win The Goal of the Game is to have the Hero reach the flag In order to move the horse forward you need to create a chain of 3 or more poisonous mushrooms but they also deplete your life Bigger the chain - stronger the attack A",
+        "category": "puzzle",
+        "image": "./icons/85.jpg",
+        "downloads": "2.3K",
+        "rating": 3.8
+    },
+    {
+        "id": 153,
+        "name": "Food Truck Chef™ Cooking Games",
+        "description": "Love cooking games ? Then join the top chef Emily, on her cooking adventure and cook tons of delicious tacos, falafel, asmr food, sushi, fast food & pizza in Flo & Emily's Restaurant at this Time Management delicious diner restaurant game. Bring out your inner crazy chef - cook fast, beat the clock & serve and manage the delicious foods to your customers and decorate your restaurant and food truck in this time management cooking restaurant game.",
+        "instructions": "Click or tap on ingredients to cook them prepare them or serve them to the customers Double click or double tap on a plate to throw it to the garbage Don t forget to upgrade your cooking tools for an incredible cooking experience ",
+        "category": "action",
+        "tags": [
+            ".io Games",
+            "Cook",
+            "Cooking",
+            "Game",
+            "Games",
+            "HTML5",
+            "Restaurant"
+        ],
+        "image": "./icons/153.jpg",
+        "downloads": "14.6K",
+        "rating": 4.6
+    },
+    {
+        "id": 17,
+        "name": "Angela Dress up Game",
+        "image": "./icons/17.jpg",
+        "description": "Welcome to Angela's Dress-Up Game.",
+        "rating": 4.2,
+        "downloads": "6.8K",
+        "instructions": "Left Mouse Button Click ",
+        "category": "girl"
+    },
+    {
+        "id": 55,
+        "name": "Animal Tiles",
+        "description": "Animal Tiles Game requires you to match 3 blocks of the same element, you will pass the level when all tiles are matched. Which is different with Mahjong or other block puzzle game. Tile Master Match consists a large number of levels that get progressively more difficult.",
+        "instructions": " Tap to match 3 blocks of the same element",
+        "category": "puzzle",
+        "image": "./icons/55.jpg",
+        "downloads": "13.0K",
+        "rating": 4.3
+    },
+    {
+        "id": 373,
+        "name": "Tiny Fishing",
+        "description": "Tiny Fishing is a relaxing fishing game. Catch various fish and upgrade your equipment!",
+        "instructions": "Click to cast line and reel in fish",
+        "category": "action",
+        "tags": [
+            "Fishing",
+            "Relaxation",
+            "Arcade",
+            "Casual"
+        ],
+        "image": "./icons/373.jpg",
+        "downloads": "12.3K",
+        "rating": 4.1,
+        "old_id": "1326"
+    },
+    {
+        "id": 151,
+        "name": "Cooking Truck - Food truck worldwide cuisine",
+        "description": "Help Julia run her burger food truck. Her goal is to prepare the most delicious burgers. Her little food truck is constantly visited by hungry customers. Each customer approaches the food truck and orders his favorite burger. Julia has very little time to prepare the meal, but if she manages to do that quickly, customers are very generous.",
+        "instructions": "Tap on the ingredients shown on the screen to add it to the burger Follow the client s order to earn money You need to tap on the coins left by the customer to collect it ",
+        "category": "kids",
+        "tags": [
+            "Cook",
+            "Cooking",
+            "Food",
+            "Game",
+            "Games"
+        ],
+        "image": "./icons/151.jpg",
+        "downloads": "16.7K",
+        "rating": 4.3
+    },
+    {
+        "id": 244,
+        "name": "PenguinBattle.io",
+        "description": "PenguinBattle.io is a fun multiplayer battle game. Fight against other penguins and become the champion!",
+        "instructions": "Mouse to aim and shoot",
+        "category": "action",
+        "tags": [
+            ".io",
+            "Battle",
+            "Multiplayer",
+            "Penguin"
+        ],
+        "image": "./icons/244.jpg",
+        "downloads": "9.8K",
+        "rating": 4.5,
+        "old_id": "3521"
+    },
+    {
+        "id": 293,
+        "name": "Basket Random",
+        "description": "Basket Random is a funny physics-based basketball game. Play 1v1 or 2 player mode with random mechanics!",
+        "instructions": "One key gameplay - E or Click to shoot",
+        "category": "sports",
+        "tags": [
+            "2 Player",
+            "Basketball",
+            "Funny",
+            "Physics"
+        ],
+        "image": "./icons/293.jpg",
+        "downloads": "25.8K",
+        "rating": 4.7,
+        "old_id": "36845"
+    },
+    {
+        "id": 8,
+        "name": "Steve and Alex Dungeons",
+        "image": "./icons/8.jpg",
+        "description": "Steve and Alex are trapped in a dungeon in the dark, and you must help them escape. You need to rescue both of them one by one. The dungeon is very dangerous and filled with obstacles. Be careful of jumping over obstacles and watch out for spinning wheels. Collect the diamonds you need and escape from the dungeon. You must reach the door at the end of the dungeon.",
+        "rating": 4.6,
+        "downloads": "13.7K",
+        "instructions": " Played with WASD Arrow Keys Mobile touch control is available ",
+        "category": "adventure"
+    },
+    {
+        "id": 41,
+        "name": "Combo Snake",
+        "description": "Control the snake to move and collect gems. Collecting gems of the same color will create nodes of the corresponding color on the snakes body. When three nodes of the same color are connected, they will be automatically eliminated. Eliminating nodes can earn you extra points. Hitting the wall or colliding with itself will lead to the end of the game. Successfully eliminating the entire snakes body results in a game victory.",
+        "instructions": "Computer Use the arrow keys to control Mobile phone Tap the screen to control the direction ",
+        "category": "puzzle",
+        "image": "./icons/41.jpg",
+        "downloads": "5.4K",
+        "rating": 4.6
+    },
+    {
+        "id": 126,
+        "name": "Doner Kebab : Salad Tomatoes Onions",
+        "description": "Go to the other side of the counter with Doner Kebab. Take control of your restaurant and make a maximum of meal as fast as you can while following your clients's demands in this arcade-like game.",
+        "instructions": "You are finally your own boss and you own your restaurant but now you must do better Prepare as much meal as you can for your clients with the good ingredients Finish each level to earn stars get more ingredients and become the king of kebab ",
+        "category": "racing",
+        "tags": [
+            "Casual",
+            "Chicken",
+            "Cook",
+            "Cooking",
+            "Restaurant"
+        ],
+        "image": "./icons/126.jpg",
+        "downloads": "15.6K",
+        "rating": 4.2
+    },
+    {
+        "id": 160,
+        "name": "Burger Cooking Chef",
+        "description": "Live your dream of becoming a restaurant chef and a master of cooking in street food burger shops for enjoying joyful cooking. Let’s make our street burger shop full of costumers. Your mission is to prepare burgers for costumers as fast as you can to ear money. the first level will help you to learn how to play. Let's go!",
+        "instructions": "Tap or click",
+        "category": "racing",
+        "tags": [
+            "Arcade",
+            "Best",
+            "Brain",
+            "Burger",
+            "Clicker",
+            "Cooking",
+            "Girl",
+            "Girls",
+            "Hot"
+        ],
+        "image": "./icons/160.jpg",
+        "downloads": "3.3K",
+        "rating": 3.8
+    },
+    {
+        "id": 167,
+        "name": "Picnic Penguin",
+        "description": "Picnic Penguin is a puzzle game created by Neutronized. Help the penguin to push tasty treats onto the picnic blanket by pushing multiple blocks at a time and rearranging them to open the path. There are several worlds to unlock with a huge variation of puzzles to solve while finding coins to collect all the skins on the gashapon machine. Are you ready for a sick picnic?",
+        "instructions": "Push multiple blocks at a time and rearrange them to open the path and complete the levels ",
+        "category": "adventure",
+        "tags": [
+            "Burger",
+            "Cook",
+            "Cooking",
+            "Creation",
+            "Food",
+            "Ice"
+        ],
+        "image": "./icons/167.jpg",
+        "downloads": "13.5K",
+        "rating": 4.2
+    },
+    {
+        "id": 39,
+        "name": "Xmas Rooftop Battles",
+        "image": "./icons/39.jpg",
+        "description": "Time to put on your Santa hat and get ready for some action packed fun. Try to shoot your opponent off of the rooftop in this fun Christmas-themed shooter game.",
+        "rating": 4.7,
+        "downloads": "15.1K",
+        "instructions": "Tap controls or use W E or O P to shoot jump",
+        "category": "action"
+    },
+    {
+        "id": 245,
+        "name": "Hole.io Battle",
+        "description": "Hole.io Battle is a competitive io game. Swallow everything in your path and grow your black hole!",
+        "instructions": "Mouse or WASD to move",
+        "category": "action",
+        "tags": [
+            ".io",
+            "Battle",
+            "Hole",
+            "Multiplayer"
+        ],
+        "image": "./icons/245.jpg",
+        "downloads": "16.3K",
+        "rating": 4.6,
+        "old_id": "3698"
+    },
+    {
+        "id": 350,
+        "name": "Street Fighter IV",
+        "description": "Street Fighter IV is the legendary fighting game. Choose your fighter and battle opponents worldwide!",
+        "instructions": "Virtual joystick and buttons",
+        "category": "action",
+        "tags": [
+            "Fighting",
+            "Classic",
+            "Multiplayer",
+            "Action"
+        ],
+        "image": "./icons/350.jpg",
+        "downloads": "42.1K",
+        "rating": 4.9,
+        "old_id": "13124"
+    },
+    {
+        "id": 2,
+        "name": "GrowWars.io",
+        "image": "./icons/2.jpg",
+        "description": "The battle between the heroes is beginning in the battle arena with superheroes evolving! This battle is between the evolution heroes. Step into the arena and start slashing your opponents. Earn coins and buy new equipment or heroes in the shop. This battle can be played either single or 2 player. Call a friend and start playing together!",
+        "rating": 4.8,
+        "downloads": "18.5K",
+        "instructions": "Player 1 Move W A S D Attack F Dash G Player 2 Move ARROW KEYS Attack K Dash L",
+        "category": "action"
+    },
+    {
+        "id": 234,
+        "name": "Bubbling Bumpers",
+        "description": "Bubbling Bumpers is a fun and relaxing bubble shooter game. Pop all the bubbles and clear the board!",
+        "instructions": "Mouse click or tap to shoot bubbles",
+        "category": "puzzle",
+        "tags": [
+            "Bubble Shooter",
+            "Puzzle",
+            "Relaxation"
+        ],
+        "image": "./icons/234.jpg",
+        "downloads": "8.2K",
+        "rating": 4.2,
+        "old_id": "74520"
+    },
+    {
+        "id": 280,
+        "name": "Temple Run 2",
+        "description": "Temple Run 2 is the classic endless runner. Run, jump, and slide to escape the temple!",
+        "instructions": "Swipe or arrow keys to move",
+        "category": "adventure",
+        "tags": [
+            "Endless Runner",
+            "Adventure",
+            "Running"
+        ],
+        "image": "./icons/280.jpg",
+        "downloads": "52.4K",
+        "rating": 4.8,
+        "old_id": "39125"
+    },
+    {
+        "id": 289,
+        "name": "Vector",
+        "description": "Vector is a freerunning game inspired by parkour. Escape from oppression by running and performing stunts!",
+        "instructions": "Arrow keys or swipe to move",
+        "category": "adventure",
+        "tags": [
+            "Parkour",
+            "Running",
+            "Freerunning"
+        ],
+        "image": "./icons/289.jpg",
+        "downloads": "19.5K",
+        "rating": 4.6,
+        "old_id": "39989"
+    },
+    {
+        "id": 24,
+        "name": "Foosball Funny",
+        "image": "./icons/24.jpg",
+        "description": "Children and adults can play this free online foosball game on their PC or mobile devices by clicking in the window below.",
+        "rating": 4.5,
+        "downloads": "10.2K",
+        "instructions": "Player 1 W and S Player 2 Up an Down ",
+        "category": "sports"
+    },
+    {
+        "id": 31,
+        "name": "CHECKERS - Dames",
+        "image": "./icons/31.jpg",
+        "description": "Hi gamers, I created my Checkers app as an example of a good checkers game for me and published it in the Store as a free board game for you. I hope you will enjoy it and have a lot of fun playing it. :)",
+        "rating": 4.6,
+        "downloads": "11.8K",
+        "instructions": "To win a game of checkers you have to move your pieces towards your opponent s side of the board You can move faster by jumping your opponent s pieces and removing them from the board ",
+        "category": "puzzle"
+    },
+    {
+        "id": 274,
+        "name": "Drift Hunters",
+        "description": "Drift Hunters is the ultimate drift racing game. Tune your car and master the art of drifting!",
+        "instructions": "Arrow keys or WASD to drive, Space to handbrake",
+        "category": "racing",
+        "tags": [
+            "Car",
+            "Drift",
+            "Racing",
+            "Tuning"
+        ],
+        "image": "./icons/274.jpg",
+        "downloads": "10.0K",
+        "rating": 4.5,
+        "old_id": "46518"
+    },
+    {
+        "id": 299,
+        "name": "Head Soccer 2022",
+        "description": "Head Soccer 2022 is a fun header-only soccer game. Use only your head to score goals!",
+        "instructions": "Tap or click to jump and head the ball",
+        "category": "sports",
+        "tags": [
+            "Football",
+            "Header",
+            "Soccer",
+            "Sports"
+        ],
+        "image": "./icons/299.jpg",
+        "downloads": "16.3K",
+        "rating": 4.2,
+        "old_id": "33512"
+    },
+    {
+        "id": 347,
+        "name": "Arrow Fest",
+        "description": "Arrow Fest is an archery puzzle game. Shoot arrows to hit targets and solve puzzles!",
+        "instructions": "Drag and release to shoot arrows",
+        "category": "puzzle",
+        "tags": [
+            "Archery",
+            "Puzzle",
+            "Physics",
+            "Target"
+        ],
+        "image": "./icons/347.jpg",
+        "downloads": "16.5K",
+        "rating": 4.3,
+        "old_id": "13823"
+    },
+    {
+        "id": 161,
+        "name": "Scary Vending Machine",
+        "description": "Scary Vending Machine is an amazing game that helps your child to learn math by playing! Choose among three vending machines: one with toys, one with sweet treats, and one with food; each item inside the vending machines has a price you have a set of coins at your disposal to insert the right sum you can see on the display, If you’re right, the vending machine will release the item, if you’re wrong you’ll receive an error message.",
+        "instructions": "Just mouse to play ",
+        "category": "sports",
+        "tags": [
+            "Arcade",
+            "Kids",
+            "Simulation",
+            "Simulator"
+        ],
+        "image": "./icons/161.jpg",
+        "downloads": "8.4K",
+        "rating": 3.9
+    },
+    {
+        "id": 98,
+        "name": "Idle Restaurant Tycoon",
+        "description": "Do you want to be a unique restaurant manager? You can learn how to be a manager with the Idle Restaurant game. You may need some experts for cooking and serving. Hire a master chef, develop your staff, manage your finances and become the perfect boss. Also, dont forget to check your market for surprise gifts. You can play Idle Restaurant Tycoon in a simple way without the need to constantly click.",
+        "instructions": "Mouse click or tap to play",
+        "category": "kids",
+        "tags": [
+            "Cook",
+            "Cooking",
+            "eating",
+            "Funny",
+            "Hot",
+            "Interactive",
+            "Kids",
+            "Mobile",
+            "Strategy"
+        ],
+        "image": "./icons/98.jpg",
+        "downloads": "2.1K",
+        "rating": 4.8
+    },
+    {
+        "id": 349,
+        "name": "Shadow Fight 2",
+        "description": "Shadow Fight 2 is an epic fighting game. Master martial arts and defeat dark forces!",
+        "instructions": "Touch controls for attacks and blocks",
+        "category": "action",
+        "tags": [
+            "Fighting",
+            "Martial Arts",
+            "Shadow",
+            "Action"
+        ],
+        "image": "./icons/349.jpg",
+        "downloads": "37.6K",
+        "rating": 4.8,
+        "old_id": "13357"
+    },
+    {
+        "id": 58,
+        "name": "Fruits Pop",
+        "description": "Welcome to a new Fruits bubble shooting game. Fruits Pop comes with a new game logic. Help the little pets trapped inside by shooting fruits. you need to shoot 2 or more identical fruit to clear them from the board. The game will help you sometimes with some magical bubbles. Explore some amazing and challenging levels. Let's pop all fruits",
+        "instructions": "Slide to aim and shoot",
+        "category": "puzzle",
+        "image": "./icons/58.jpg",
+        "downloads": "2.0K",
+        "rating": 4.6
+    },
+    {
+        "id": 155,
+        "name": "Halloween Cooking Games",
+        "description": "A Unique Halloween Cooking - one of the most addictive time management cooking games! Join in the Halloween Cooking City, tap as fast as you can to enjoy the fast-paced gameplay!",
+        "instructions": "Click on any ingredient to place it on the pan click on the plates to serve them to the customers Open the cooking shop to upgrade your pans or buy new plates ",
+        "category": "racing",
+        "tags": [
+            ".io Games",
+            "Cooking",
+            "Game",
+            "Games",
+            "Halloween"
+        ],
+        "image": "./icons/155.jpg",
+        "downloads": "17.6K",
+        "rating": 4.9
+    },
+    {
+        "id": 270,
+        "name": "Pixel Gun 3D",
+        "description": "Pixel Gun 3D is a blocky multiplayer shooter. Explore different worlds and battle other players!",
+        "instructions": "WASD to move, Mouse to aim and shoot",
+        "category": "action",
+        "tags": [
+            "3D",
+            "Blocky",
+            "Multiplayer",
+            "Shooting"
+        ],
+        "image": "./icons/270.jpg",
+        "downloads": "35.6K",
+        "rating": 4.8,
+        "old_id": "6389"
+    },
+    {
+        "id": 36,
+        "name": "Viking Tomahawk",
+        "image": "./icons/36.jpg",
+        "description": "You can fight with CPU, or you can fight with your good friends. Take advantage of the axe in your hand and attack!",
+        "rating": 4.8,
+        "downloads": "16.4K",
+        "instructions": "Use your mouse to control ",
+        "category": "action"
+    },
+    {
+        "id": 261,
+        "name": "Shell Shockers",
+        "description": "Shell Shockers is an egg-themed multiplayer shooter. Battle against other eggs in various game modes!",
+        "instructions": "WASD to move, Mouse to aim and shoot",
+        "category": "action",
+        "tags": [
+            ".io",
+            "Egg",
+            "Multiplayer",
+            "Shooting"
+        ],
+        "image": "./icons/261.jpg",
+        "downloads": "31.5K",
+        "rating": 4.6,
+        "old_id": "5289"
+    },
+    {
+        "id": 148,
+        "name": "Fish Restaurant",
+        "description": "Build your own cafe empire. There are multiple levels of bosses that you can experience. Gain sufficient experience and climb the career ladder Huggy Wuggy",
+        "instructions": "mouse and touch",
+        "category": "sports",
+        "tags": [
+            "Fish",
+            "Fishing",
+            "Game",
+            "Restaurant",
+            "Strategy"
+        ],
+        "image": "./icons/148.jpg",
+        "downloads": "8.7K",
+        "rating": 4.2
+    },
+    {
+        "id": 43,
+        "name": "Match Cake 2D",
+        "description": "Match Cake 2D is an engaging puzzle game where players click to change the positions of various cake pieces on a 2D grid. The objective is to align similar cakes in a row or column to score points. As players advance, the game introduces more complex cake types and obstacles, enhancing the challenge. website dev <a href='https://www.playbestgames.io/'>https://www.playbestgames.io/</a>",
+        "instructions": "Mouse click or tap to play",
+        "category": "puzzle",
+        "image": "./icons/43.jpg",
+        "downloads": "13.5K",
+        "rating": 3.5
+    },
+    {
+        "id": 72,
+        "name": "The Sea Rush",
+        "description": "Use your imagination and discover what the ocean holds. Rescue all the fishes that are scattered in the levels and see all of their beautifull colors.",
+        "instructions": "Match 3 blocks or more to destroy the blocks and clear them from the game screen Use power ups to clear more blocks or collect 3 rainbow blocks to make a random power up that you can use Manage to collect 3 fishes in their bubles and you win the level ",
+        "category": "puzzle",
+        "image": "./icons/72.jpg",
+        "downloads": "18.9K",
+        "rating": 4.9
+    },
+    {
+        "id": 16,
+        "name": "Angela Tom Perfect Valentine",
+        "image": "./icons/16.jpg",
+        "description": "Welcome to the Angela Perfect Valentine game. Angela and Tom love to spend time together on this valentine.",
+        "rating": 4.4,
+        "downloads": "7.2K",
+        "instructions": "Left Mouse Button Click ",
+        "category": "girl"
+    },
+    {
+        "id": 86,
+        "name": "EG Smiles",
+        "description": "The goal is to crushes all the smiles.. except the red one! So simple! Touch or click as fast as you can. Ecaps Games with tons of games for all ages and bringing fun to player Play free online games Have fun!",
+        "instructions": "Mouse or Touch",
+        "category": "puzzle",
+        "image": "./icons/86.jpg",
+        "downloads": "8.2K",
+        "rating": 4.8
+    },
+    {
+        "id": 260,
+        "name": "Diep Io",
+        "description": "Diep Io is a tank shooter io game. Destroy shapes and other players to level up and upgrade your tank!",
+        "instructions": "WASD to move, Mouse to aim and shoot",
+        "category": "action",
+        "tags": [
+            ".io",
+            "Shooting",
+            "Tank",
+            "Upgrade"
+        ],
+        "image": "./icons/260.jpg",
+        "downloads": "28.3K",
+        "rating": 4.7,
+        "old_id": "5124"
+    },
+    {
+        "id": 5,
+        "name": "Black and White Stickman",
+        "image": "./icons/5.jpg",
+        "description": "Would you like to join the adventure of the black and white stickmen? Help them in this adventure and guide them to the portal. The black and white stickmen need to collect all the star points and monster balls to reach the portal. Remember to collect not only the stars but also the monster balls. Be cautious of obstacles; if you collide with them, youll lose and fail. Stay alert to avoid losing.",
+        "rating": 4.7,
+        "downloads": "16.3K",
+        "instructions": " Collect all the badges activate the Black Hole Playable on both desktop and mobile Jump by pressing the W key and the Arrow up key ",
+        "category": "adventure"
+    },
+    {
+        "id": 103,
+        "name": "Pizza Cafe Tycoon",
+        "description": "Are you ready to build a successful cafe empire with you? You currently own a pizza shop and customers love their delicious pizza. Your task is to deliver various pizza orders on time and quickly. Remember, speed and quality are everything in the cafe business. You have to work with dedication to ensure the satisfaction of your customers. Manage orders quickly and effectively without slowing down and offer your customers an unforgettable experience. Build your own strategies for success in your cafe empire and seize opportunities to grow your business.",
+        "instructions": "How to play Desktop Mouse Mobile Touch control ",
+        "category": "action",
+        "tags": [
+            "Cook",
+            "Cooking",
+            "Game",
+            "Restaurant",
+            "Simulation",
+            "Street Fighting",
+            "Timing"
+        ],
+        "image": "./icons/103.jpg",
+        "downloads": "19.0K",
+        "rating": 4.1
+    },
+    {
+        "id": 295,
+        "name": "Basketball Stars",
+        "description": "Basketball Stars is a 2-player basketball game. Challenge your friends in quick matches!",
+        "instructions": "Mouse to aim and shoot",
+        "category": "sports",
+        "tags": [
+            "2 Player",
+            "Basketball",
+            "Sports"
+        ],
+        "image": "./icons/295.jpg",
+        "downloads": "28.4K",
+        "rating": 4.6,
+        "old_id": "37012"
+    },
+    {
+        "id": 99,
+        "name": "Speedy Bartender",
+        "description": "Step into the fast-paced world of a master mixologist in Speedy Bartender, a thrilling arcade game where quenching thirst meets adrenaline pumping action! Thirsty customers line the bar, their eyes pleading for a taste of your liquid artistry. Will you be the hero who delivers the perfect pour, or will frustration bubble over with spilled drinks and disappointed sighs?",
+        "instructions": "Mobile Touch PC Mouse",
+        "category": "action",
+        "tags": [
+            "1 Player",
+            "Adult",
+            "Cooking",
+            "Hypercasual"
+        ],
+        "image": "./icons/99.jpg",
+        "downloads": "14.2K",
+        "rating": 3.9
+    },
+    {
+        "id": 172,
+        "name": "Hot Dog Maker Fast-food - jeu de cuisine",
+        "description": "Kids get ready to enjoy the madness of real food in the most amazing street food games. Enter the fast food restaurant kitchen filled with hot sausages for a delicious hot dog. Start your own interesting street food store and get a set of fun cooking games.",
+        "instructions": "Exciting levels of spicy hot dog makers give you an extra dose of sausage fun Level mode and control mode of street cooking games are ready to surprise you One by one complete levels of chef cooking games and learn hot dog maker skills Then enjoy all t",
+        "category": "racing",
+        "tags": [
+            "Food",
+            "Hot",
+            "HTML5"
+        ],
+        "image": "./icons/172.jpg",
+        "downloads": "11.7K",
+        "rating": 4.9
+    },
+    {
+        "id": 222,
+        "name": "Shopkins: Shoppie Cupcake Maker",
+        "description": "Shoppies Shopkins Cooking Cupcake Game Lesson 7, is here Shoppies shows you how fun and amazing it is to cook new and astonishing cupcake dessert recipes. You will be captivated by these recipes and cooking will surely become your new passion! Sharpen all your senses while cooking adorable and delicate cupcake recipes that look great, smell so heavenly while baking, taste divinely delicious, feel so smooth in your mouth, and seem to be the most relaxing and fun cooking game experience ever. All that with this Cooking Lesson 7!",
+        "instructions": " ",
+        "category": "kids",
+        "tags": [
+            "Cake",
+            "Candy",
+            "Casual",
+            "Christmas",
+            "Cook",
+            "Cool",
+            "Craft",
+            "Girls",
+            "Hello Kitty"
+        ],
+        "image": "./icons/222.jpg",
+        "downloads": "3.2K",
+        "rating": 4
+    },
+    {
+        "id": 163,
+        "name": "Lets Create with Tom and Jerry",
+        "description": "Play Let's Create with Tom and Jerry Game online in your web browser and mobile at Superkidgames.com for free and more html5 games. This game Lets Create with Tom and Jerry, we have had a really awesome time playing it ourselves, so there is no doubt in our minds that the same is going to be applying to your own time with it also, as there is never a bad time to have fun with lovable characters like Tom and Jerry! In case you want to learn more about how these creativity games work, allow us to teach you here. You begin by choosing one of the available black and white pictures, and you are then going to use the several buttons and tools all around the image, which you can color, modify, and decorate however you see fit, since this is a game all about using your imagination to create new and interesting pictures out of the existing ones. Join in on the fun right now, and stick around, since more awesome games are coming for you today, and we want you to check them out also!",
+        "instructions": "Use the mouse ",
+        "category": "puzzle",
+        "tags": [
+            "Best",
+            "Boys",
+            "Cat",
+            "Color",
+            "Coloring",
+            "Draw",
+            "Drawing",
+            "Educational",
+            "Family",
+            "Fun",
+            "Girls",
+            "HTML5",
+            "Kids",
+            "Mobile"
+        ],
+        "image": "./icons/163.jpg",
+        "downloads": "4.4K",
+        "rating": 4.8
+    },
+    {
+        "id": 184,
+        "name": "Cotton Candy Shop Game",
+        "description": "Take the role of the fun fair food creator and surprise your customers in a cooking app with some yummy desserts! This making cotton candy game is a great way to start experiencing first steps into the culinary world of new cooking games! Got any ideas? Suggestions? Need technical support? We would love to hear from you. Visit us: https://tophat-games.com Contact us: support@tophat-games.com",
+        "instructions": "use your mouse to play ",
+        "category": "adventure",
+        "tags": [
+            "Adventure",
+            "Candy",
+            "Cook",
+            "Cooking",
+            "Cool",
+            "Food",
+            "Girl",
+            "Girls",
+            "Kid",
+            "Kids",
+            "Shopping"
+        ],
+        "image": "./icons/184.jpg",
+        "downloads": "12.7K",
+        "rating": 4.9
+    },
+    {
+        "id": 51,
+        "name": "Maze Pac Runner",
+        "description": "Pac Maze Runner is a puzzle game online and a free game that you will be addicted to, which is perfect for kids. You just need to click the button to launch the beans, Pac man eats all the beans. Pays attention to the moving obstacles. It's time to test your reflexes, and the classic Pacman gameplay gives you an exciting experience.",
+        "instructions": "Mouse or tap to play",
+        "category": "puzzle",
+        "image": "./icons/51.jpg",
+        "downloads": "8.6K",
+        "rating": 4.5
+    },
+    {
+        "id": 29,
+        "name": "Pingpong Dot",
+        "image": "./icons/29.jpg",
+        "description": "Pingpong Dot, look how high your score?",
+        "rating": 4.3,
+        "downloads": "8.9K",
+        "instructions": "",
+        "category": "sports"
+    },
+    {
+        "id": 120,
+        "name": "Santa Cooking",
+        "description": "Santa cooking is one of the newest and most addictive restaurant food cooking games, featuring time management skills, strategy, and simulation fun. Show your cooking skills by making delicious burgers and toast to become a master chef!",
+        "instructions": "Cooking is crazy Tap ingredients to craft food ",
+        "category": "puzzle",
+        "tags": [
+            "Christmas",
+            "Cooking",
+            "Funny",
+            "Puzzle",
+            "Skills",
+            "Strategy",
+            "Timing"
+        ],
+        "image": "./icons/120.jpg",
+        "downloads": "14.5K",
+        "rating": 4.3
+    },
+    {
+        "id": 345,
+        "name": "Crowd Run 3D",
+        "description": "Crowd Run 3D is an addictive runner game. Collect your crowd and overcome obstacles!",
+        "instructions": "Swipe or arrow keys to move",
+        "category": "adventure",
+        "tags": [
+            "3D",
+            "Crowd",
+            "Runner",
+            "Obstacle"
+        ],
+        "image": "./icons/345.jpg",
+        "downloads": "24.3K",
+        "rating": 4.6,
+        "old_id": "14289"
+    },
+    {
+        "id": 10,
+        "name": "Kingdom of Toilets",
+        "image": "./icons/10.jpg",
+        "description": "You need to help the toilet robots escape from this underground prison filled with obstacles. You must assist them in escaping. Be careful as there are toxic waters everywhere underground. You must collect all the gold coins, or else the portal wont activate. Collect all the gold coins to activate the portal.",
+        "rating": 4.2,
+        "downloads": "9.8K",
+        "instructions": " Played with WASD Arrow Keys Mobile touch control is available double jump available ",
+        "category": "adventure"
+    },
+    {
+        "id": 307,
+        "name": "Penalty Kickers",
+        "description": "Penalty Kickers is an intense penalty shootout game. Score goals and save penalties!",
+        "instructions": "Mouse to aim and kick",
+        "category": "sports",
+        "tags": [
+            "Football",
+            "Penalty",
+            "Soccer",
+            "Sports"
+        ],
+        "image": "./icons/307.jpg",
+        "downloads": "14.9K",
+        "rating": 4.3,
+        "old_id": "29745"
+    },
+    {
+        "id": 61,
+        "name": "Zumba Ocean",
+        "description": "Zumba Ocean with over 59 levels is an online Boy and Girl game. Zumba Ocean plays like all the Zuma series of arcade puzzle games with bottles and diamonds models. With the same match 3 play rules, you are required to destroy all jewels in the chain and get the marked scores at each level. Glad you will complete all targets and win three stars at all levels! You can also find more games at superkidgames.com, pick up one and have fun!",
+        "instructions": "Match 3 or more same-coloured gems to eliminate them Destroy all gems in the chain before it hits the end ",
+        "category": "puzzle",
+        "image": "./icons/61.jpg",
+        "downloads": "15.7K",
+        "rating": 4.6
+    },
+    {
+        "id": 368,
+        "name": "Where's My Water",
+        "description": "Where's My Water is a physics puzzle game. Dig through dirt and guide water to Swampy!",
+        "instructions": "Swipe to dig and clear paths",
+        "category": "puzzle",
+        "tags": [
+            "Physics",
+            "Puzzle",
+            "Water",
+            "Disney"
+        ],
+        "image": "./icons/368.jpg",
+        "downloads": "39.5K",
+        "rating": 4.7,
+        "old_id": "10990"
+    },
+    {
+        "id": 7,
+        "name": "Garten of Banban Obby",
+        "image": "./icons/7.jpg",
+        "description": "Obby must survive the Garden of Banban monsters. There are two different tasks available: you can either help Obby on your own or team up with two friends to assist Obby and Nooby. Collect all the gold coins and buy the most beautiful costumes for yourselves. Become the owners of super cool costumes. While escaping, never look back. The monster is right behind you, dont stop running. Run from the monster.",
+        "rating": 4.4,
+        "downloads": "14.1K",
+        "instructions": " Steve Press WASD keys to move and jump Alex Press Arrow Keys keys to move and jump Mobile Control Available",
+        "category": "action"
+    }
+]
