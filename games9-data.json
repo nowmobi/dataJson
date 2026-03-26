@@ -17,29 +17,6 @@
     "rating": 3.7
   },
   {
-    "id": 552,
-    "old_id": "48672",
-    "name": "Catch The Cat Online",
-    "description": "Catch The Cat is an exciting online game with addictive gameplay and attractive graphics. This game is perfect for players of all ages. Your goal is to catch an elusive cat that is constantly trying to escape. As the levels progress, youll need to plan your moves carefully, taking into account the cats condition and the objects or composites you can use. Lets dive into the details and see what makes Catch The Cat a must-play game.",
-    "instructions": "Click or tap to find the cat",
-    "category": "sports",
-    "tags": [
-      "Boy",
-      "Brain",
-      "Cat",
-      "Cute",
-      "Fun",
-      "H5",
-      "Kid",
-      "Obstacle",
-      "Skill",
-      "Strategy"
-    ],
-    "image": "./icons/552.jpg",
-    "downloads": "3.1K",
-    "rating": 4.6
-  },
-  {
     "id": 553,
     "old_id": "48713",
     "name": "GBox Memory",
@@ -84,26 +61,6 @@
     "rating": 4.1
   },
   {
-    "id": 555,
-    "old_id": "48732",
-    "name": "Trump Apple Shooter",
-    "description": "Get ready for some exhilarating target practice with Trump Apple Shooter &ndash; an online game tailor-made for kids thats not only super fun but also completely free to play! In this game, your mission is crystal clear: take aim and shoot the apple perched atop Trumps head to advance to the next level. Precision and focus are your best allies as you navigate through increasingly challenging stages. Test your archery skills and see if you have what it takes to hit the mark every time.With its simple yet addictive gameplay, Trump Apple Shooter promises hours of entertainment for kids of all ages.",
-    "instructions": "Mouse to play ",
-    "category": "action",
-    "tags": [
-      "Arcade",
-      "Avoid",
-      "Bow",
-      "Boy",
-      "HTML5",
-      "Hypercasual",
-      "Shoot"
-    ],
-    "image": "./icons/555.jpg",
-    "downloads": "16.6K",
-    "rating": 4.4
-  },
-  {
     "id": 556,
     "old_id": "48752",
     "name": "Pride Mahjong",
@@ -136,39 +93,6 @@
     "rating": 4.1
   },
   {
-    "id": 558,
-    "old_id": "48760",
-    "name": "Mr Bean Car Hidden Teddy Bear",
-    "description": "Mr Bean Car Hidden Teddy Bear is a hidden game. Search all teddy bear within time limit between Mr. bean car.",
-    "instructions": "mouse click or tap to play",
-    "category": "racing",
-    "tags": [
-      "Hidden"
-    ],
-    "image": "./icons/558.jpg",
-    "downloads": "13.4K",
-    "rating": 3.7
-  },
-  {
-    "id": 559,
-    "old_id": "48762",
-    "name": "Bomber Battle Arena",
-    "description": "Bomber Battle Arena is an exciting 3D collecting game that lets you play as a bomb-wielding character. Your goal is to strategically detonate bombs to clear various green plants and tree stumps, collect a golden key, and reach the treasure chest to advance to the next level. Be careful of the bomb&rsquo;s blast radius and avoid contact with other monsters along the way. Get ready for an explosive adventure through 10 challenging levels full of explosive action!",
-    "instructions": "WASD to move four directions Space to plant a bomb",
-    "category": "action",
-    "tags": [
-      "Arena",
-      "Battle",
-      "Bomb",
-      "Collecting",
-      "Maze",
-      "Monster"
-    ],
-    "image": "./icons/559.jpg",
-    "downloads": "19.8K",
-    "rating": 3.8
-  },
-  {
     "id": 560,
     "old_id": "48818",
     "name": "Skibidi Dungeon Of Doom",
@@ -189,126 +113,6 @@
     "rating": 4.7
   },
   {
-    "id": 561,
-    "old_id": "48856",
-    "name": "Skibidi Drop",
-    "description": "Skibidi Drop is a 60 levels of fun physics puzzle game! all boxes except the grass must be removed where the prison is standing. Simply click or tap on the boxes or blocks to destroy them. Carefully use the set blocks in what ever way you can to get the Skibidi Toilet safely into the grass. You can reset each level if you made a wrong move. Solve this fun physics game and enjoy!",
-    "instructions": "Mouse click or tap to play",
-    "category": "sports",
-    "tags": [
-      "Skibidi",
-      "Skibidi Toilet"
-    ],
-    "image": "./icons/561.jpg",
-    "downloads": "4.1K",
-    "rating": 4.4
-  },
-  {
-    "id": 562,
-    "old_id": "48864",
-    "name": "World of Alice   Draw Shapes",
-    "description": "Learn the various geometric shapes, such as circles, squares, triangles and rectangles, among others. Children learn to draw shapes in a fun and interactive way. This game is specifically designed for preschool and primary school aged children, with the aim of making learning geometric shapes a fun and engaging adventure. Play from your cell phone, tablet or computer. Stimulate creativity, learning and fun at the same time with this engaging educational game!",
-    "instructions": "Draw geometric shapes on the board using dotted lines ",
-    "category": "kids",
-    "tags": [
-      "Baby Games",
-      "Best",
-      "Best Games",
-      "Cartoon",
-      "Clicker",
-      "Coloring",
-      "Draw",
-      "Drawing",
-      "Educational",
-      "HTML5",
-      "Kids",
-      "School"
-    ],
-    "image": "./icons/562.jpg",
-    "downloads": "4.8K",
-    "rating": 3.8
-  },
-  {
-    "id": 563,
-    "old_id": "48865",
-    "name": "When Mr Bean meet Grimace",
-    "description": "Mr Bean must meet Grimace, help his way in this brainy puzzle adventure",
-    "instructions": "mouse only or tap to play",
-    "category": "sports",
-    "tags": [
-      "Brain",
-      "Grimace",
-      "Grimace Shake",
-      "Skibidi",
-      "Skibidi Toilet"
-    ],
-    "image": "./icons/563.jpg",
-    "downloads": "2.1K",
-    "rating": 4.8
-  },
-  {
-    "id": 564,
-    "old_id": "48870",
-    "name": "MahjongPeng",
-    "description": "MahjongPeng is a puzzle eliminating GamesPlayers can push mahjong to merge and eliminate themWhen players merge and eliminate all mahjong, they can achieve victoryThis game has three levels of difficulty, and you can choose the game with the appropriate level to play",
-    "instructions": "Mouse click to the screen",
-    "category": "sports",
-    "tags": [
-      "1 Player",
-      "2D",
-      "Mahjong",
-      "Puzzle"
-    ],
-    "image": "./icons/564.jpg",
-    "downloads": "9.2K",
-    "rating": 4.4
-  },
-  {
-    "id": 565,
-    "old_id": "48879",
-    "name": "Penguin Love Puzzle 2",
-    "description": "Penguin Love Puzzle is a fun pixel puzzle game. A couple of penguins are forced to separate, and you need to move and exchange blocks to reunite them. On the way, be careful of spikes and traps, if you accidentally hit them you will fail. Use your brain, help them and have fun!",
-    "instructions": "Click or tap",
-    "category": "sports",
-    "tags": [
-      "Android",
-      "Animal",
-      "Avoid",
-      "Boy",
-      "H5",
-      "HTML5",
-      "Kid",
-      "Love",
-      "Skill",
-      "Strategy"
-    ],
-    "image": "./icons/565.jpg",
-    "downloads": "6.2K",
-    "rating": 4.8
-  },
-  {
-    "id": 566,
-    "old_id": "48887",
-    "name": "Grimace Drop",
-    "description": "Help Grimace to escape from forest prison!!! Grimace Drop is a 60 levels of fun physics puzzle game! all boxes except the grass must be removed where the prison is standing. Simply click or tap on the boxes or blocks to destroy them. Carefully use the set blocks in what ever way you can to get the Grimace Drop safely into the grass. Solve this fun physics game and help Grimace to escape from prison!",
-    "instructions": "Mouse click or tap to play",
-    "category": "puzzle",
-    "tags": [
-      "Arcade",
-      "Boy",
-      "Grimace",
-      "Grimace Shake",
-      "HTML",
-      "HTML5",
-      "Kids",
-      "Physics",
-      "Puzzle"
-    ],
-    "image": "./icons/566.jpg",
-    "downloads": "8.8K",
-    "rating": 3.9
-  },
-  {
     "id": 567,
     "old_id": "48896",
     "name": "Jungle Puzzle",
@@ -321,43 +125,7 @@
     ],
     "image": "./icons/567.jpg",
     "downloads": "13.6K",
-    "rating": 4.0
-  },
-  {
-    "id": 568,
-    "old_id": "48939",
-    "name": "Sunken Treasure Escape",
-    "description": "You explore a sunken ship deep under the sea surface. The only way to escape is to reveal the secrets of the ship and find the valuable treasures hidden inside.",
-    "instructions": "Use Mouse to take items",
-    "category": "adventure",
-    "tags": [
-      "Escape",
-      "Mouse",
-      "Point And Click"
-    ],
-    "image": "./icons/568.jpg",
-    "downloads": "7.9K",
-    "rating": 4.9
-  },
-  {
-    "id": 569,
-    "old_id": "48941",
-    "name": "FLAG CONNECT",
-    "description": "In this you need to eliminate all the tiles appearing on the board. You can connect identical tiles to each other to eliminate both in which each connection cant have more than 2 turns",
-    "instructions": "Use mouse or touch pad to play this",
-    "category": "puzzle",
-    "tags": [
-      "Arcade",
-      "Fun",
-      "HTML5",
-      "Mahjong",
-      "Matching",
-      "Mobile",
-      "Puzzle"
-    ],
-    "image": "./icons/569.jpg",
-    "downloads": "11.0K",
-    "rating": 4.5
+    "rating": 4
   },
   {
     "id": 570,
@@ -380,45 +148,6 @@
     "rating": 4.6
   },
   {
-    "id": 571,
-    "old_id": "48982",
-    "name": "When Granny Met Grimace Shake",
-    "description": "Granny must meet Grimace, help his way in this brainy puzzle adventure",
-    "instructions": "mouse only",
-    "category": "puzzle",
-    "tags": [
-      "Grimace"
-    ],
-    "image": "./icons/571.jpg",
-    "downloads": "6.8K",
-    "rating": 4.7
-  },
-  {
-    "id": 572,
-    "old_id": "48991",
-    "name": "Blondie in the Real World",
-    "description": "Blondie lives in her perfect doll world. She is happy, but one day she realizes that something is wrong with her life. Her life is too artificial and perfect. Blondie decides to go to the real world and do real things to feel real. Help the Blonde to embody her image in makeup. Bake a cake for the guests and put things in order together with Blondie in her new apartment. Pick up a delightful party outfit for her and remember that Blondies favorite colors are pink, gold and white.",
-    "instructions": "Depending on the gaming device a computer mouse click or a simple touch on touch screens is used for control ",
-    "category": "girl",
-    "tags": [
-      "Barbie",
-      "Celebrity",
-      "Cooking",
-      "Cute",
-      "Dress Up",
-      "Fashion",
-      "Girl",
-      "Hair",
-      "HTML5",
-      "Jewel",
-      "Makeover",
-      "Princess"
-    ],
-    "image": "./icons/572.jpg",
-    "downloads": "3.4K",
-    "rating": 4.8
-  },
-  {
     "id": 573,
     "old_id": "48999",
     "name": "Conquer us",
@@ -434,52 +163,6 @@
     "image": "./icons/573.jpg",
     "downloads": "15.1K",
     "rating": 3.6
-  },
-  {
-    "id": 574,
-    "old_id": "49012",
-    "name": "EuroFlag Quiz: Master the Flags of Europe",
-    "description": "Are you ready to embark on an exciting journey through the diverse world of European flags? Test your knowledge, and become a true flag master with EuroFlag Quiz! Gameplay: EuroFlag Quiz is an engaging and educational quiz game that will take you on a tour of Europes flags. The game is designed to be both fun and informative, making it suitable for players of all ages.",
-    "instructions": "Mouse click or tap to play",
-    "category": "action",
-    "tags": [
-      ".io",
-      ".io Games",
-      "1 Player",
-      "2D",
-      "Android",
-      "Arcade",
-      "Best",
-      "Best Games",
-      "Fun",
-      "Funny",
-      "Quiz"
-    ],
-    "image": "./icons/574.jpg",
-    "downloads": "17.6K",
-    "rating": 4.3
-  },
-  {
-    "id": 575,
-    "old_id": "49013",
-    "name": "Mahjong Connect Classic",
-    "description": "Mahjong Connect Classic is a traditional tile-matching puzzle game. Simply connect pairs via a connecting line that can have up to two 90-degree turns. Enjoy solving several layouts with increasing difficulty!",
-    "instructions": "Click with the mouse to connect two tiles with a line that can have up to two 90-degree turns ",
-    "category": "puzzle",
-    "tags": [
-      "1 Player",
-      "Classic",
-      "Game",
-      "Games",
-      "HTML",
-      "HTML5",
-      "Mahjong",
-      "Online",
-      "Puzzle"
-    ],
-    "image": "./icons/575.jpg",
-    "downloads": "15.5K",
-    "rating": 4.0
   },
   {
     "id": 576,
@@ -503,64 +186,7 @@
     ],
     "image": "./icons/576.jpg",
     "downloads": "2.6K",
-    "rating": 5.0
-  },
-  {
-    "id": 577,
-    "old_id": "49030",
-    "name": "Ski Resort Hidden Snowflakes",
-    "description": "Try to find 100 snowflakes in 20 pictures in this hidden object game.. The game time is not limited. Good luck!",
-    "instructions": "Use your mouse ",
-    "category": "puzzle",
-    "tags": [
-      "Hidden",
-      "HTML5",
-      "Puzzle",
-      "Snow"
-    ],
-    "image": "./icons/577.jpg",
-    "downloads": "10.9K",
-    "rating": 4.5
-  },
-  {
-    "id": 578,
-    "old_id": "49039",
-    "name": "Ghost Town Escape 4 &ndash; Mirrored Dimension",
-    "description": "Within an abandoned military town, youre called to assist spectral residents. Gather 45 mysterious coins to activate an exit portal. Eerie whispers surround you, guiding your mission. Seek out relics linked to the spirits memories. Their appreciation unlocks the portal, merging the realms. Face spectral challenges and enigmas as you journey towards transcendence, where the physical and ethereal converge.",
-    "instructions": "Mouse PC or tap Mobile to play the game ",
-    "category": "adventure",
-    "tags": [
-      "Adventure",
-      "Escape",
-      "Point And Click",
-      "Room"
-    ],
-    "image": "./icons/578.jpg",
-    "downloads": "17.2K",
-    "rating": 4.0
-  },
-  {
-    "id": 579,
-    "old_id": "49077",
-    "name": "Penguin Love Puzzle 3",
-    "description": "Penguin Love Puzzle is a fun pixel puzzle game. A couple of penguins are forced to separate, and you need to move and exchange blocks to reunite them. On the way, be careful of spikes and traps, if you accidentally hit them you will fail. Use your brain, help them and have fun!",
-    "instructions": "Click or tap",
-    "category": "puzzle",
-    "tags": [
-      "Android",
-      "Animal",
-      "Avoid",
-      "Brain",
-      "H5",
-      "Love",
-      "Mobile",
-      "Obstacle",
-      "Skill",
-      "Strategy"
-    ],
-    "image": "./icons/579.jpg",
-    "downloads": "12.2K",
-    "rating": 4.9
+    "rating": 5
   },
   {
     "id": 580,
@@ -585,24 +211,6 @@
     "rating": 3.9
   },
   {
-    "id": 581,
-    "old_id": "49082",
-    "name": "Daddy Escape",
-    "description": "Daddy Escape-Save Pull Pin Out game is a unique hyper casual puzzle game. Use your brain to solve the tricky pin pull out puzzle game and get the daddy out before it&rsquo;s too late. In this pull pin game, Help Daddy rescue to escape from the dangerous home be careful about Monsters, Villains, Bombs, Spike, Lava and all such dangerous obstacles. Its now up to your puzzle game critical thinking of how you will get the daddy out escape games and save him. If you like escape and pull the pin games, You will love this how-to loot - Save daddy brain puzzle. Let test your IQ with Daddy Escape game.",
-    "instructions": "- Pull the pins in the right order and save the daddy - Just a small mistake can lose daddy - Train your brain with this daddy rescue game ",
-    "category": "puzzle",
-    "tags": [
-      "1 Player",
-      "2D",
-      "Best Games",
-      "HTML5",
-      "Puzzle"
-    ],
-    "image": "./icons/581.jpg",
-    "downloads": "1.3K",
-    "rating": 3.8
-  },
-  {
     "id": 582,
     "old_id": "49089",
     "name": "Color Me",
@@ -619,142 +227,6 @@
     "image": "./icons/582.jpg",
     "downloads": "19.3K",
     "rating": 4.9
-  },
-  {
-    "id": 583,
-    "old_id": "49099",
-    "name": "X Bubble Sets",
-    "description": "Funny colored bubbles. Pop them! In the game X-Bubble Sets, you will need to launch bubbles and fall into piles with the same colors. Pop all the bubbles, earn points and complete the levels.",
-    "instructions": "Aim and tap to launch the bubble in the direction of pressing If they get into one-color bubbles they will burst if there are 3 or more of them Bubbles that remain hanging in the air will also burst ",
-    "category": "action",
-    "tags": [
-      "Bubble",
-      "Bubble Shooter",
-      "Color",
-      "Fun",
-      "Levels",
-      "Mobile",
-      "Puzzle"
-    ],
-    "image": "./icons/583.jpg",
-    "downloads": "18.1K",
-    "rating": 5.0
-  },
-  {
-    "id": 584,
-    "old_id": "49100",
-    "name": "Extra Ball Chains",
-    "description": "You play as a little frog who protects his house from the invasion of balls. Help her destroy all the balls by shooting new balls. The balls are moving along the path in the direction of the frogs house and if they reach it, then you will lose. The goal of the game is to score as many points as possible and complete as many levels as possible. This game will help you develop your logic and reaction speed, as well as provide a lot of fun and fun!",
-    "instructions": "Click with the mouse or finger to the place where the frog should launch the ball Connect 3 or more balls of the same color to burst the balls You need to burst all the balls before they reach the end of the way ",
-    "category": "action",
-    "tags": [
-      "Bubble Shooter",
-      "Levels",
-      "Mobile",
-      "Puzzle",
-      "Zuma"
-    ],
-    "image": "./icons/584.jpg",
-    "downloads": "17.9K",
-    "rating": 4.3
-  },
-  {
-    "id": 585,
-    "old_id": "49101",
-    "name": "Funny Cars Route",
-    "description": "Funny Cars Route is an exciting game where your task is to draw a path for cars so that they can park in places. The game has various levels, from easy to very difficult, which require you to be smart and draw, and you will need to park several different cars at the same time. When passing the levels, the paths will become more complicated, so you will have to put more effort and creativity to make all the cars pass.",
-    "instructions": "To start paving the way click on the car and lead the way to the parking lot of the same color and let go as soon as you pave the way and the direction of movement will correspond to the direction of parking ",
-    "category": "racing",
-    "tags": [
-      "Car",
-      "Cars",
-      "Draw",
-      "Drawing",
-      "Funny",
-      "Level",
-      "Levels",
-      "Logic",
-      "Mobile"
-    ],
-    "image": "./icons/585.jpg",
-    "downloads": "7.3K",
-    "rating": 3.6
-  },
-  {
-    "id": 586,
-    "old_id": "49102",
-    "name": "Color Bubbles Ultra",
-    "description": "Pop all the colorful bubbles by shooting at them, and get to the boss faster than they get close to you. The faster and more accurately you cope with the task, the more points you will earn!",
-    "instructions": "By clicking the mouse or finger you need to shoot at single-colored bubbles to burst them Dont let the bubbles get too low The main goal is to get to the boss and hit him with any ball ",
-    "category": "action",
-    "tags": [
-      "Bubble",
-      "Bubble Shooter",
-      "Color",
-      "Fun",
-      "Mobile",
-      "Puzzle"
-    ],
-    "image": "./icons/586.jpg",
-    "downloads": "14.8K",
-    "rating": 4.4
-  },
-  {
-    "id": 587,
-    "old_id": "49105",
-    "name": "Duck X Target",
-    "description": "The pond is a great habitat for friendly ducks, but it was captured by evil brethren and marine life. Armed with a gun, shoot at moving targets, but be careful! The faster and more accurately you shoot, the more the time scale will be maintained, which will allow you to score more points. Help your feathered friends protect the pond and bring calm back to it in the shooting gallery Ducks-Target!",
-    "instructions": "Use the mouse cursor to move the sight Left mouse button - shot Also a tap on the device with a touch screen is responsible for moving the sight and the shot ",
-    "category": "action",
-    "tags": [
-      "Mobile",
-      "Puzzle",
-      "Shooter",
-      "Shooting"
-    ],
-    "image": "./icons/587.jpg",
-    "downloads": "15.9K",
-    "rating": 4.4
-  },
-  {
-    "id": 588,
-    "old_id": "49113",
-    "name": "Tricky Picture Puzzle",
-    "description": "Welcome to Tricky Pucture Puzzle - Tricky Test - top fun thinking and brain-up games! Tricky Test is an addictive free tricky puzzle game with a series of tricky brain teasers. This funny brain game can evaluate your logical thinking ability, reflexes, accuracy, memory, and creativity with different riddles. Moreover, Brain Puzzle can make your brain explode and bring you new brain-pushing experiences. You can enjoy yourself with your friends with this addictive brain game. Do you have the puzzle skills to solve the trickiest riddles? Is your brain capable of finding clues?",
-    "instructions": "Mouse click or tap to play",
-    "category": "puzzle",
-    "tags": [
-      "Arcade",
-      "Casual",
-      "Fun",
-      "Kid",
-      "Math",
-      "Puzzle"
-    ],
-    "image": "./icons/588.jpg",
-    "downloads": "19.0K",
-    "rating": 4.4
-  },
-  {
-    "id": 589,
-    "old_id": "49126",
-    "name": "Dragon Ball 5 Difference",
-    "description": "Welcome to Dragon Ball 5 Difference, the thrilling and completely free spot-the-difference game thats perfect for both kids and adults alike! Get ready to join a captivating journey of visual puzzles and excitement. In this enchanting game, your task is to sharpen your observation skills by spotting the five subtle differences between two images from the Dragon Ball universe. Its a game that offers both entertainment and a delightful challenge, suitable for fans of all ages. Whether youre a devoted Dragon Ball enthusiast or simply seeking a fun way to test your keen eye, Dragon Ball 5 Difference is here to provide endless enjoyment.",
-    "instructions": "Mouse to play ",
-    "category": "kids",
-    "tags": [
-      "Arcade",
-      "Cartoon",
-      "Difference",
-      "Dragon Ball Z",
-      "HTML5",
-      "Kids",
-      "Puzzle",
-      "Skill"
-    ],
-    "image": "./icons/589.jpg",
-    "downloads": "11.2K",
-    "rating": 4.0
   },
   {
     "id": 590,
@@ -916,26 +388,7 @@
     ],
     "image": "./icons/597.jpg",
     "downloads": "14.4K",
-    "rating": 4.0
-  },
-  {
-    "id": 598,
-    "old_id": "49269",
-    "name": "Mr Bean &amp; Skibidi Tetris",
-    "description": "When Mr Bean play tetris with skibidi toilet!!!",
-    "instructions": "Arrow keys - move space - drop z x - rotate",
-    "category": "racing",
-    "tags": [
-      "Cartoon",
-      "Cartoon Network",
-      "Skibidi",
-      "Skibidi Toilet",
-      "Skill",
-      "Tetris"
-    ],
-    "image": "./icons/598.jpg",
-    "downloads": "18.0K",
-    "rating": 4.0
+    "rating": 4
   },
   {
     "id": 599,
@@ -971,96 +424,6 @@
     "image": "./icons/600.jpg",
     "downloads": "19.1K",
     "rating": 4.7
-  },
-  {
-    "id": 601,
-    "old_id": "49293",
-    "name": "Fry Skibidi",
-    "description": "Enjoy this Halloween season with this amazing puzzle horror game featuring the character of the moment Skibidi Toilet! Fry Skibidi is the coolest physics-based puzzle game. Drop the Skibidi down onto a metal block by destroying all the other blocks. Once all the blocks are gone and the Skibidi is on a metal block press the ZAPPER button to fry Skibidi! explore all three worlds and clear all the puzzles.",
-    "instructions": "Mouse click or tap to play The main goal is to land the Skibidi on the metal block and once all blocks are destroyed press the zapper button to fry the Skibidi ",
-    "category": "action",
-    "tags": [
-      "Arcade",
-      "Block",
-      "Boy",
-      "HTML5",
-      "Mobile",
-      "Physics",
-      "Puzzle",
-      "Skibidi",
-      "Skibidi Toilet"
-    ],
-    "image": "./icons/601.jpg",
-    "downloads": "12.5K",
-    "rating": 4.0
-  },
-  {
-    "id": 602,
-    "old_id": "49303",
-    "name": "Halloween Mazes",
-    "description": "Halloween Mazes is a thrilling puzzle game with twists and turns. Race against the clock to find a path from the entrance to the exit before time runs out. Can you solve 12 puzzles and emerge victorious? Give it your best shot!",
-    "instructions": "Navigate the skullball using the keyboards arrow keys or effortlessly guide it to exit with a mouse or touchpad ",
-    "category": "puzzle",
-    "tags": [
-      "Board",
-      "Halloween",
-      "HTML5",
-      "Maze",
-      "Mobile"
-    ],
-    "image": "./icons/602.jpg",
-    "downloads": "11.5K",
-    "rating": 3.9
-  },
-  {
-    "id": 603,
-    "old_id": "49309",
-    "name": "Cubes Crush",
-    "description": "Welcome to Cubes Crush Match3 puzzle game. Tap or click on two or more identical cubes to pop them and keep crushing cubes till you finish your mission and get the score on the top. Enjoy cool sound effect and amazing graphics. Game by vodogame.com",
-    "instructions": "Tap or mouse click to pop cubes",
-    "category": "puzzle",
-    "tags": [
-      "Match3",
-      "Matching"
-    ],
-    "image": "./icons/603.jpg",
-    "downloads": "15.7K",
-    "rating": 3.9
-  },
-  {
-    "id": 604,
-    "old_id": "49320",
-    "name": "2048 Cube Winner",
-    "description": "Are you ready to challenge yourself? 2048 Cube Winner is an addictive merge puzzle game for those who like challenging brain teasers and logic puzzle merge games. Believe me, it is much harder to reach 2048 than drop the number.",
-    "instructions": "Mouse click or tap to play",
-    "category": "puzzle",
-    "tags": [
-      "3D",
-      "Fun",
-      "Math",
-      "Puzzle"
-    ],
-    "image": "./icons/604.jpg",
-    "downloads": "11.6K",
-    "rating": 4.9
-  },
-  {
-    "id": 605,
-    "old_id": "49372",
-    "name": "Marble Match Classic",
-    "description": "Jungle Marble is a marble shoot game with the theme of Egyptian mythology. Jungle Marble Pop Blast is a marble shoot game with the theme of Egyptian mythology. It is easy to play, but truly addictive.",
-    "instructions": "1 Tap screen where you want to shoot marbles 2 match 3 or more same color marbles to make blast 3 Swap the shooting marble by touching the marble emitter 4 You can use props to make the game easy ",
-    "category": "action",
-    "tags": [
-      "1 Player",
-      "2D",
-      "Bubble",
-      "jungle",
-      "Zuma"
-    ],
-    "image": "./icons/605.jpg",
-    "downloads": "11.8K",
-    "rating": 3.9
   },
   {
     "id": 606,
@@ -1100,29 +463,6 @@
     "rating": 4.9
   },
   {
-    "id": 608,
-    "old_id": "49448",
-    "name": "Ben10 Jigsaw Puzzle",
-    "description": "Train your brain with Ben 10 Aliens. Solve the puzzle with 5 Bens aliens pictures, 4x4 of tiles. No time limit, you can solve the puzzle at your own pace. Fun and awesome pictures of bens aliens are waiting to be solved.",
-    "instructions": "Drag and Drop",
-    "category": "puzzle",
-    "tags": [
-      "2D",
-      "Alien",
-      "Ben 10",
-      "Boys",
-      "Brain",
-      "Cartoon",
-      "Cartoon Network",
-      "Girls",
-      "Jigsaw",
-      "Puzzle"
-    ],
-    "image": "./icons/608.jpg",
-    "downloads": "2.3K",
-    "rating": 3.8
-  },
-  {
     "id": 609,
     "old_id": "49452",
     "name": "Pumpkin Roll",
@@ -1140,28 +480,6 @@
     "image": "./icons/609.jpg",
     "downloads": "13.1K",
     "rating": 3.7
-  },
-  {
-    "id": 610,
-    "old_id": "49458",
-    "name": "Racing Truck Difference",
-    "description": "Car racing is a fascinating sight, but it is especially interesting when heavy vehicles - trucks, are accepted in competitions. To manage such engines, skills are required and our riders definitely have them. Otherwise, we would not get such colorful and interesting photos that are now in our game Racing Truck Differences. We specifically selected some of the most impressive ones and suggest you find the differences between pairs of almost identical frames. Search time is limited, the scale will move down, steadily decreasing. Website Developer <a href='https://speedcargames.com/'>https://speedcargames.com/</a>",
-    "instructions": "Use mouse or touch on the screen ",
-    "category": "racing",
-    "tags": [
-      "Best",
-      "Best Games",
-      "Difference",
-      "Fun",
-      "HTML5",
-      "Kids",
-      "Mobile",
-      "Skill",
-      "Truck"
-    ],
-    "image": "./icons/610.jpg",
-    "downloads": "4.1K",
-    "rating": 4.8
   },
   {
     "id": 611,
@@ -1195,27 +513,6 @@
     "image": "./icons/612.jpg",
     "downloads": "16.0K",
     "rating": 4.4
-  },
-  {
-    "id": 613,
-    "old_id": "49475",
-    "name": "Grimace Shake Jigsaw Puzzlef",
-    "description": "Grimace Shake Jigsaw is a brain puzzle assembly Game. Grimace Shake Jigsaw comes with amazing puzzle image pack. Just arrange the pieces of puzzles to get the right image. Looking for puzzle games for adults or kids? You found it! enjoy and relax!",
-    "instructions": "Drag the pictures in appropriate place Use mouse click or tap to play ",
-    "category": "kids",
-    "tags": [
-      "Cartoon",
-      "Fun",
-      "Grimace",
-      "Grimace Shake",
-      "Hypercasual",
-      "Jigsaw",
-      "Kids",
-      "Puzzle"
-    ],
-    "image": "./icons/613.jpg",
-    "downloads": "17.8K",
-    "rating": 4.9
   },
   {
     "id": 614,
@@ -1258,87 +555,6 @@
     "rating": 3.9
   },
   {
-    "id": 616,
-    "old_id": "49554",
-    "name": "Halloween Tiles Mahjong",
-    "description": "Experience Halloween Tile Matching with a 9-space stack. Tap tiles to stack and clear the board by finding 3 identical tiles while maintaining free space. Avoid overfilling the stack to achieve victory!",
-    "instructions": "Use a mouse or touchpad to play this game ",
-    "category": "puzzle",
-    "tags": [
-      "Arcade",
-      "Halloween",
-      "Mahjong",
-      "Match-3",
-      "Matching",
-      "Puzzle"
-    ],
-    "image": "./icons/616.jpg",
-    "downloads": "5.9K",
-    "rating": 4.2
-  },
-  {
-    "id": 617,
-    "old_id": "49563",
-    "name": "Jinx &amp; Minx Tower Escape",
-    "description": "Its Halloween, and the skeleton Jinx and Minx bunnies are trapped high in an abandoned tower! Its up to you to guide them through spooky corridors, haunted rooms and puzzles, collecting the keys and the candy to get the bunnies out and back together! Website Developer <a href='https://playonline.top/'>https://playonline.top/</a>",
-    "instructions": "Use the arrow keys to move the characters and left click or touch to interact with objects ",
-    "category": "puzzle",
-    "tags": [
-      "1 Player",
-      "Adventure",
-      "Brain",
-      "Escape",
-      "Girl",
-      "Girls",
-      "Halloween",
-      "Kid",
-      "Kids",
-      "Logic",
-      "Logical"
-    ],
-    "image": "./icons/617.jpg",
-    "downloads": "12.1K",
-    "rating": 4.0
-  },
-  {
-    "id": 618,
-    "old_id": "49578",
-    "name": "Granny Jigsaw Puzzle",
-    "description": "Granny Jigsaw Puzzle is a fun horror puzzle game. You can select one of the nine images and then select one of the four modes (16, 36, 64 and 100 pieces). Select your favorite picture and complete the jigsaw in the shortest time possible! Have fun and enjoy!",
-    "instructions": "Use mouse or touch on the screen ",
-    "category": "puzzle",
-    "tags": [
-      "Best",
-      "Fun",
-      "Halloween",
-      "Horror",
-      "HTML5",
-      "Jigsaw",
-      "Mobile",
-      "Skills"
-    ],
-    "image": "./icons/618.jpg",
-    "downloads": "11.3K",
-    "rating": 5.0
-  },
-  {
-    "id": 619,
-    "old_id": "49667",
-    "name": "Cute Cat Jigsaw Puzzle",
-    "description": "Are you a cat lover with a passion for puzzles? If so, get ready for an adorable and engaging adventure with &ldquo;Cute Cat Jigsaw Puzzle.&rdquo; This delightful game features 15 levels of feline-themed fun that will captivate your heart and challenge your mind.",
-    "instructions": "Drag and Drop",
-    "category": "puzzle",
-    "tags": [
-      "Jigsaw",
-      "Kids",
-      "Puzzle",
-      "Skill"
-    ],
-    "image": "./icons/619.jpg",
-    "downloads": "1.3K",
-    "rating": 3.5
-  },
-  {
     "id": 620,
     "old_id": "49668",
     "name": "Butterfly Jigsaw Puzzle",
@@ -1353,7 +569,7 @@
     ],
     "image": "./icons/620.jpg",
     "downloads": "10.8K",
-    "rating": 5.0
+    "rating": 5
   },
   {
     "id": 621,
@@ -1441,7 +657,7 @@
     ],
     "image": "./icons/625.jpg",
     "downloads": "1.1K",
-    "rating": 5.0
+    "rating": 5
   },
   {
     "id": 626,
@@ -1475,250 +691,6 @@
     "image": "./icons/627.jpg",
     "downloads": "10.1K",
     "rating": 4.6
-  },
-  {
-    "id": 628,
-    "old_id": "49758",
-    "name": "Pumpkin Blast",
-    "description": "Hey Jack needs your help to escape from this dark prison! The main goal is to land Jack the pumpkin in the safe area with the least number of attempts! You just use the explosive to move Jack in the right direction but be aware at the dangerous spikes! Are you able to get the three stars for each level?",
-    "instructions": "Mouse click or tap to play",
-    "category": "puzzle",
-    "tags": [
-      "Bomb",
-      "Halloween",
-      "HTML5",
-      "Monster",
-      "Puzzle"
-    ],
-    "image": "./icons/628.jpg",
-    "downloads": "4.7K",
-    "rating": 3.9
-  },
-  {
-    "id": 629,
-    "old_id": "49770",
-    "name": "2048 Ballz",
-    "description": "2048 Ballz - is an endless physics puzzle with 2048 mechanics! You have to combine balls of the same color to get new one! Set a record! Enjoy this beautiful and relaxing game!",
-    "instructions": "Swipe your finger mouse cursor right and left to move the ball and release Combine balls with the same numbers to get a larger ones The bigger the balls the higher your score The game ends when the field is filled up to the dotted line ",
-    "category": "puzzle",
-    "tags": [
-      "2D",
-      "Ball",
-      "Best",
-      "Best Games",
-      "Bomb",
-      "Casual",
-      "Puzzle"
-    ],
-    "image": "./icons/629.jpg",
-    "downloads": "1.3K",
-    "rating": 4.8
-  },
-  {
-    "id": 630,
-    "old_id": "49772",
-    "name": "Autumn Solitaire Tripeaks",
-    "description": "Play Classic TriPeaks or 100 different autumn levels. Remove all cards from the tableau, you can remove top cards that are 1 higher or 1 lower in value than the open card on the bottom. Click on the closed stack to get a new open card.",
-    "instructions": "You can get a joker or a bonus card directly on the playing field or by making several moves in a row ",
-    "category": "puzzle",
-    "tags": [
-      "Card",
-      "Girls",
-      "Holiday",
-      "Logical",
-      "Puzzle",
-      "Solitaire"
-    ],
-    "image": "./icons/630.jpg",
-    "downloads": "18.5K",
-    "rating": 5.0
-  },
-  {
-    "id": 631,
-    "old_id": "49807",
-    "name": "Spooky Sort It",
-    "description": "Spooky Sort It! is a mind-sharpening brain puzzle that challenges you to sort a variety of haunting balls into the right tubes. As you tackle these spectral twists and turns, youll not only enhance your problem-solving skills but also find a delightful way to cope with stress and refresh your mind in the captivating world of spectral sorting.",
-    "instructions": "Use a mouse or touchpad to play this game ",
-    "category": "puzzle",
-    "tags": [
-      "Bubble",
-      "Halloween",
-      "Matching",
-      "Puzzle",
-      "Skill"
-    ],
-    "image": "./icons/631.jpg",
-    "downloads": "14.9K",
-    "rating": 4.9
-  },
-  {
-    "id": 632,
-    "old_id": "49811",
-    "name": "Halloween Skibidi Pac Pac",
-    "description": "Get Ready for Halloween Skibidi Pac Pac! Dive into the Halloween-themed maze, where your goal is simple: gobble up all the dots while dodging enemies to progress to the next level. In this exciting game, you control a Skibidi character on a mission to eat all the dots scattered throughout the maze. Be quick and nimble to avoid the roaming enemies. Guide your character through the mazes twists and turns, and collect all the dots to advance to the next challenging level. Happy gaming!",
-    "instructions": "Use Arrow keys or WASD to play ",
-    "category": "kids",
-    "tags": [
-      "Avoid",
-      "Collecting",
-      "Halloween",
-      "Hypercasual",
-      "Kids",
-      "PacMan",
-      "Skibidi",
-      "Skibidi Toilet",
-      "Skill"
-    ],
-    "image": "./icons/632.jpg",
-    "downloads": "11.0K",
-    "rating": 4.6
-  },
-  {
-    "id": 633,
-    "old_id": "49834",
-    "name": "Pumpkin Fright Night",
-    "description": "Help Mr. Jack Lantern to collect all missing pumpkins! Use the physic to move and rotate Mr. Jack! Enjoy this great Halloween puzzle Game!",
-    "instructions": "UP W Key Make a Jump Left A Key Rotate Left Right D Key Rotate Right",
-    "category": "puzzle",
-    "tags": [
-      "Boy",
-      "Halloween",
-      "HTML",
-      "HTML5",
-      "Mobile",
-      "Monster",
-      "Puzzle"
-    ],
-    "image": "./icons/633.jpg",
-    "downloads": "13.1K",
-    "rating": 4.0
-  },
-  {
-    "id": 634,
-    "old_id": "49841",
-    "name": "Marine Mahjong",
-    "description": "If you love water and sea-ocean theme, then Marine Mahjong is for you! Match the tiles which have captain hats, ships, boats, sea animals and shellfishes on top! You have 40 minutes, do your best!",
-    "instructions": "Your goal is to match open pairs of identical tiles and remove them from the board exposing the tiles under them for play The game is finished when all pairs of tiles have been removed from the board or when there are no exposed pairs remaining ",
-    "category": "puzzle",
-    "tags": [
-      "1 Player",
-      "Boat",
-      "Fish",
-      "Mahjong",
-      "Matching"
-    ],
-    "image": "./icons/634.jpg",
-    "downloads": "12.5K",
-    "rating": 4.6
-  },
-  {
-    "id": 635,
-    "old_id": "49859",
-    "name": "Nine Mens Morris",
-    "description": "Looking for a challenging and exciting online board game? Look no further than Nine Mens Morris! With the ability to play against friends or the computer, this game requires strategic thinking and skill to form lines or rows of 3 and leave your opponent with either 2 pieces or 0 moves. Sharpen your intelligence and have a great time playing Nine Mens Morris!",
-    "instructions": "Mouse click or tap to play",
-    "category": "puzzle",
-    "tags": [
-      "Board",
-      "Brain",
-      "Kids",
-      "Strategy"
-    ],
-    "image": "./icons/635.jpg",
-    "downloads": "15.6K",
-    "rating": 4.9
-  },
-  {
-    "id": 636,
-    "old_id": "49870",
-    "name": "Halloweem Pumpkin Adventure",
-    "description": "Halloween Pumpkin Adventure is an incredibly fun online game with a Halloween theme. The goal of the game is to guide the pumpkin to the finish line. Simply tap or click on the screen to lift the pumpkin up. Enjoy the spooky fun and see if you can successfully complete the adventure! Website Developer <a href='https://www.video-igrice.com/'>https://www.video-igrice.com/</a>",
-    "instructions": "Mouse to play ",
-    "category": "kids",
-    "tags": [
-      "Arcade",
-      "Avoid",
-      "Halloween",
-      "HTML5",
-      "Hypercasual",
-      "Kids",
-      "Puzzle",
-      "Skill"
-    ],
-    "image": "./icons/636.jpg",
-    "downloads": "5.4K",
-    "rating": 4.5
-  },
-  {
-    "id": 637,
-    "old_id": "49885",
-    "name": "Infinity Cubes 2048",
-    "description": "Infinity Cubes 2048 with funny physics. Merge identical cubes and enjoy their funny physics. Get the biggest cube! Have a good game!",
-    "instructions": "Controls on mobile phone Moving the area with the cube Touch the screen and move your finger along the horizon Drop the cube down Release your finger from the screen Mouse control Moving the area with the cube Hold down the Right mouse button and",
-    "category": "puzzle",
-    "tags": [
-      "1 Player",
-      "2048",
-      "Arcade",
-      "Best",
-      "Casual",
-      "endless",
-      "Highscore",
-      "Logic",
-      "Logical",
-      "Matching",
-      "Mind",
-      "Puzzle",
-      "Unity3D",
-      "WebGL"
-    ],
-    "image": "./icons/637.jpg",
-    "downloads": "2.5K",
-    "rating": 4.1
-  },
-  {
-    "id": 638,
-    "old_id": "49898",
-    "name": "InsectaQuest Adventures",
-    "description": "InsectaQuest-Adventure: Explore a world of hidden wonders, embark on thrilling insect-catching adventures, and solve shadowy mysteries. Spin the wheel to win coins and unlock the enchanting Magic Magnifying Glass to reveal hidden treasures and secrets!",
-    "instructions": "Use a mouse or touchpad to play this game ",
-    "category": "adventure",
-    "tags": [
-      "Arcade",
-      "Hidden",
-      "HTML5",
-      "Kids",
-      "Mobile",
-      "Puzzle",
-      "Skill"
-    ],
-    "image": "./icons/638.jpg",
-    "downloads": "18.5K",
-    "rating": 4.4
-  },
-  {
-    "id": 639,
-    "old_id": "49913",
-    "name": "Find the Anemacilus",
-    "description": "Its time to go on a journey. A whole new world awaits you, with treasures hidden everywhere! Check under every stone and bush. Maybe this treasure is guarded by a dragon? Stroll through the plains of the city of freedom; visit the islands where cherry blossoms bloom; explore the jungle in the domain of the Archon of Wisdom. Everywhere you can find mysterious mysterious objects. Collect them all and get a meeting with your favorite characters as a reward!",
-    "instructions": "Depending on the gaming device a computer mouse click or a simple touch on touch screens is used for control ",
-    "category": "adventure",
-    "tags": [
-      "Adventure",
-      "Anime",
-      "Arcade",
-      "Clicker",
-      "Fantasy",
-      "Girl",
-      "Girls",
-      "Hidden",
-      "HTML5",
-      "Memory",
-      "Princess"
-    ],
-    "image": "./icons/639.jpg",
-    "downloads": "3.0K",
-    "rating": 3.5
   },
   {
     "id": 640,
@@ -1757,30 +729,6 @@
     "image": "./icons/641.jpg",
     "downloads": "2.9K",
     "rating": 4.1
-  },
-  {
-    "id": 642,
-    "old_id": "50012",
-    "name": "Merge Monster: Rainbow Master",
-    "description": "Merge Monster: Rainbow Master is a brand-new merge monster battle game. Where players can join epic battles, upgrade combat skills and earn the title of the worlds greatest merge master. Gather your rainbow troops now, are you ready to take to the battlefield and lead an army of monsters to victory?",
-    "instructions": "Click or tap to play",
-    "category": "action",
-    "tags": [
-      "3D",
-      "3D Games",
-      "Android",
-      "Arcade",
-      "Avoid",
-      "Boy",
-      "Boys",
-      "Dinosaur",
-      "H5",
-      "HTML5",
-      "Kids"
-    ],
-    "image": "./icons/642.jpg",
-    "downloads": "1.5K",
-    "rating": 3.8
   },
   {
     "id": 643,
@@ -1840,22 +788,6 @@
     "rating": 3.7
   },
   {
-    "id": 646,
-    "old_id": "50061",
-    "name": "halloween pumpkin Jigsaw Game",
-    "description": "Welcome to halloween pumpkin Jigsaw Joyride! Our halloween pumpkin Jigsaw Joyride Puzzle Slider game is a fun and engaging way to test your visual acuity and problem-solving skills. Simply slide the images around until you find the perfect match, and watch as the puzzle pieces come together to form a beautiful halloween pumpkin Jigsaw Joyride picture. With a wide variety of halloween pumpkin Jigsaw Joyride images to choose from, youre sure to find something you love. So why wait? Come on in and start playing our halloween pumpkin Jigsaw Joyride Puzzle Slider game today!",
-    "instructions": "Mouse click or tap to play",
-    "category": "puzzle",
-    "tags": [
-      "Card",
-      "Halloween",
-      "Puzzle"
-    ],
-    "image": "./icons/646.jpg",
-    "downloads": "17.5K",
-    "rating": 4.7
-  },
-  {
     "id": 647,
     "old_id": "50064",
     "name": "Pill Escape",
@@ -1890,23 +822,6 @@
     "image": "./icons/648.jpg",
     "downloads": "18.9K",
     "rating": 4.4
-  },
-  {
-    "id": 649,
-    "old_id": "50086",
-    "name": "Water Sort Color Puzzle",
-    "description": "Water Sort Color Puzzle game is a fun game of putting colors together. Categorize the colors in different bottles and try to collect them in the same bottles. Once you separate all the colors, you will be able to pass the level. You can change the tubes or backgrounds with the coins you earn.",
-    "instructions": "MOUSE",
-    "category": "puzzle",
-    "tags": [
-      "Brain",
-      "Color",
-      "Mind",
-      "Puzzle"
-    ],
-    "image": "./icons/649.jpg",
-    "downloads": "11.0K",
-    "rating": 3.7
   },
   {
     "id": 650,
@@ -1947,106 +862,6 @@
     "rating": 3.9
   },
   {
-    "id": 652,
-    "old_id": "50109",
-    "name": "Pill Puzzler",
-    "description": "Play the Pill Puzzler pill sorting game! Learn how to quickly distribute pills to patients. It takes accuracy and speed to assign the right amount of pills. Play Pill Puzzler right now and become the best doctor!",
-    "instructions": " Controls Use your mouse or touch to take out pills and distribute them to the patients Show your skill in the game Pill Puzzler Reputation Treat patients and earn reputation If a patient dies or is treated incorrectly it leads to loss of reputat",
-    "category": "racing",
-    "tags": [
-      "Puzzle"
-    ],
-    "image": "./icons/652.jpg",
-    "downloads": "19.5K",
-    "rating": 4.6
-  },
-  {
-    "id": 653,
-    "old_id": "50131",
-    "name": "Draw Puzzle Tricky City",
-    "description": "Draw Puzzle Tricky City is a game that appeals to people of all ages. To help the girl successfully get the microphone, you need to overcome all the traps and obstacles on the way. When you come back from school, after a tiring day, when you want to take time for yourself after taking care of the children, it will be waiting for you, bringing you pleasant moments in your boring moments.",
-    "instructions": "Slide to draw",
-    "category": "kids",
-    "tags": [
-      "Brain",
-      "city",
-      "Draw",
-      "Funny",
-      "Girl",
-      "H5",
-      "HTML5",
-      "Kids"
-    ],
-    "image": "./icons/653.jpg",
-    "downloads": "17.2K",
-    "rating": 4.2
-  },
-  {
-    "id": 654,
-    "old_id": "50132",
-    "name": "Space Room Escape",
-    "description": "Space Room Escape is a fun puzzle game. Fan of cat games? Looking for more addictive games about cats? Come give it a try and take control of the cutest feisty cat in sneaky and action-packed adventures. Let the abnormal cat rescue begin! Hope you enjoy it!",
-    "instructions": "Hold to fly",
-    "category": "adventure",
-    "tags": [
-      "3D",
-      "Brain",
-      "Cat",
-      "Escape",
-      "fly",
-      "HTML5",
-      "Kids",
-      "Room",
-      "Space"
-    ],
-    "image": "./icons/654.jpg",
-    "downloads": "4.3K",
-    "rating": 3.8
-  },
-  {
-    "id": 655,
-    "old_id": "50168",
-    "name": "Tile Connect Club",
-    "description": "Tile Connect Club is a brain-training game that tests your linking skills. You have to connect tiles with different pictures in pairs and clear them all within a limited time. You can enjoy various pictures on the tiles, such as animals, fruits, flowers, and more. You can also play faster and faster to become a tile master. Tile Connect Club is a fun and addictive game that challenges your mind and eyes. If you are looking for some tile-connecting action, then download Tile Connect Club now!",
-    "instructions": "Mouse click or tap to play",
-    "category": "puzzle",
-    "tags": [
-      "2D",
-      "Animal",
-      "Boys",
-      "Cute",
-      "Food",
-      "Girls",
-      "Kids",
-      "Matching"
-    ],
-    "image": "./icons/655.jpg",
-    "downloads": "6.1K",
-    "rating": 4.6
-  },
-  {
-    "id": 656,
-    "old_id": "50183",
-    "name": "Cute Cat Jigsaw",
-    "description": "Are you a cat lover with a passion for puzzles? If so, get ready for an adorable and engaging adventure with &ldquo;Cute Cat Jigsaw.&rdquo; This delightful game features 15 levels of feline-themed fun that will captivate your heart and challenge your mind.",
-    "instructions": "Use mouse or touch on the screen ",
-    "category": "puzzle",
-    "tags": [
-      "Adventure",
-      "Animal",
-      "Best",
-      "Cat",
-      "Fun",
-      "Jigsaw",
-      "Logic",
-      "Mobile",
-      "Skill"
-    ],
-    "image": "./icons/656.jpg",
-    "downloads": "12.1K",
-    "rating": 4.5
-  },
-  {
     "id": 657,
     "old_id": "50194",
     "name": "Mathematics: Master of Arithmetic",
@@ -2070,25 +885,6 @@
     "rating": 3.6
   },
   {
-    "id": 658,
-    "old_id": "50200",
-    "name": "Turkey Twist Tetriz",
-    "description": "Immerse yourself in the Thanksgiving spirit with Turkey Twist Tetriz. Strategically rotate, position, and match festive items to score big. Can you prevent the board from overflowing and achieve top scores this Thanksgiving?",
-    "instructions": "Use a mouse to play this game ",
-    "category": "puzzle",
-    "tags": [
-      "Arcade",
-      "Block",
-      "HTML5",
-      "Matching",
-      "Mobile",
-      "Puzzle"
-    ],
-    "image": "./icons/658.jpg",
-    "downloads": "9.9K",
-    "rating": 4.6
-  },
-  {
     "id": 659,
     "old_id": "50204",
     "name": "2048 X2 Legends",
@@ -2102,23 +898,6 @@
     "image": "./icons/659.jpg",
     "downloads": "13.8K",
     "rating": 4.3
-  },
-  {
-    "id": 660,
-    "old_id": "50205",
-    "name": "Escape Mars",
-    "description": "You were exploring Mars when your ship malfunctioned. Now, you must find a new power cell in order to escape. Look around and see what you can find to help repair your ship and escape from Mars! Website Developer <a href='https://www.playit-online.com/'>https://www.playit-online.com/</a>",
-    "instructions": "Use Mouse to take items",
-    "category": "adventure",
-    "tags": [
-      "Escape",
-      "Mouse",
-      "Point And Click",
-      "Space"
-    ],
-    "image": "./icons/660.jpg",
-    "downloads": "7.1K",
-    "rating": 3.8
   },
   {
     "id": 661,
@@ -2144,89 +923,6 @@
     "image": "./icons/661.jpg",
     "downloads": "17.4K",
     "rating": 3.5
-  },
-  {
-    "id": 662,
-    "old_id": "50253",
-    "name": "Rolling Cheese",
-    "description": "This little mouse is starving! Get the cheese to him in order to solve the levels. Click breakable objects and get them out of the way. Collect up to 3 strawberries in every puzzle to gain more points! Try to obtain 3 stars on all 24 levels!",
-    "instructions": "Click breakable objects to destroy them Use your mouse or tap on your screen ",
-    "category": "puzzle",
-    "tags": [
-      "1 Player",
-      "Animal",
-      "Cute",
-      "Fun",
-      "Game",
-      "HTML",
-      "HTML5",
-      "Mouse",
-      "Physics",
-      "Puzzle"
-    ],
-    "image": "./icons/662.jpg",
-    "downloads": "19.0K",
-    "rating": 4.5
-  },
-  {
-    "id": 663,
-    "old_id": "50318",
-    "name": "Kick The Jump",
-    "description": "Poke the lazy man to get him from one part of the house to another. While doing all this, be aware of the dangers. Dodge traps, gaps and other items. Make the lazy man reach his goal and make him happy.",
-    "instructions": "W A S D or ARROW KEYS",
-    "category": "action",
-    "tags": [
-      "Boys",
-      "Casual",
-      "Fun",
-      "Funny",
-      "jump"
-    ],
-    "image": "./icons/663.jpg",
-    "downloads": "10.0K",
-    "rating": 4.5
-  },
-  {
-    "id": 664,
-    "old_id": "50344",
-    "name": "Find The Truth Master",
-    "description": "Find The Truth Master is a fun puzzle solving game. In this new version of the game, puzzles will be interspersed with episodes that may require you to exercise your brain by breaking the rules and thinking outside the box. If you are a big fan of brain games, then what are you waiting for? Have fun with it!",
-    "instructions": "Click or tap to play",
-    "category": "puzzle",
-    "tags": [
-      "Brain",
-      "Fun",
-      "Funny",
-      "H5",
-      "HTML5",
-      "Kids",
-      "Skill"
-    ],
-    "image": "./icons/664.jpg",
-    "downloads": "11.4K",
-    "rating": 4.3
-  },
-  {
-    "id": 665,
-    "old_id": "50372",
-    "name": "Black Friday: Shopping Mania",
-    "description": "Go shopping with this gorgie and get ready to take advantage of all the discounts! In the Black Friday: Shopping Mania game for girls, you and Kendall Jenner are hitting the mall with one purpose in mind: to shop till you drop! Hope youre wearing your comfy shoes... Its shopping time!",
-    "instructions": "Use your mouse to play this game on a desktop or tap to play on mobile devices ",
-    "category": "girl",
-    "tags": [
-      "1 Player",
-      "Celebrity",
-      "Dress Up",
-      "Fashion",
-      "Girl",
-      "Hidden",
-      "HTML5",
-      "Makeover",
-      "Shopping"
-    ],
-    "image": "./icons/665.jpg",
-    "downloads": "16.6K",
-    "rating": 4.2
   },
   {
     "id": 666,
@@ -2327,26 +1023,6 @@
     "rating": 3.7
   },
   {
-    "id": 671,
-    "old_id": "50402",
-    "name": "Santa Fright Night",
-    "description": "Help Santa Claus to collect all missing Gifts! Use the physic to move, jump and rotate Santa! Enjoy this great Christmas Puzzle Adventure Game!",
-    "instructions": "Left A Key Rotate Left Right D Key Rotate Right UP W Key Make a Jump",
-    "category": "adventure",
-    "tags": [
-      "Christmas",
-      "Family",
-      "HTML",
-      "Magic",
-      "Mobile",
-      "Physics",
-      "Snow"
-    ],
-    "image": "./icons/671.jpg",
-    "downloads": "9.1K",
-    "rating": 3.8
-  },
-  {
     "id": 672,
     "old_id": "50408",
     "name": "Hero Rescue: Pull The Pin",
@@ -2389,23 +1065,6 @@
     "rating": 4.4
   },
   {
-    "id": 674,
-    "old_id": "50445",
-    "name": "Goods Sort Master",
-    "description": "Goods Sort Master is a fun sorting game. Have you ever fantasized about spending money in the supermarket? How much can you take away in a limited time? In this game you can sort snacks, drinks and fruits and have fun exploring triple matches in 3D cabinets to unlock more of your favorite products. The game is simple, just drag the same 3D products onto several shelves to match or triple match them. If you are a fan of matching games, why not give it a try?",
-    "instructions": "Click or tap",
-    "category": "puzzle",
-    "tags": [
-      "Brain",
-      "H5",
-      "Kids",
-      "Strategy"
-    ],
-    "image": "./icons/674.jpg",
-    "downloads": "18.8K",
-    "rating": 4.6
-  },
-  {
     "id": 675,
     "old_id": "50458",
     "name": "Pocoyo Hidden Objects",
@@ -2434,26 +1093,6 @@
     "image": "./icons/676.jpg",
     "downloads": "15.6K",
     "rating": 4.1
-  },
-  {
-    "id": 677,
-    "old_id": "50470",
-    "name": "Dungeon Pin Puzzle",
-    "description": "Dungeon Pin Puzzle is a brain-testing puzzle game. Fix the pulls in the right order to help the character overcome obstacles and free himself from prison! Solve complex pin puzzles to help the man escape from prison. You will meet all kinds of traps in the game, its time to train your hand-eye coordination, are you ready?",
-    "instructions": "Click or tap to play",
-    "category": "puzzle",
-    "tags": [
-      "Avoid",
-      "Brain",
-      "Collecting",
-      "H5",
-      "Kids",
-      "Obstacle",
-      "Strategy"
-    ],
-    "image": "./icons/677.jpg",
-    "downloads": "14.7K",
-    "rating": 4.4
   },
   {
     "id": 678,
@@ -2513,26 +1152,6 @@
     "rating": 3.6
   },
   {
-    "id": 681,
-    "old_id": "50510",
-    "name": "Santa Wheel",
-    "description": "Santa Wheel is a funny game where you must control a big rolling Santaclaus through 30 levels! Whit its original and colorful graphics Santa Wheel will be a pleasant time-killer, simple but addicting. So accelerate, break and have a perfect control of your Santa in order to complete all levels! The main goal is to help Santa to complete each levels and to escape from Monster Land and go back to North Pole to save the Christmas! Enjoy this game in this magic Christmas season! tips: follow the stars!",
-    "instructions": "Mouse click or tap to play Use classic directional keys to move Santa ",
-    "category": "adventure",
-    "tags": [
-      "Ball",
-      "Christmas",
-      "Decoration",
-      "HTML",
-      "Mobile",
-      "Physics",
-      "Puzzle"
-    ],
-    "image": "./icons/681.jpg",
-    "downloads": "2.9K",
-    "rating": 3.8
-  },
-  {
     "id": 682,
     "old_id": "50516",
     "name": "Math Class",
@@ -2553,25 +1172,6 @@
     "image": "./icons/682.jpg",
     "downloads": "12.4K",
     "rating": 4.9
-  },
-  {
-    "id": 683,
-    "old_id": "50532",
-    "name": "Santa Blast",
-    "description": "Hey Santa needs your help to escape from this dark world! The main goal is to land Santaclaus in the safe area with the least number of attempts! You just use the explosive to move Santa in the right direction but be aware at the dangerous spikes! Are you able to get the three stars for each level?",
-    "instructions": "Mouse click or tap to play",
-    "category": "action",
-    "tags": [
-      "Arcade",
-      "Christmas",
-      "HTML",
-      "Mobile",
-      "Puzzle",
-      "Snow"
-    ],
-    "image": "./icons/683.jpg",
-    "downloads": "18.2K",
-    "rating": 4.3
   },
   {
     "id": 684,
@@ -2598,25 +1198,6 @@
     "rating": 4.4
   },
   {
-    "id": 685,
-    "old_id": "50548",
-    "name": "Parking Resolver",
-    "description": "Introducing Parking Resolver - the ultimate test of your parking skills! In this thrilling Unity-based game, youll step into the drivers seat and navigate challenging parking scenarios. Use your Unity script expertise to finesse every move, from parallel parking to tight spots. With realistic physics and stunning graphics, this game offers an immersive experience like no other. Show off your precision, speed, and Unity scripting prowess as you conquer increasingly difficult levels. Can you become the ultimate Parking Resolver? Website Developer <a href='https://www.coolcrazygames.com/news'>https://www.coolcrazygames.com/news</a>",
-    "instructions": "Mouse click or tap to play",
-    "category": "racing",
-    "tags": [
-      "Arcade",
-      "Cars",
-      "Driving",
-      "Puzzle",
-      "Unity3D",
-      "WebGL"
-    ],
-    "image": "./icons/685.jpg",
-    "downloads": "8.8K",
-    "rating": 3.9
-  },
-  {
     "id": 686,
     "old_id": "50571",
     "name": "Farm Match Saga",
@@ -2632,22 +1213,6 @@
     "image": "./icons/686.jpg",
     "downloads": "4.7K",
     "rating": 4.8
-  },
-  {
-    "id": 687,
-    "old_id": "50573",
-    "name": "Donuts Popping Time",
-    "description": "Do you love bubble shooter games? Welcome to Donuts Popping Time, a donuts bubble shooting game! Aim and release to shoot to eleminate 3 or more donuts of the same color. Keep popping donuts and the background will change when you level up. Try to challenge people all over the world and make the highest score. Enjoy",
-    "instructions": "Mouse click or touch screen to aim and shoot 3 or more donuts of the same color ",
-    "category": "action",
-    "tags": [
-      "Bubble",
-      "Bubble Shooter",
-      "Puzzle"
-    ],
-    "image": "./icons/687.jpg",
-    "downloads": "16.0K",
-    "rating": 3.6
   },
   {
     "id": 688,
@@ -2671,25 +1236,6 @@
     "rating": 4.7
   },
   {
-    "id": 689,
-    "old_id": "50581",
-    "name": "Thanksgiving Spot The Differences",
-    "description": "Feast your eyes on our delectable Thanksgiving Spot the Difference game! Discover the subtle distinctions in these mouthwatering food portraits as you savor the holiday spirit. Test your appetite for detail and enjoy a savory challenge that celebrates the flavors of Thanksgiving!",
-    "instructions": "Use a mouse or touchpad to play this game ",
-    "category": "action",
-    "tags": [
-      "Arcade",
-      "Difference",
-      "HTML5",
-      "Mobile",
-      "Puzzle",
-      "Skill"
-    ],
-    "image": "./icons/689.jpg",
-    "downloads": "3.2K",
-    "rating": 4.8
-  },
-  {
     "id": 690,
     "old_id": "50582",
     "name": "Sort Buckets",
@@ -2706,25 +1252,6 @@
     "image": "./icons/690.jpg",
     "downloads": "19.9K",
     "rating": 4.5
-  },
-  {
-    "id": 691,
-    "old_id": "50590",
-    "name": "Stacklands",
-    "description": "Stacklands is a card game with innovative gameplay. It is a mixture of city management and stacked card game, where various entities are represented by cards, making it a novelty game. For example, by placing a Villager card on a Berry Shrub card, the villager will automatically collect berries and then drag the Berry card onto the Villager card to restore the villagers satiety. Dozens of quests and novelty gameplay await your challenge and digging, are you ready?",
-    "instructions": "Drag or tap to move",
-    "category": "kids",
-    "tags": [
-      "Brain",
-      "Card",
-      "Funny",
-      "H5",
-      "Kids",
-      "Stack"
-    ],
-    "image": "./icons/691.jpg",
-    "downloads": "3.9K",
-    "rating": 4.7
   },
   {
     "id": 692,
@@ -2745,60 +1272,6 @@
     "rating": 3.9
   },
   {
-    "id": 693,
-    "old_id": "50620",
-    "name": "Winter Tiles",
-    "description": "Enjoy Winter Tiles with a festive theme! Match and collect pairs of identical winter-themed tiles. Click or tap two tiles with a clear path between them with no more than two turns. Collect all the winter-themed tiles within the time limit to advance to the next level.",
-    "instructions": "Use a mouse or touch pad to play this game ",
-    "category": "puzzle",
-    "tags": [
-      "Christmas",
-      "HTML5",
-      "Mahjong",
-      "Mobile",
-      "Skill",
-      "Winter"
-    ],
-    "image": "./icons/693.jpg",
-    "downloads": "8.2K",
-    "rating": 3.7
-  },
-  {
-    "id": 694,
-    "old_id": "50638",
-    "name": "Save The Monkey",
-    "description": "Save The Monkey is a puzzle game that tests your intelligence. A boulder has crushed the little man! Can you build a machine to save him? Drag the parts to assemble a rescue machine and save everyone. As the levels increase, so does the difficulty. Are you ready for the challenge? Start now!",
-    "instructions": "Drag to move",
-    "category": "puzzle",
-    "tags": [
-      "Animal",
-      "Boy",
-      "Brain",
-      "Kids",
-      "Strategy"
-    ],
-    "image": "./icons/694.jpg",
-    "downloads": "13.4K",
-    "rating": 4.1
-  },
-  {
-    "id": 695,
-    "old_id": "50645",
-    "name": "Santa Math Game",
-    "description": "Youre good at maths? well then try to answer all the questions about the tiles where an image of Santa is hidden underneath! How to play: drag all the left numbered blocks on to the corresponding right tiles covering the picture. Have fun and try to unlock all Santa pictures!",
-    "instructions": "Mouse click or tap to play ",
-    "category": "puzzle",
-    "tags": [
-      "Brain",
-      "Christmas",
-      "Family",
-      "Math"
-    ],
-    "image": "./icons/695.jpg",
-    "downloads": "5.0K",
-    "rating": 4.6
-  },
-  {
     "id": 696,
     "old_id": "50652",
     "name": "World of Alice   Solar System",
@@ -2815,43 +1288,6 @@
     "image": "./icons/696.jpg",
     "downloads": "7.5K",
     "rating": 4.1
-  },
-  {
-    "id": 697,
-    "old_id": "50683",
-    "name": "Cube Arena  2048  Merge Numbers",
-    "description": "Cubes 2048.io is an addictive online game that fuses Snake and 2048. Get a bigger number by collecting free cubes and eating other players with a smaller number than you. Your cubes with the same value that bump into one another will merge.",
-    "instructions": "Cubes 2048 turns 2048 into a 3D io game Slide around the arena picking up blocks to get bigger Picking up two of the same number will merge them into a single block as the total sum of both ",
-    "category": "puzzle",
-    "tags": [
-      ".io",
-      ".io Games",
-      "1 Player",
-      "3D Games",
-      "Friv"
-    ],
-    "image": "./icons/697.jpg",
-    "downloads": "9.3K",
-    "rating": 4.8
-  },
-  {
-    "id": 698,
-    "old_id": "50690",
-    "name": "Santa Soosiz",
-    "description": "In this game you control Santa moving them around a world that revolves around you! As you move around the landscape your character clings o the ground via gravity &ndash; use it your advantage to move from one platform to the next. to collect all missing Gifts to save the Christmas! This is a fun Christmas theme exploring adventure games enjoy it!",
-    "instructions": "W Up Space Jump A Left Move Left D Right Move Right Or use Touch controls ",
-    "category": "adventure",
-    "tags": [
-      "Adventure",
-      "Christmas",
-      "HTML5",
-      "Levels",
-      "Mobile",
-      "Puzzle"
-    ],
-    "image": "./icons/698.jpg",
-    "downloads": "12.6K",
-    "rating": 4.0
   },
   {
     "id": 699,
@@ -2907,22 +1343,6 @@
     "rating": 4.1
   },
   {
-    "id": 702,
-    "old_id": "50805",
-    "name": "Xmas Mahjong",
-    "description": "Connect the all christams tiles and clear the board in this html5 mahjong games. Whats the max level can you play? You can use the Hint and Shuffle buttons for help.",
-    "instructions": "Use mouse to play this html5 mahjong game ",
-    "category": "puzzle",
-    "tags": [
-      "HTML5",
-      "Mahjong",
-      "Mobile"
-    ],
-    "image": "./icons/702.jpg",
-    "downloads": "12.5K",
-    "rating": 4.9
-  },
-  {
     "id": 703,
     "old_id": "50809",
     "name": "Christmas Gifts Falling",
@@ -2942,86 +1362,6 @@
     "rating": 3.8
   },
   {
-    "id": 704,
-    "old_id": "50810",
-    "name": "Flip Lines",
-    "description": "Flip Lines, a casual yet challenging puzzle game, requires players to navigate falls safely. While appearing straightforward, it presents unexpectedly deep and intricate gameplay, captivating players with its blend of simplicity and complexity. Website Developer <a href='https://id.kizi10.org'>https://id.kizi10.org</a>",
-    "instructions": "Mouse or touch click or tap to play",
-    "category": "action",
-    "tags": [
-      "Android",
-      "Ball",
-      "Casual",
-      "Click",
-      "HTML5",
-      "iPad",
-      "iPhone",
-      "Mentolatux",
-      "Mobile",
-      "Puzzle"
-    ],
-    "image": "./icons/704.jpg",
-    "downloads": "8.2K",
-    "rating": 4.5
-  },
-  {
-    "id": 705,
-    "old_id": "50819",
-    "name": "Xmas Bubble Frenzy",
-    "description": "Welcome to Xmas Bubble Frenzy. It will make you feel the joy of the festive. In each level collect the required number of bubbles. Dont let the bubbles touch the border. Catch special bubbles for more points. See how many levels you can reach.",
-    "instructions": "Use a mouse or touchpad to shoot the bubbles ",
-    "category": "action",
-    "tags": [
-      "Bubble",
-      "Bubble Shooter",
-      "Christmas",
-      "HTML5",
-      "Mobile",
-      "Winter"
-    ],
-    "image": "./icons/705.jpg",
-    "downloads": "11.9K",
-    "rating": 4.2
-  },
-  {
-    "id": 706,
-    "old_id": "50831",
-    "name": "Baby Penguin Fishing",
-    "description": "Tiny Fishing is a fun and addictive 2D puzzle fishing simulation game that challenges your skills. Enjoy this charming game as you explore a fishing adventure. The game has two modes: Fishing and Trawling. In Fishing mode, you cast your line by clicking on each fish&rsquo;s body and catch them quickly to advance to the next level. In Trawling mode, you release the net by clicking on the desired area and capture everything within it. You also have to complete the objective fast.",
-    "instructions": "Tap the fish in fishing mode Tap the area in Catch Fish mode",
-    "category": "adventure",
-    "tags": [
-      "2D",
-      "Boys",
-      "Collecting",
-      "Fish",
-      "Fishing",
-      "Girls",
-      "Kids"
-    ],
-    "image": "./icons/706.jpg",
-    "downloads": "8.5K",
-    "rating": 4.8
-  },
-  {
-    "id": 707,
-    "old_id": "50851",
-    "name": "Draw That Line",
-    "description": "Its time to use your brain and find a way to bump the balls! The rules easy, just draw lines or shapes to bump the balls, you will need your wisdom and imagination. Youll surely love this game once you get how it works!",
-    "instructions": "Touch or mouse Hold down the mouse to draw ",
-    "category": "puzzle",
-    "tags": [
-      "2D",
-      "Ball",
-      "Draw",
-      "Drawing",
-      "Love"
-    ],
-    "image": "./icons/707.jpg",
-    "downloads": "3.1K",
-    "rating": 3.7
-  },
-  {
     "id": 708,
     "old_id": "50874",
     "name": "Alien Merge 2048",
@@ -3038,7 +1378,7 @@
     ],
     "image": "./icons/708.jpg",
     "downloads": "17.6K",
-    "rating": 4.0
+    "rating": 4
   },
   {
     "id": 709,
@@ -3055,25 +1395,6 @@
     "image": "./icons/709.jpg",
     "downloads": "13.0K",
     "rating": 4.7
-  },
-  {
-    "id": 710,
-    "old_id": "50897",
-    "name": "Christmas Block Challenge",
-    "description": "Christmas Block Challenge: Strategically place festive blocks on a 10x10 grid, completing rows or columns of 10 to collect all Xmas Collectibles within them. The objective is to gather all the collectibles on the board. Can you become the ultimate holiday block strategist and unwrap all the festive surprises?",
-    "instructions": "Use a mouse or touch pad to play this game ",
-    "category": "puzzle",
-    "tags": [
-      "Block",
-      "Christmas",
-      "HTML",
-      "Mobile",
-      "Tetris",
-      "Winter"
-    ],
-    "image": "./icons/710.jpg",
-    "downloads": "13.2K",
-    "rating": 4.2
   },
   {
     "id": 711,
@@ -3097,46 +1418,6 @@
     "rating": 4.9
   },
   {
-    "id": 712,
-    "old_id": "50915",
-    "name": "Santa Drop",
-    "description": "Help Santa to escape from dark forest prison! Santa Drop is a 60 levels of fun physics puzzle game! all boxes except the grass must be removed where the prison is standing. Simply click or tap on the boxes or blocks to destroy them; carefully use the set blocks in what ever way you can to get the Santa Drop safely into the grass. Solve this fun physics game and help Santa to escape from prison!",
-    "instructions": "Mouse click or tap to remove blocks ",
-    "category": "puzzle",
-    "tags": [
-      "Arcade",
-      "Christmas",
-      "HTML",
-      "Puzzle",
-      "Santa",
-      "Santa Claus"
-    ],
-    "image": "./icons/712.jpg",
-    "downloads": "6.9K",
-    "rating": 4.8
-  },
-  {
-    "id": 713,
-    "old_id": "50926",
-    "name": "Dice Push 3D",
-    "description": "Dice Push 3D is a fun dice throwing puzzle game. Play against millions of players and push them off the board! Roll the dice so that units push the bar to the other side. Aim for multipliers and size-increasing power-ups to capitalize on your opponents. Ready? Start your journey of matchmaking now!",
-    "instructions": "Slide to control",
-    "category": "puzzle",
-    "tags": [
-      "Android",
-      "Arcade",
-      "Avoid",
-      "Boy",
-      "Brain",
-      "H5",
-      "Kids",
-      "Number"
-    ],
-    "image": "./icons/713.jpg",
-    "downloads": "4.5K",
-    "rating": 4.7
-  },
-  {
     "id": 714,
     "old_id": "50937",
     "name": "Hangman Winter",
@@ -3156,47 +1437,6 @@
     "image": "./icons/714.jpg",
     "downloads": "3.6K",
     "rating": 4.8
-  },
-  {
-    "id": 715,
-    "old_id": "50939",
-    "name": "Help Police",
-    "description": "Help Police is a logical puzzle game in which you control a police squad. You need to think carefully about every move to prevent the thief from escaping from prison! New police officers open every 10 levels! Take your time, think one step ahead, good luck!",
-    "instructions": "Your task is to catch the thief To do this you need to arrange the police in such a way that the thief has no free moves left Click on the policeman to see the available moves Click on one of the available points to make a move If the thief gets to t",
-    "category": "puzzle",
-    "tags": [
-      "1 Player",
-      "2D",
-      "Casual",
-      "Hypercasual",
-      "Mind",
-      "Puzzle",
-      "Turn Based"
-    ],
-    "image": "./icons/715.jpg",
-    "downloads": "7.7K",
-    "rating": 4.2
-  },
-  {
-    "id": 716,
-    "old_id": "50974",
-    "name": "Vehicle Parking Master 3D",
-    "description": "Vehicle Parking Master 3D is a tough and realistic vehicle parking simulation game. You can test your driving skills in 3D Challenge Mode and Parking Mode, and handle the truck in harder levels. Each mode has 40 levels for you to play and beat. There is also a secret mode for you to unlock after you finish all 3 modes of levels. You have to drive carefully and park your vehicle in the parking area. Good luck!",
-    "instructions": "On PC WASD or Arrow keys move Mouse or button drag screen to switch views On Mobile Gas pedal move forward Brake pedal brake or move backward Hold arrow buttons Steer left and right ",
-    "category": "racing",
-    "tags": [
-      "3D",
-      "Boys",
-      "Girls",
-      "Kid",
-      "Kids",
-      "Logic",
-      "Parking",
-      "Puzzle"
-    ],
-    "image": "./icons/716.jpg",
-    "downloads": "5.9K",
-    "rating": 4.9
   },
   {
     "id": 717,
@@ -3239,62 +1479,5 @@
     "image": "./icons/718.jpg",
     "downloads": "16.3K",
     "rating": 4.7
-  },
-  {
-    "id": 719,
-    "old_id": "51012",
-    "name": "Battle Cards",
-    "description": "Battle Cards is a card roguelike where you move your hero card around the playing field. When moved, you collide with adjacent cards. For example, monster cards and spike cards will reduce your card&rsquo;s health, healing cards will heal you, and gold cards will increase your game score. Each movement of your card creates a unique and challenging situation, a mini-puzzle that requires strategic thinking to solve.",
-    "instructions": "Mouse click or tap to play",
-    "category": "puzzle",
-    "tags": [
-      "Arena",
-      "Board",
-      "Card",
-      "Dungeon",
-      "Pixel"
-    ],
-    "image": "./icons/719.jpg",
-    "downloads": "8.5K",
-    "rating": 4.0
-  },
-  {
-    "id": 720,
-    "old_id": "51018",
-    "name": "Xmas Mahjong Trio Solitaire",
-    "description": "Embark on a festive adventure with Xmas Mahjong Trio Solitaire. Arrange Mahjong tiles in a horizontal stack of 9, strategically making trios disappear for extra cheer. Be cautious of overflowing stacks, as it signals the end of the game. Unwrap the joy of Xmas in this simple yet engaging holiday experience!",
-    "instructions": "Navigate with Mouse or Touch Use your mouse or touch gestures to select tiles in the stack Match Three Tiles Seek out or unlock sets of three similar tiles for a match Shuffle for Easier Matches Utilize the board shuffle option to rearrange tiles for",
-    "category": "sports",
-    "tags": [
-      "Christmas",
-      "Mahjong",
-      "Match-3",
-      "Matching",
-      "Puzzle",
-      "Winter"
-    ],
-    "image": "./icons/720.jpg",
-    "downloads": "4.2K",
-    "rating": 3.8
-  },
-  {
-    "id": 721,
-    "old_id": "51037",
-    "name": "SlopeGame",
-    "description": "Get ready to defy gravity in the heart-racing Slope Game! Brace yourself for an exhilarating downhill journey where precision and quick reflexes are vital. Navigate through treacherous slopes, dodge obstacles, and showcase your mastery in this physics-based adventure. Will you conquer the slopes and emerge as the ultimate champion? Find out now!",
-    "instructions": "Mouse click or tap to play",
-    "category": "adventure",
-    "tags": [
-      ".io",
-      "1 Player",
-      "Ball",
-      "free html5 games for your website",
-      "Jumping",
-      "run",
-      "running"
-    ],
-    "image": "./icons/721.jpg",
-    "downloads": "8.0K",
-    "rating": 4.0
   }
 ]
