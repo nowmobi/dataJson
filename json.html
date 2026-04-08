@@ -1,4 +1,15 @@
-[
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+  </head>
+  <body>
+    2323
+
+    <script>
+      const json = [
     {
         "name": "Xmas Float Connect",
         "description": "Connect 2 same xmas items with a path that no more than two 90 degree angles. Clear the board by removing all pairs of identical xmas items. Becareful, in some levels the item tiles can float ( to bottom, to uper, to left, to right, to center or split). There are 27 challenging levels in this game. Complete a level before time bounds to get extra bonus.",
@@ -2992,3 +3003,105 @@
         "rating": 4.2
     }
 ]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+console.log(json);
+
+      // 查找category个数
+      const countByProperty = (arr, propName) => {
+        const count = {};
+
+        arr.forEach((item) => {
+          const value = item[propName];
+          count[value] = (count[value] || 0) + 1;
+        });
+
+        return count;
+      };
+      const result = countByProperty(json, "category");
+      console.log(result);
+
+      //   删除个数
+      function deleteMultiplePropertyValues(data, propertyName, deleteRules) {
+        // 创建计数器对象，记录每个属性值已删除的数量
+        const counter = {};
+        Object.keys(deleteRules).forEach((key) => {
+          counter[key] = 0;
+        });
+
+        return data.filter((item) => {
+          const value = item[propertyName];
+
+          // 如果这个属性值在删除规则中
+          if (deleteRules.hasOwnProperty(value)) {
+            // 检查是否已达到删除数量
+            if (counter[value] < deleteRules[value]) {
+              counter[value]++;
+              return false; // 删除这个元素
+            }
+          }
+
+          return true; // 保留这个元素
+        });
+      }
+
+      const aaa = deleteMultiplePropertyValues(json, "category", {
+        action: 105,
+        adventure: 20,
+        girls: 1,
+        puzzle: 89,
+        racing: 20,
+        sports: 11,
+        kids: 8,
+      });
+      console.log(aaa);
+
+      const a1 = countByProperty(aaa, "category");
+      console.log(a1);
+    </script>
+  </body>
+</html>
