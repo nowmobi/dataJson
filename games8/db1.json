@@ -47,6 +47,115 @@
         ]
     },
     {
+        "id": 16,
+        "name": "Angela Tom Perfect Valentine",
+        "image": "./icons/16.jpg",
+        "description": "Welcome to the Angela Perfect Valentine game. Angela and Tom love to spend time together on this valentine.",
+        "rating": 4.4,
+        "downloads": "7.2K",
+        "instructions": "Left Mouse Button Click ",
+        "category": "girl"
+    },
+    {
+        "id": 17,
+        "name": "Angela Dress up Game",
+        "image": "./icons/17.jpg",
+        "description": "Welcome to Angela's Dress-Up Game.",
+        "rating": 4.2,
+        "downloads": "6.8K",
+        "instructions": "Left Mouse Button Click ",
+        "category": "girl"
+    },
+    {
+        "id": 147,
+        "name": "Chef Righty Mix",
+        "description": "Chef Right Mix is a great cooking challenge in which you can test your cooking skills. Help our chef prepare the most delicious dishes. For that purpose, you need to get the ingredients for your recipe, mix them well, cook and serve. Click on the food or flavoring that you want to use for your dish and then click on the Add button to put it in the basket. When you have no more space in your basket you can start cooking. Finally, when you finish cooking, then you can serve your wonderful creation. Cross your fingers to make the best meal ever and earn a high score. If you mix up the ingredients, you will get a pile of crap that nobody will like to eat. Have fun and good luck with Chef Right Mix!",
+        "instructions": "Cross your fingers to make the best meal ever and earn a high score ",
+        "category": "girl",
+        "tags": [
+            "Click",
+            "Clicker",
+            "Cook",
+            "Cooking",
+            "Fire",
+            "Food",
+            "HTML",
+            "HTML5"
+        ],
+        "image": "./icons/147.jpg",
+        "downloads": "2.6K",
+        "rating": 3.5
+    },
+    {
+        "id": 327,
+        "name": "ARIEL MISSING ERIC",
+        "description": "Eric and Ariel is a lovely couple Eric is going to another country for stydy and Ariel will miss him so much Rapunzel and Cinderella try their best to make her feel a little bit happier They have a great plan called Mermaid cheer up All of them are going to go shopping dressing up and dancing all night Fun isnt it",
+        "instructions": "",
+        "category": "girl",
+        "tags": [
+            "Dress Up",
+            "Fashion",
+            "Girl",
+            "Girls",
+            "Princess"
+        ],
+        "image": "./icons/327.jpg",
+        "downloads": "6.6K",
+        "rating": 3.9,
+        "old_id": "22387"
+    },
+    {
+        "id": 328,
+        "name": "Princesses College Look",
+        "description": "Help these princesses create the perfect college look with trendy outfits and accessories!",
+        "instructions": "Mouse click or tap to dress up",
+        "category": "girl",
+        "tags": [
+            "Dress Up",
+            "Fashion",
+            "Princess",
+            "School"
+        ],
+        "image": "./icons/328.jpg",
+        "downloads": "15.3K",
+        "rating": 4.6,
+        "old_id": "22156"
+    },
+    {
+        "id": 329,
+        "name": "Prom Night Dress Up",
+        "description": "It's prom night! Help the princess choose the perfect dress and accessories for this special evening!",
+        "instructions": "Mouse to select dresses and accessories",
+        "category": "girl",
+        "tags": [
+            "Dress Up",
+            "Fashion",
+            "Princess",
+            "Party"
+        ],
+        "image": "./icons/329.jpg",
+        "downloads": "18.7K",
+        "rating": 4.7,
+        "old_id": "21989"
+    },
+    {
+        "id": 333,
+        "name": "Baby Hazel Back To School",
+        "description": "Baby Hazel is going back to school! Help her get ready with school supplies and cute outfits!",
+        "instructions": "Mouse click to interact",
+        "category": "girl",
+        "tags": [
+            "Baby Hazel",
+            "School",
+            "Kids",
+            "Dress Up"
+        ],
+        "image": "./icons/333.jpg",
+        "downloads": "12.4K",
+        "rating": 4.5,
+        "old_id": "21456"
+    },
+    {
         "id": 682,
         "old_id": "50516",
         "name": "Math Class",
@@ -185,94 +294,6 @@
         "image": "./icons/591.jpg",
         "downloads": "11.7K",
         "rating": 4.3
-    },
-    {
-        "id": 447,
-        "old_id": "47204",
-        "name": "Colorful Neon Maze",
-        "description": "Colorful Neon Maze is a classic random maze game with 3 difficulty modes designed for everyone! Just control the cube and change the colors of your maze to find the way out and escape the maze. Minimal 2D graphics will allow you to feel like a classic and retro maze game, while neon and a variety of colors will add interest and freshness.",
-        "instructions": "Use the arrow keys to control the cube and click the mouse for the interface",
-        "category": "puzzle",
-        "tags": [
-            "2D",
-            "Arcade",
-            "Color",
-            "Fun",
-            "Game",
-            "Games",
-            "HTML5",
-            "Kids",
-            "Puzzle",
-            "Timing"
-        ],
-        "image": "./icons/447.jpg",
-        "downloads": "14.7K",
-        "rating": 4.2
-    },
-    {
-        "id": 684,
-        "old_id": "50535",
-        "name": "Mahjong Match Club",
-        "description": "Choose two matching mahjongs and remove them. Following removal, a moveable green space will emerge. Mahjong pieces should be moved until there are no more obstacles in either the horizontal or vertical directions. It faces another mahjong that is the same. Release your grip, and they will naturally vanish. Youll advance to the next level and receive points. The game puts strategy and vision to the test. Are you able to finish the challenge?",
-        "instructions": "Tap and slide to select and move the mahjong",
-        "category": "puzzle",
-        "tags": [
-            "1 Player",
-            "2D",
-            "Brain",
-            "Casual",
-            "HTML5",
-            "Logical",
-            "Mahjong",
-            "Matching",
-            "Online",
-            "Puzzle",
-            "Strategy"
-        ],
-        "image": "./icons/684.jpg",
-        "downloads": "4.0K",
-        "rating": 4.4
-    },
-    {
-        "id": 612,
-        "old_id": "49463",
-        "name": "Anime Puzzles",
-        "description": "Welcome to the world of Anime puzzles - classic anime-themed puzzles! This game offers the perfect combination of relaxation, entertainment and brain training. Anime puzzles provides you with several free and premium puzzles with anime motifs. You can even create your own puzzles using images and photos of your family to make the game even more special. Each piece of our puzzles is unique and carefully crafted to ensure an enjoyable time for everyone who loves puzzles. You will be delighted by the variety and beauty of the anime pictures you can collect. Join the millions of anime and puzzle fans who are already enjoying Anime puzzles. Sta",
-        "instructions": "Choose a Puzzle Start by selecting a puzzle from the collection Anime puzzles offers a variety of both free and premium anime-themed puzzles You can also create your own puzzles using your family photos for a personal touch Arrange the Pieces Once yo",
-        "category": "puzzle",
-        "tags": [
-            "1 Player",
-            "Anime",
-            "Dragon Ball Z",
-            "Jigsaw",
-            "Puzzle"
-        ],
-        "image": "./icons/612.jpg",
-        "downloads": "16.0K",
-        "rating": 4.4
-    },
-    {
-        "id": 542,
-        "old_id": "48424",
-        "name": "Bubble Eyes",
-        "description": "Immerse yourself in Bubble Eyes, where colorful bubbles with adorable eyes float. Click and draw to match the same-colored bubbles, enjoying a relaxing yet engaging color-matching experience. Aim for high scores in this charming, visually pleasing game.",
-        "instructions": "Mouse click or tap to play",
-        "category": "puzzle",
-        "tags": [
-            "Bubble",
-            "Color",
-            "Draw",
-            "Fun",
-            "Funny",
-            "Games",
-            "HTML5",
-            "Kids",
-            "Matching",
-            "Puzzle"
-        ],
-        "image": "./icons/542.jpg",
-        "downloads": "2.2K",
-        "rating": 3.6
     },
     {
         "id": 599,

@@ -47,6 +47,115 @@
         ]
     },
     {
+        "id": 16,
+        "name": "Angela Tom Perfect Valentine",
+        "image": "./icons/16.jpg",
+        "description": "Welcome to the Angela Perfect Valentine game. Angela and Tom love to spend time together on this valentine.",
+        "rating": 4.4,
+        "downloads": "7.2K",
+        "instructions": "Left Mouse Button Click ",
+        "category": "girl"
+    },
+    {
+        "id": 17,
+        "name": "Angela Dress up Game",
+        "image": "./icons/17.jpg",
+        "description": "Welcome to Angela's Dress-Up Game.",
+        "rating": 4.2,
+        "downloads": "6.8K",
+        "instructions": "Left Mouse Button Click ",
+        "category": "girl"
+    },
+    {
+        "id": 147,
+        "name": "Chef Righty Mix",
+        "description": "Chef Right Mix is a great cooking challenge in which you can test your cooking skills. Help our chef prepare the most delicious dishes. For that purpose, you need to get the ingredients for your recipe, mix them well, cook and serve. Click on the food or flavoring that you want to use for your dish and then click on the Add button to put it in the basket. When you have no more space in your basket you can start cooking. Finally, when you finish cooking, then you can serve your wonderful creation. Cross your fingers to make the best meal ever and earn a high score. If you mix up the ingredients, you will get a pile of crap that nobody will like to eat. Have fun and good luck with Chef Right Mix!",
+        "instructions": "Cross your fingers to make the best meal ever and earn a high score ",
+        "category": "girl",
+        "tags": [
+            "Click",
+            "Clicker",
+            "Cook",
+            "Cooking",
+            "Fire",
+            "Food",
+            "HTML",
+            "HTML5"
+        ],
+        "image": "./icons/147.jpg",
+        "downloads": "2.6K",
+        "rating": 3.5
+    },
+    {
+        "id": 327,
+        "name": "ARIEL MISSING ERIC",
+        "description": "Eric and Ariel is a lovely couple Eric is going to another country for stydy and Ariel will miss him so much Rapunzel and Cinderella try their best to make her feel a little bit happier They have a great plan called Mermaid cheer up All of them are going to go shopping dressing up and dancing all night Fun isnt it",
+        "instructions": "",
+        "category": "girl",
+        "tags": [
+            "Dress Up",
+            "Fashion",
+            "Girl",
+            "Girls",
+            "Princess"
+        ],
+        "image": "./icons/327.jpg",
+        "downloads": "6.6K",
+        "rating": 3.9,
+        "old_id": "22387"
+    },
+    {
+        "id": 328,
+        "name": "Princesses College Look",
+        "description": "Help these princesses create the perfect college look with trendy outfits and accessories!",
+        "instructions": "Mouse click or tap to dress up",
+        "category": "girl",
+        "tags": [
+            "Dress Up",
+            "Fashion",
+            "Princess",
+            "School"
+        ],
+        "image": "./icons/328.jpg",
+        "downloads": "15.3K",
+        "rating": 4.6,
+        "old_id": "22156"
+    },
+    {
+        "id": 329,
+        "name": "Prom Night Dress Up",
+        "description": "It's prom night! Help the princess choose the perfect dress and accessories for this special evening!",
+        "instructions": "Mouse to select dresses and accessories",
+        "category": "girl",
+        "tags": [
+            "Dress Up",
+            "Fashion",
+            "Princess",
+            "Party"
+        ],
+        "image": "./icons/329.jpg",
+        "downloads": "18.7K",
+        "rating": 4.7,
+        "old_id": "21989"
+    },
+    {
+        "id": 333,
+        "name": "Baby Hazel Back To School",
+        "description": "Baby Hazel is going back to school! Help her get ready with school supplies and cute outfits!",
+        "instructions": "Mouse click to interact",
+        "category": "girl",
+        "tags": [
+            "Baby Hazel",
+            "School",
+            "Kids",
+            "Dress Up"
+        ],
+        "image": "./icons/333.jpg",
+        "downloads": "12.4K",
+        "rating": 4.5,
+        "old_id": "21456"
+    },
+    {
         "id": 623,
         "old_id": "49684",
         "name": "Easy Solitaire",
@@ -1186,26 +1295,6 @@
         "rating": 4.6
     },
     {
-        "id": 541,
-        "old_id": "48421",
-        "name": "Skibidi Toilet Escape Hotel Escape Horror",
-        "description": "This game will be a game where you will bury your hours with its fluent and eye-pleasing visuals, I wish you a good game in advance.",
-        "instructions": "you try to get into the next room by pressing the doors",
-        "category": "puzzle",
-        "tags": [
-            "1 Player",
-            "2D",
-            "Adventure",
-            "Android",
-            "Horror",
-            "Skibidi",
-            "Skibidi Toilet"
-        ],
-        "image": "./icons/541.jpg",
-        "downloads": "19.9K",
-        "rating": 4.8
-    },
-    {
         "id": 519,
         "old_id": "48116",
         "name": "Skibidi Toilet Coloring Book",
@@ -1225,45 +1314,6 @@
         "image": "./icons/519.jpg",
         "downloads": "1.7K",
         "rating": 4.6
-    },
-    {
-        "id": 474,
-        "old_id": "47594",
-        "name": "Barbie Magic Pegasus",
-        "description": "Barbie Magic Pegasus is a combination of puzzles, drag and drop is used for the easy level, and sliding type for the hard level. The game can be played also in full screen on any support. Choose from easy and hard levels to play, for help just click on the hint button.",
-        "instructions": "Mouse or finger for touch devices ",
-        "category": "puzzle",
-        "tags": [
-            "Barbie",
-            "Jigsaw",
-            "Puzzle"
-        ],
-        "image": "./icons/474.jpg",
-        "downloads": "5.1K",
-        "rating": 4.2
-    },
-    {
-        "id": 542,
-        "old_id": "48424",
-        "name": "Bubble Eyes",
-        "description": "Immerse yourself in Bubble Eyes, where colorful bubbles with adorable eyes float. Click and draw to match the same-colored bubbles, enjoying a relaxing yet engaging color-matching experience. Aim for high scores in this charming, visually pleasing game.",
-        "instructions": "Mouse click or tap to play",
-        "category": "puzzle",
-        "tags": [
-            "Bubble",
-            "Color",
-            "Draw",
-            "Fun",
-            "Funny",
-            "Games",
-            "HTML5",
-            "Kids",
-            "Matching",
-            "Puzzle"
-        ],
-        "image": "./icons/542.jpg",
-        "downloads": "2.2K",
-        "rating": 3.6
     },
     {
         "id": 491,
@@ -1286,25 +1336,6 @@
         "image": "./icons/491.jpg",
         "downloads": "6.8K",
         "rating": 3.5
-    },
-    {
-        "id": 622,
-        "old_id": "49683",
-        "name": "Portal Through IT",
-        "description": "Welcome to Portal Through It, a puzzle game that will put your problem-solving skills to the test. With 25 challenging levels, this game is sure to keep you entertained for hours.",
-        "instructions": "In this game youll control the players movements using only the mouse and use the space key for a faster run ",
-        "category": "puzzle",
-        "tags": [
-            "2D",
-            "Boys",
-            "Clicker",
-            "Mouse",
-            "Puzzle",
-            "Skill"
-        ],
-        "image": "./icons/622.jpg",
-        "downloads": "12.5K",
-        "rating": 4.3
     },
     {
         "id": 611,
@@ -1345,24 +1376,6 @@
         "rating": 4.1
     },
     {
-        "id": 690,
-        "old_id": "50582",
-        "name": "Sort Buckets",
-        "description": "Play the newest puzzle sorting game. Sort the colored buckets and make the fewest moves as you can. The game has 60 exciting levels. Show your sorting skills and enjoy this incredibly fun game!",
-        "instructions": "Use the mouse to play this game or tap on the screen ",
-        "category": "puzzle",
-        "tags": [
-            "Brain",
-            "Fun",
-            "Kids",
-            "Logic",
-            "Puzzle"
-        ],
-        "image": "./icons/690.jpg",
-        "downloads": "19.9K",
-        "rating": 4.5
-    },
-    {
         "id": 523,
         "old_id": "48238",
         "name": "3D Isometric Tiles",
@@ -1383,34 +1396,6 @@
         "image": "./icons/523.jpg",
         "downloads": "11.7K",
         "rating": 4.5
-    },
-    {
-        "id": 624,
-        "old_id": "49685",
-        "name": "Space Bubble Pop",
-        "description": "Dive into the cosmos and embark on an interstellar adventure with Cosmic Bubble Blast, a captivating puzzle game that will challenge your wits and entertain your senses! In this delightful and visually stunning game, youll find yourself immersed in a world of vibrant colors and mesmerizing cosmic landscapes.",
-        "instructions": "Touch control or mouse",
-        "category": "puzzle",
-        "tags": [
-            "Space"
-        ],
-        "image": "./icons/624.jpg",
-        "downloads": "12.5K",
-        "rating": 4.3
-    },
-    {
-        "id": 599,
-        "old_id": "49278",
-        "name": "Classic chess",
-        "description": "Classic chess is a two-player board game played on a chessboard with 64 squares arranged in rows of an 8x8 grid. Each player starts with 16 pieces: including a king, one queen, two knights, two rooks, two bishops and eight pawns. The goal of this chess game is to checkmate the opponents king, putting him in imminent danger of being captured. The game can be played with artificial intelligence or together with another person on the same device. The game also has the ability to solve chess problems.",
-        "instructions": "Mouse click or tap to play",
-        "category": "puzzle",
-        "tags": [
-            "Board"
-        ],
-        "image": "./icons/599.jpg",
-        "downloads": "5.3K",
-        "rating": 4.6
     },
     {
         "id": 456,

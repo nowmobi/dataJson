@@ -47,6 +47,115 @@
         ]
     },
     {
+        "id": 16,
+        "name": "Angela Tom Perfect Valentine",
+        "image": "./icons/16.jpg",
+        "description": "Welcome to the Angela Perfect Valentine game. Angela and Tom love to spend time together on this valentine.",
+        "rating": 4.4,
+        "downloads": "7.2K",
+        "instructions": "Left Mouse Button Click ",
+        "category": "girl"
+    },
+    {
+        "id": 17,
+        "name": "Angela Dress up Game",
+        "image": "./icons/17.jpg",
+        "description": "Welcome to Angela's Dress-Up Game.",
+        "rating": 4.2,
+        "downloads": "6.8K",
+        "instructions": "Left Mouse Button Click ",
+        "category": "girl"
+    },
+    {
+        "id": 147,
+        "name": "Chef Righty Mix",
+        "description": "Chef Right Mix is a great cooking challenge in which you can test your cooking skills. Help our chef prepare the most delicious dishes. For that purpose, you need to get the ingredients for your recipe, mix them well, cook and serve. Click on the food or flavoring that you want to use for your dish and then click on the Add button to put it in the basket. When you have no more space in your basket you can start cooking. Finally, when you finish cooking, then you can serve your wonderful creation. Cross your fingers to make the best meal ever and earn a high score. If you mix up the ingredients, you will get a pile of crap that nobody will like to eat. Have fun and good luck with Chef Right Mix!",
+        "instructions": "Cross your fingers to make the best meal ever and earn a high score ",
+        "category": "girl",
+        "tags": [
+            "Click",
+            "Clicker",
+            "Cook",
+            "Cooking",
+            "Fire",
+            "Food",
+            "HTML",
+            "HTML5"
+        ],
+        "image": "./icons/147.jpg",
+        "downloads": "2.6K",
+        "rating": 3.5
+    },
+    {
+        "id": 327,
+        "name": "ARIEL MISSING ERIC",
+        "description": "Eric and Ariel is a lovely couple Eric is going to another country for stydy and Ariel will miss him so much Rapunzel and Cinderella try their best to make her feel a little bit happier They have a great plan called Mermaid cheer up All of them are going to go shopping dressing up and dancing all night Fun isnt it",
+        "instructions": "",
+        "category": "girl",
+        "tags": [
+            "Dress Up",
+            "Fashion",
+            "Girl",
+            "Girls",
+            "Princess"
+        ],
+        "image": "./icons/327.jpg",
+        "downloads": "6.6K",
+        "rating": 3.9,
+        "old_id": "22387"
+    },
+    {
+        "id": 328,
+        "name": "Princesses College Look",
+        "description": "Help these princesses create the perfect college look with trendy outfits and accessories!",
+        "instructions": "Mouse click or tap to dress up",
+        "category": "girl",
+        "tags": [
+            "Dress Up",
+            "Fashion",
+            "Princess",
+            "School"
+        ],
+        "image": "./icons/328.jpg",
+        "downloads": "15.3K",
+        "rating": 4.6,
+        "old_id": "22156"
+    },
+    {
+        "id": 329,
+        "name": "Prom Night Dress Up",
+        "description": "It's prom night! Help the princess choose the perfect dress and accessories for this special evening!",
+        "instructions": "Mouse to select dresses and accessories",
+        "category": "girl",
+        "tags": [
+            "Dress Up",
+            "Fashion",
+            "Princess",
+            "Party"
+        ],
+        "image": "./icons/329.jpg",
+        "downloads": "18.7K",
+        "rating": 4.7,
+        "old_id": "21989"
+    },
+    {
+        "id": 333,
+        "name": "Baby Hazel Back To School",
+        "description": "Baby Hazel is going back to school! Help her get ready with school supplies and cute outfits!",
+        "instructions": "Mouse click to interact",
+        "category": "girl",
+        "tags": [
+            "Baby Hazel",
+            "School",
+            "Kids",
+            "Dress Up"
+        ],
+        "image": "./icons/333.jpg",
+        "downloads": "12.4K",
+        "rating": 4.5,
+        "old_id": "21456"
+    },
+    {
         "id": 527,
         "old_id": "48318",
         "name": "Amaze Fruits",
