@@ -1,5 +1,52 @@
 [
     {
+        "info1": [
+            "puzzle",
+            "kids",
+            "racing",
+            "sports",
+            "girl",
+            "action",
+            "adventure"
+        ],
+        "info2": [
+            "adventure",
+            "kids",
+            "puzzle",
+            "sports",
+            "girl",
+            "action",
+            "racing"
+        ],
+        "info3": [
+            "adventure",
+            "sports",
+            "racing",
+            "kids",
+            "girl",
+            "puzzle",
+            "action"
+        ],
+        "info4": [
+            "adventure",
+            "racing",
+            "puzzle",
+            "sports",
+            "kids",
+            "action",
+            "girl"
+        ],
+        "info5": [
+            "girl",
+            "racing",
+            "kids",
+            "action",
+            "puzzle",
+            "sports",
+            "adventure"
+        ]
+    },
+    {
         "id": 54184,
         "name": "Maze Controlling",
         "description": "Maze Control is an online HTML game where players navigate through a virtual maze. The objective of the game is to reach the exit of the maze as quickly as possible. Players control a character using the arrow keys, trying to avoid obstacles and dead ends. Along the way, they may encounter various puzzles, challenges, and bonuses that enhance their progress or add difficulty to the game. The game offers multiple levels with increasing complexity, ensuring a continuous challenge for players. The maze layouts are randomly generated, providing a unique experience each time the game is played.",

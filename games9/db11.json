@@ -1,5 +1,52 @@
 [
     {
+        "info1": [
+            "puzzle",
+            "kids",
+            "racing",
+            "sports",
+            "girl",
+            "action",
+            "adventure"
+        ],
+        "info2": [
+            "adventure",
+            "kids",
+            "puzzle",
+            "sports",
+            "girl",
+            "action",
+            "racing"
+        ],
+        "info3": [
+            "adventure",
+            "sports",
+            "racing",
+            "kids",
+            "girl",
+            "puzzle",
+            "action"
+        ],
+        "info4": [
+            "adventure",
+            "racing",
+            "puzzle",
+            "sports",
+            "kids",
+            "action",
+            "girl"
+        ],
+        "info5": [
+            "girl",
+            "racing",
+            "kids",
+            "action",
+            "puzzle",
+            "sports",
+            "adventure"
+        ]
+    },
+    {
         "name": "Tetris 24",
         "description": "Play the legendary Tetris game! The classic Tetris game that we all love! Simply drag the bricks to move them, and create full lines on the grid to break bricks. Play on mobile and PC. Good luck! Controls: left arrow / A = move left right arrow / D = move right up arrow / W / X = rotate clockwise Z = rotate counter clockwise Space = drop S = slow drop Ctrl = hold / swap P = pause Enter = start / back",
         "instructions": "Mouse or keyboard",

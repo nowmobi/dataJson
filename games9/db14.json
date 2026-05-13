@@ -1,5 +1,52 @@
 [
     {
+        "info1": [
+            "puzzle",
+            "kids",
+            "racing",
+            "sports",
+            "girl",
+            "action",
+            "adventure"
+        ],
+        "info2": [
+            "adventure",
+            "kids",
+            "puzzle",
+            "sports",
+            "girl",
+            "action",
+            "racing"
+        ],
+        "info3": [
+            "adventure",
+            "sports",
+            "racing",
+            "kids",
+            "girl",
+            "puzzle",
+            "action"
+        ],
+        "info4": [
+            "adventure",
+            "racing",
+            "puzzle",
+            "sports",
+            "kids",
+            "action",
+            "girl"
+        ],
+        "info5": [
+            "girl",
+            "racing",
+            "kids",
+            "action",
+            "puzzle",
+            "sports",
+            "adventure"
+        ]
+    },
+    {
         "name": "Super Cars Hidden Letters",
         "description": "Click on an image of your choice. Once you have selected the image, it will appear on your screen. Analyze the image carefully and you will see small alphabets hidden at different places. Click on those alphabets with the help of mouse to make them appear. Find all the 26 alphabets and you will win the game. The game Super Cars Hidden Letters is a very good time pass for you if you are bored and like to play games that allow you to find objects that are hidden mysteriously in the scene. This game also helps in speeding up your minds working. Finding all the hidden letters can be so much fun!",
         "instructions": "Super Cars Hidden Letters game is to be played with the help of a mouse or touch on the screen ",

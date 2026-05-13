@@ -1,5 +1,52 @@
 [
     {
+        "info1": [
+            "puzzle",
+            "kids",
+            "racing",
+            "sports",
+            "girl",
+            "action",
+            "adventure"
+        ],
+        "info2": [
+            "adventure",
+            "kids",
+            "puzzle",
+            "sports",
+            "girl",
+            "action",
+            "racing"
+        ],
+        "info3": [
+            "adventure",
+            "sports",
+            "racing",
+            "kids",
+            "girl",
+            "puzzle",
+            "action"
+        ],
+        "info4": [
+            "adventure",
+            "racing",
+            "puzzle",
+            "sports",
+            "kids",
+            "action",
+            "girl"
+        ],
+        "info5": [
+            "girl",
+            "racing",
+            "kids",
+            "action",
+            "puzzle",
+            "sports",
+            "adventure"
+        ]
+    },
+    {
         "name": "Frozen Winter Mania",
         "description": "Brrrr, theres a chill in the air! Frozen Winter Mania is a game for Match 3 games lovers. Match 3 or more of the identical shape to clear the frozen gems. Work fast to clear board before time runs out. If you get stuck, use the powerups to help you clear the screen. Have fun!",
         "instructions": "Freeze and match-3 ",

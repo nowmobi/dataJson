@@ -1,5 +1,52 @@
 [
     {
+        "info1": [
+            "puzzle",
+            "kids",
+            "racing",
+            "sports",
+            "girl",
+            "action",
+            "adventure"
+        ],
+        "info2": [
+            "adventure",
+            "kids",
+            "puzzle",
+            "sports",
+            "girl",
+            "action",
+            "racing"
+        ],
+        "info3": [
+            "adventure",
+            "sports",
+            "racing",
+            "kids",
+            "girl",
+            "puzzle",
+            "action"
+        ],
+        "info4": [
+            "adventure",
+            "racing",
+            "puzzle",
+            "sports",
+            "kids",
+            "action",
+            "girl"
+        ],
+        "info5": [
+            "girl",
+            "racing",
+            "kids",
+            "action",
+            "puzzle",
+            "sports",
+            "adventure"
+        ]
+    },
+    {
         "name": "Yummi Bubbles",
         "description": "Embark on a delightful journey of popping bubbles with Yummi Bubbles &ndash; a fun-filled HTML5 bubble click game that will immerse you in a world of colorful orbs and addictive gameplay. In Yummi Bubbles, your objective is simple yet captivating: pop as many bubbles as you can within the given time limit. But dont be fooled by its simplicity; as you progress through the levels, the challenge intensifies, requiring quick reflexes and strategic thinking to master. Featuring vibrant and eye-catching graphics, each bubble bursts with its own unique charm, adding to the games visual appeal. From glittering gems to delectable treats.",
         "instructions": "Mouse click or tap to play",

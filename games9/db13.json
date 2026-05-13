@@ -1,5 +1,52 @@
 [
     {
+        "info1": [
+            "puzzle",
+            "kids",
+            "racing",
+            "sports",
+            "girl",
+            "action",
+            "adventure"
+        ],
+        "info2": [
+            "adventure",
+            "kids",
+            "puzzle",
+            "sports",
+            "girl",
+            "action",
+            "racing"
+        ],
+        "info3": [
+            "adventure",
+            "sports",
+            "racing",
+            "kids",
+            "girl",
+            "puzzle",
+            "action"
+        ],
+        "info4": [
+            "adventure",
+            "racing",
+            "puzzle",
+            "sports",
+            "kids",
+            "action",
+            "girl"
+        ],
+        "info5": [
+            "girl",
+            "racing",
+            "kids",
+            "action",
+            "puzzle",
+            "sports",
+            "adventure"
+        ]
+    },
+    {
         "name": "Santa Claus Christmas Clicker",
         "description": "Welcome to our newest Christmas puzzle game called Santa Claus Christmas Clicker. The game has 10 levels with 10 images of Santa Claus driving on different vehicles. The goal of the game is to solve the puzzle by clicking on the parts of the image, rotating them, and bringing them to the right place. You have to be very fast because the time is counting down. Enjoy and have fun playing this rotating puzzle game!!!",
         "instructions": "Use the mouse to play this game for desktop Click on the screen to rotate for touch screens ",

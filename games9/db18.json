@@ -1,5 +1,52 @@
 [
     {
+        "info1": [
+            "puzzle",
+            "kids",
+            "racing",
+            "sports",
+            "girl",
+            "action",
+            "adventure"
+        ],
+        "info2": [
+            "adventure",
+            "kids",
+            "puzzle",
+            "sports",
+            "girl",
+            "action",
+            "racing"
+        ],
+        "info3": [
+            "adventure",
+            "sports",
+            "racing",
+            "kids",
+            "girl",
+            "puzzle",
+            "action"
+        ],
+        "info4": [
+            "adventure",
+            "racing",
+            "puzzle",
+            "sports",
+            "kids",
+            "action",
+            "girl"
+        ],
+        "info5": [
+            "girl",
+            "racing",
+            "kids",
+            "action",
+            "puzzle",
+            "sports",
+            "adventure"
+        ]
+    },
+    {
         "id": 54713,
         "name": "Duck Hunting: Open Season",
         "description": "Are you ready to go on an exciting adventure in the heart of nature with Duck Hunting: Open Season? In this addictive matching game, your goal is to pass challenging levels by collecting bullets and shooting ducks.Make items of the same type explode by combining them in groups of three or more. Website dev <a href='https://meyagames.com/'>https://meyagames.com/</a>",

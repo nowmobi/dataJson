@@ -1,5 +1,52 @@
 [
     {
+        "info1": [
+            "puzzle",
+            "kids",
+            "racing",
+            "sports",
+            "girl",
+            "action",
+            "adventure"
+        ],
+        "info2": [
+            "adventure",
+            "kids",
+            "puzzle",
+            "sports",
+            "girl",
+            "action",
+            "racing"
+        ],
+        "info3": [
+            "adventure",
+            "sports",
+            "racing",
+            "kids",
+            "girl",
+            "puzzle",
+            "action"
+        ],
+        "info4": [
+            "adventure",
+            "racing",
+            "puzzle",
+            "sports",
+            "kids",
+            "action",
+            "girl"
+        ],
+        "info5": [
+            "girl",
+            "racing",
+            "kids",
+            "action",
+            "puzzle",
+            "sports",
+            "adventure"
+        ]
+    },
+    {
         "name": "Amaze Flags: Asia",
         "description": "Find out how much you are of the nations and countries of Asia by taking this short quiz. Examine each flag and select the nation name that most accurately describes it. Players of all ages can enjoy this puzzle-solving game, which can help you improve rapidly. You might put your mettle to the test by playing games in both timed and timeless modes and solving every challenge to win. Answer all the quiz in time and challenge your friends to answer them all and prove your general knowledge. Jhurr provides you lots of puzzle and quiz games, play and learn on jhurr.com",
         "instructions": "Select the Answer",

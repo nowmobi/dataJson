@@ -1,5 +1,52 @@
 [
     {
+        "info1": [
+            "puzzle",
+            "kids",
+            "racing",
+            "sports",
+            "girl",
+            "action",
+            "adventure"
+        ],
+        "info2": [
+            "adventure",
+            "kids",
+            "puzzle",
+            "sports",
+            "girl",
+            "action",
+            "racing"
+        ],
+        "info3": [
+            "adventure",
+            "sports",
+            "racing",
+            "kids",
+            "girl",
+            "puzzle",
+            "action"
+        ],
+        "info4": [
+            "adventure",
+            "racing",
+            "puzzle",
+            "sports",
+            "kids",
+            "action",
+            "girl"
+        ],
+        "info5": [
+            "girl",
+            "racing",
+            "kids",
+            "action",
+            "puzzle",
+            "sports",
+            "adventure"
+        ]
+    },
+    {
         "name": "World of Alice   Daily Routine",
         "description": "346 / 5 000 Resultados da tradu&ccedil;&atilde;o Resultado de tradu&ccedil;&atilde;o World of Alice - Daily Routine World of Alice - Daily Routine is an educational game developed for children where they will learn daily routines and tasks in a fun way from their cell phone, tablet or computer. Excellent educational resource. In Alices world, learning is fun.",
         "instructions": "Click on the task corresponding to your schedule ",
