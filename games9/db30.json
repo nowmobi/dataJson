@@ -810,39 +810,6 @@
         "rating": 4.2
     },
     {
-        "id": 55210,
-        "name": "Balon Warna Meledak",
-        "description": "Permainan menembak balon berwarna yang seru, ledakkan balon sesuai target warna, tingkat kesulitan semakin meningkat seiring bertambahnya level.",
-        "instructions": "Klik layar untuk menembak dan meledakkan balon",
-        "category": "aksi",
-        "tags": ["Balon", "Menembak", "Warna", "Seru", "Refleks"],
-        "image": "./icons/55210.jpg",
-        "downloads": "11.2K",
-        "rating": 4.5
-    },
-    {
-        "id": 53612,
-        "name": "Rumah Hewan Lucu",
-        "description": "Permainan edukasi sederhana untuk anak-anak, tempatkan setiap hewan ke rumah dan habitat yang tepat guna menambah wawasan pengetahuan.",
-        "instructions": "Seret hewan menuju rumah yang sesuai",
-        "category": "anak-anak",
-        "tags": ["Hewan", "Rumah", "Edukasi", "Kartun", "Balita"],
-        "image": "./icons/53612.jpg",
-        "downloads": "13.5K",
-        "rating": 4.6
-    },
-    {
-        "id": 52715,
-        "name": "Lomba Lari Kelinci",
-        "description": "Ikuti perlombaan lari cepat bersama kelinci lucu, hindari rintangan di jalan dan capai garis finis paling awal untuk memenangkan pertandingan.",
-        "instructions": "Gunakan tombol arah untuk mengendalikan gerakan kelinci",
-        "category": "balap",
-        "tags": ["Lomba Lari", "Hewan", "Cepat", "Rintangan", "Seru"],
-        "image": "./icons/52715.jpg",
-        "downloads": "7.3K",
-        "rating": 4.0
-    },
-    {
         "id": 54276,
         "name": "Susun Puzzle Bunga",
         "description": "Kumpulkan potongan gambar bunga yang indah, susun dengan rapi hingga membentuk gambar utuh dengan berbagai tingkat kesulitan pilihan.",
@@ -852,28 +819,6 @@
         "image": "./icons/54276.jpg",
         "downloads": "10.1K",
         "rating": 4.3
-    },
-    {
-        "id": 51723,
-        "name": "Gaya Rambut Modis",
-        "description": "Permainan berdandan seru untuk perempuan, pilih berbagai model rambut, aksesori dan pakaian guna menciptakan penampilan yang cantik dan modis.",
-        "instructions": "Klik pilihan gaya untuk mengganti penampilan karakter",
-        "category": "perempuan",
-        "tags": ["BerDandan", "Gaya Rambut", "Fashion", "Cantik", "Aksesori"],
-        "image": "./icons/51723.jpg",
-        "downloads": "15.2K",
-        "rating": 4.8
-    },
-    {
-        "id": 53941,
-        "name": "Olahraga Lompat Tinggi",
-        "description": "Simulasikan olahraga lompat tinggi profesional, atur kekuatan dan waktu lompatan agar berhasil melewati palang tanpa terjatuh.",
-        "instructions": "Tekan layar untuk mengatur tenaga dan melakukan lompatan",
-        "category": "olahraga",
-        "tags": ["Lompat Tinggi", "Olahraga", "Atletik", "Kekuatan", "Waktu"],
-        "image": "./icons/53941.jpg",
-        "downloads": "5.8K",
-        "rating": 3.9
     },
     {
         "id": 55067,
@@ -897,15 +842,4 @@
         "downloads": "12.9K",
         "rating": 4.7
     },
-    {
-        "id": 54813,
-        "name": "Mobil Balap Kota",
-        "description": "Kendarai mobil balap keren di jalan raya kota yang ramai, hindari kendaraan lain dan kejar kecepatan tertinggi untuk juara balap.",
-        "instructions": "Geser kiri kanan layar untuk mengendalikan arah mobil",
-        "category": "balap",
-        "tags": ["Mobil", "Balap Kota", "Kecepatan", "Lalu Lintas", "Keren"],
-        "image": "./icons/54813.jpg",
-        "downloads": "16.3K",
-        "rating": 4.6
-    }
 ]       
