@@ -9,7 +9,7 @@
       "Funny",
       "Game"
     ],
-    "image": "https://img.gamemonetize.com/kj09fyezfldg6itgu59hx4f3zz94d7er/512x384.jpg",
+    "image": "./icons/59140.jpg",
     "downloads": "11.4K",
     "rating": 3.8
   },
@@ -30,7 +30,7 @@
       "School"
     ],
     "name": "4 Colors Card Mania",
-    "image": "https://img.gamemonetize.com/y7ha45y5tsd8ses04wblim7ovs73s3kh/512x384.jpg",
+    "image": "./icons/59163.jpg",
     "downloads": "6.5K",
     "rating": 3.9
   },
@@ -44,7 +44,7 @@
       "Jigsaw"
     ],
     "name": "Cute Christmas Animals Jigsaw",
-    "image": "https://img.gamemonetize.com/wlw4fy6yuuazzvblnru0uupy7ekhfij4/512x384.jpg",
+    "image": "./icons/59169.jpg",
     "downloads": "3.5K",
     "rating": 4.1
   },
@@ -63,7 +63,7 @@
       "html5 games",
       "Puzzle"
     ],
-    "image": "https://img.gamemonetize.com/dkq8zzrapklf1wnnyh3zik7vjguon01p/512x384.jpg",
+    "image": "./icons/59174.jpg",
     "downloads": "14.5K",
     "rating": 4.5
   },
@@ -80,7 +80,7 @@
       "Puzzle",
       "Strategy"
     ],
-    "image": "https://img.gamemonetize.com/hk5qyxw04dzhp7hasacv3tji0a9ww4zb/512x384.jpg",
+    "image": "./icons/59179.jpg",
     "downloads": "18.2K",
     "rating": 3.8
   },
@@ -100,7 +100,7 @@
       "Matching",
       "Puzzle"
     ],
-    "image": "https://img.gamemonetize.com/cmtzbjqrvj0phn80gxdsoxsu8gcmijv5/512x384.jpg",
+    "image": "./icons/59224.jpg",
     "downloads": "8.3K",
     "rating": 3.6
   },
@@ -114,7 +114,7 @@
       "Fruit"
     ],
     "name": "Permutation Transport",
-    "image": "https://img.gamemonetize.com/ndquyizxi4o6ba8w9pocs35ikjovf7si/512x384.jpg",
+    "image": "./icons/59247.jpg",
     "downloads": "8.9K",
     "rating": 4.9
   },
@@ -128,7 +128,7 @@
       "Ballon",
       "Casual"
     ],
-    "image": "https://img.gamemonetize.com/cexgh5tjrvxmnn9tmbfq71at1de96r8d/512x384.jpg",
+    "image": "./icons/59262.jpg",
     "downloads": "5.3K",
     "rating": 4.4
   },
@@ -154,7 +154,7 @@
       "Train"
     ],
     "name": "2 Player Online Chess",
-    "image": "https://img.gamemonetize.com/tgsetdb6p6hq5xt6a1uz2se32gfjeo4l/512x384.jpg",
+    "image": "./icons/59302.jpg",
     "downloads": "3.4K",
     "rating": 4.4
   },
@@ -170,7 +170,7 @@
       "Puzzle"
     ],
     "name": "Swipe and Clear",
-    "image": "https://img.gamemonetize.com/zbnxhs1adn93q3a3cls2uanq7ivzoa6p/512x384.jpg",
+    "image": "./icons/59312.jpg",
     "downloads": "2.6K",
     "rating": 4.0
   },
@@ -190,7 +190,7 @@
       "School"
     ],
     "name": "Toca Find The Differences",
-    "image": "https://img.gamemonetize.com/oo4uv2pkn1qdilhyyi5bugtx35dljgcs/512x384.jpg",
+    "image": "./icons/59370.jpg",
     "downloads": "19.1K",
     "rating": 4.6
   },
@@ -206,7 +206,7 @@
       "Puzzle",
       "puzzleblock"
     ],
-    "image": "https://img.gamemonetize.com/pn2lkci8w2ty65o0ivrn9qguwjmj68mh/512x384.jpg",
+    "image": "./icons/59376.jpg",
     "downloads": "10.8K",
     "rating": 3.6
   },
@@ -222,7 +222,7 @@
       "Kids"
     ],
     "name": "Drawing And Coloring_1",
-    "image": "https://img.gamemonetize.com/8mlp82dfuj6pzshrxnoavm4mr8yk6mq5/512x384.jpg",
+    "image": "./icons/59386.jpg",
     "downloads": "10.9K",
     "rating": 4.4
   },
@@ -239,7 +239,7 @@
       "Memory",
       "Puzzle"
     ],
-    "image": "https://img.gamemonetize.com/dhr00x5lotec0haavfstc5gmy8p1b6ue/512x384.jpg",
+    "image": "./icons/59400.jpg",
     "downloads": "10.8K",
     "rating": 3.9
   },
@@ -258,7 +258,7 @@
       "Spongebob"
     ],
     "name": "SpongeBob Find The Differences",
-    "image": "https://img.gamemonetize.com/fvzr892y3w3n3sa4p98dbwdw08lht8m6/512x384.jpg",
+    "image": "./icons/59405.jpg",
     "downloads": "17.1K",
     "rating": 3.9
   },
@@ -276,7 +276,7 @@
       "Music",
       "Skill"
     ],
-    "image": "https://img.gamemonetize.com/fnp0ngnsuu5x0bh4lnve42hwx4vc3wcm/512x384.jpg",
+    "image": "./icons/59420.jpg",
     "downloads": "4.0K",
     "rating": 3.5
   },
@@ -294,7 +294,7 @@
       "Side Scrolling"
     ],
     "name": "Scroll and Spot",
-    "image": "https://img.gamemonetize.com/8jxfjtyj3zka0yqz6i8qvr04lmcg8hb8/512x384.jpg",
+    "image": "./icons/59433.jpg",
     "downloads": "8.3K",
     "rating": 3.5
   },
@@ -308,7 +308,7 @@
       "Ball",
       "Color"
     ],
-    "image": "https://img.gamemonetize.com/6wi5nkt2o42anf74rbfmyyxheazh5x3m/512x384.jpg",
+    "image": "./icons/59447.jpg",
     "downloads": "19.1K",
     "rating": 3.7
   },
@@ -324,7 +324,7 @@
       "Puzzle"
     ],
     "name": "Christmas Gift Match",
-    "image": "https://img.gamemonetize.com/6hjszik1u2u42mo6pg1yqxfabgsf9ob6/512x384.jpg",
+    "image": "./icons/59454.jpg",
     "downloads": "12.6K",
     "rating": 4.6
   },
@@ -341,7 +341,7 @@
       "Puzzle",
       "Space"
     ],
-    "image": "https://img.gamemonetize.com/alh2kegu5ii4zzgmawbkqwpfo8e0yhl2/512x384.jpg",
+    "image": "./icons/59459.jpg",
     "downloads": "10.3K",
     "rating": 4.1
   },
@@ -360,7 +360,7 @@
       "spin-wheel"
     ],
     "name": "Bubble Shooter Candy Wheel Level Pack",
-    "image": "https://img.gamemonetize.com/fnjhwkjyctqcbz4r5qedg7u4kquhb6pz/512x384.jpg",
+    "image": "./icons/59472.jpg",
     "downloads": "9.9K",
     "rating": 4.0
   },
@@ -380,7 +380,7 @@
       "School"
     ],
     "name": "Digital Circus Find The Differences",
-    "image": "https://img.gamemonetize.com/ywgj9hhauky1dwqqquy5q37tldkfps8p/512x384.jpg",
+    "image": "./icons/59482.jpg",
     "downloads": "6.3K",
     "rating": 4.8
   },
@@ -395,7 +395,7 @@
       "Basketball",
       "Puzzle"
     ],
-    "image": "https://img.gamemonetize.com/8gjrfuo4objslb0okt96n8qo41flqrpj/512x384.jpg",
+    "image": "./icons/59498.jpg",
     "downloads": "10.2K",
     "rating": 4.3
   },
@@ -415,7 +415,7 @@
       "Skill"
     ],
     "name": "Checkmate Clash",
-    "image": "https://img.gamemonetize.com/0e8bl4kywmf7kikoysg3y06o0ymk0gi2/512x384.jpg",
+    "image": "./icons/59503.jpg",
     "downloads": "4.5K",
     "rating": 4.1
   },
@@ -430,7 +430,7 @@
       "Matching",
       "Puzzle"
     ],
-    "image": "https://img.gamemonetize.com/wigmwb0qrjycip6o6p7of5984t77ydql/512x384.jpg",
+    "image": "./icons/59512.jpg",
     "downloads": "15.3K",
     "rating": 4.3
   },
@@ -451,7 +451,7 @@
       "Sprunki"
     ],
     "name": "Sprunki Find The Differences",
-    "image": "https://img.gamemonetize.com/bs7j4sn0t3lqi1y301b9j76so4x5080h/512x384.jpg",
+    "image": "./icons/59517.jpg",
     "downloads": "13.8K",
     "rating": 4.5
   },
@@ -465,7 +465,7 @@
       "Cartoon",
       "Jigsaw"
     ],
-    "image": "https://img.gamemonetize.com/ybl0e80q0fc1crrf2alltzvaoyr68zmc/512x384.jpg",
+    "image": "./icons/59542.jpg",
     "downloads": "16.6K",
     "rating": 4.0
   },
@@ -479,7 +479,7 @@
       "Jigsaw"
     ],
     "name": "Zombie Christmas Jigsaw: Holiday Fun 4 Horror Fans",
-    "image": "https://img.gamemonetize.com/cf9tt80o0xq39vze0gmrlsgem7q29wch/512x384.jpg",
+    "image": "./icons/59660.jpg",
     "downloads": "15.2K",
     "rating": 4.9
   },
@@ -493,7 +493,7 @@
       "Cartoon",
       "Jigsaw"
     ],
-    "image": "https://img.gamemonetize.com/m5xky6pynu55yyvkjwnhj8ylqxk699fe/512x384.jpg",
+    "image": "./icons/59662.jpg",
     "downloads": "15.6K",
     "rating": 4.0
   },
@@ -507,7 +507,7 @@
       "Jigsaw"
     ],
     "name": "Minecraft Christmas Jigsaw: Festive Pixel Art Fun ",
-    "image": "https://img.gamemonetize.com/d3b9uun1keiulyyeocis117wpgr0r9g4/512x384.jpg",
+    "image": "./icons/59663.jpg",
     "downloads": "17.6K",
     "rating": 4.3
   },
@@ -526,7 +526,7 @@
       "Santa Claus"
     ],
     "name": "Xmas Balls",
-    "image": "https://img.gamemonetize.com/az4fzkv1ynqr09w0fknfnv7ptwtpp8ii/512x384.jpg",
+    "image": "./icons/59692.jpg",
     "downloads": "17.7K",
     "rating": 3.6
   },
@@ -544,7 +544,7 @@
       "Puzzle",
       "Skill"
     ],
-    "image": "https://img.gamemonetize.com/8ze15rudl04u3ugrn13965oquot6qdns/512x384.jpg",
+    "image": "./icons/59694.jpg",
     "downloads": "16.0K",
     "rating": 4.2
   },
@@ -563,7 +563,7 @@
       "sorting"
     ],
     "name": "Holiday Hex Sort",
-    "image": "https://img.gamemonetize.com/twq47apmwo98gqxz06j4ayvycngyijdy/512x384.jpg",
+    "image": "./icons/59696.jpg",
     "downloads": "2.7K",
     "rating": 4.8
   },
@@ -589,7 +589,7 @@
       "Unity3D",
       "WebGL"
     ],
-    "image": "https://img.gamemonetize.com/xfbf94ztk2lxmoapxxnjtfyt3g8117x0/512x384.jpg",
+    "image": "./icons/59820.jpg",
     "downloads": "14.2K",
     "rating": 4.5
   },
@@ -612,7 +612,7 @@
       "Seduction",
       "Snow"
     ],
-    "image": "https://img.gamemonetize.com/zxj7rznt6ljamaxaitum0fhzx7lt0ztt/512x384.jpg",
+    "image": "./icons/59880.jpg",
     "downloads": "1.9K",
     "rating": 5.0
   },
@@ -626,7 +626,7 @@
       "Puzzle",
       "Sprunki"
     ],
-    "image": "https://img.gamemonetize.com/dgca7uu3ypx71up4opyg9try95iic4zm/512x384.jpg",
+    "image": "./icons/59927.jpg",
     "downloads": "2.9K",
     "rating": 4.2
   },
@@ -644,7 +644,7 @@
       "Puzzle"
     ],
     "name": "Jingled Pieces",
-    "image": "https://img.gamemonetize.com/4e7zaa114vla3e0jsuxv9pkhqtvvcl85/512x384.jpg",
+    "image": "./icons/59986.jpg",
     "downloads": "9.7K",
     "rating": 4.4
   },
@@ -664,7 +664,7 @@
       "sliding",
       "Sprunki"
     ],
-    "image": "https://img.gamemonetize.com/uzwjxqalwpzpt2rgrdp1a1k5g2q61cvm/512x384.jpg",
+    "image": "./icons/59990.jpg",
     "downloads": "8.3K",
     "rating": 4.6
   },
@@ -685,7 +685,7 @@
       "School"
     ],
     "name": "Toca Life Memory Card Match",
-    "image": "https://img.gamemonetize.com/rpdmt8m5xr0cbb6m6bpzqvpr1t8g91x2/512x384.jpg",
+    "image": "./icons/59998.jpg",
     "downloads": "3.0K",
     "rating": 3.9
   },
@@ -701,7 +701,7 @@
       "Jigsaw",
       "Puzzle"
     ],
-    "image": "https://img.gamemonetize.com/snpoqzo99hlkm10o77cxogrokam10nz0/512x384.jpg",
+    "image": "./icons/60003.jpg",
     "downloads": "18.0K",
     "rating": 4.4
   },
@@ -719,7 +719,7 @@
       "Mobile"
     ],
     "name": "Spot The Odd One",
-    "image": "https://img.gamemonetize.com/sunxnf6tu6g9bdeeoi4tkxe6lyg5zi02/512x384.jpg",
+    "image": "./icons/60004.jpg",
     "downloads": "14.8K",
     "rating": 4.8
   },
@@ -740,7 +740,7 @@
       "Puzzle",
       "Sprunki"
     ],
-    "image": "https://img.gamemonetize.com/ymgg28zbc635e5dgw11yv7huzy6p7t6p/512x384.jpg",
+    "image": "./icons/60019.jpg",
     "downloads": "11.1K",
     "rating": 4.1
   },
@@ -755,7 +755,7 @@
       "Sandbox"
     ],
     "name": "Mart Puzzle Box Cat",
-    "image": "https://img.gamemonetize.com/xftd805d34joa2pwlwg0jxp23qof1ncn/512x384.jpg",
+    "image": "./icons/60071.jpg",
     "downloads": "11.6K",
     "rating": 4.4
   },
@@ -770,7 +770,7 @@
       "Ball",
       "Kids"
     ],
-    "image": "https://img.gamemonetize.com/rlwlu507t8k3bgdo5lelxgmm990m4pt2/512x384.jpg",
+    "image": "./icons/60112.jpg",
     "downloads": "9.8K",
     "rating": 5.0
   },
@@ -785,7 +785,7 @@
       "Draw",
       "Funny"
     ],
-    "image": "https://img.gamemonetize.com/syq5xzekf49jdw74tittid3md4yv7q5t/512x384.jpg",
+    "image": "./icons/60131.jpg",
     "downloads": "9.2K",
     "rating": 4.2
   },
@@ -805,7 +805,7 @@
       "Puzzle"
     ],
     "name": "Squid Game Memory Card Match",
-    "image": "https://img.gamemonetize.com/syj5dynrsaf2hz9xpd502cq2kphof47r/512x384.jpg",
+    "image": "./icons/60158.jpg",
     "downloads": "9.1K",
     "rating": 4.2
   },
@@ -824,7 +824,7 @@
       "Sprunki",
       "swipe"
     ],
-    "image": "https://img.gamemonetize.com/1m1vf4hbo6z8zj6r2anj1wlkf675cul7/512x384.jpg",
+    "image": "./icons/60222.jpg",
     "downloads": "6.9K",
     "rating": 4.2
   },
@@ -842,7 +842,7 @@
       "sorting"
     ],
     "name": "Super Stock Stack",
-    "image": "https://img.gamemonetize.com/1y9t99zu0bty06qimd1uo9dui3q9v8h1/512x384.jpg",
+    "image": "./icons/60271.jpg",
     "downloads": "10.2K",
     "rating": 3.8
   },
@@ -868,7 +868,7 @@
       "Turn Based"
     ],
     "name": "Minesweeper Duel",
-    "image": "https://img.gamemonetize.com/mhp0ae8pj0i7r9f5aaxohl1tuhdplkw9/512x384.jpg",
+    "image": "./icons/60313.jpg",
     "downloads": "4.8K",
     "rating": 5.0
   },
@@ -883,7 +883,7 @@
       "Drawing",
       "Fun"
     ],
-    "image": "https://img.gamemonetize.com/egvbg8kcgdbedxyi01lcc5mxmh1s65hv/512x384.jpg",
+    "image": "./icons/60356.jpg",
     "downloads": "1.5K",
     "rating": 3.7
   },
@@ -898,7 +898,7 @@
       "Sprunki"
     ],
     "name": "Sprunki Bubble Pop",
-    "image": "https://img.gamemonetize.com/vhrwkkv9mzcax7g2mclj0xcyb2ojqc3v/512x384.jpg",
+    "image": "./icons/60364.jpg",
     "downloads": "10.9K",
     "rating": 4.9
   },
@@ -915,7 +915,7 @@
       "Match 3",
       "Puzzle"
     ],
-    "image": "https://img.gamemonetize.com/zg9mb3pcwirump5xiynbtf28abo9rg0g/512x384.jpg",
+    "image": "./icons/60380.jpg",
     "downloads": "17.2K",
     "rating": 4.8
   },
@@ -930,7 +930,7 @@
       "puzzleblock"
     ],
     "name": "Ice is coming",
-    "image": "https://img.gamemonetize.com/ybqt11hd6ntql264208ipvptta85m0gb/512x384.jpg",
+    "image": "./icons/60385.jpg",
     "downloads": "11.1K",
     "rating": 4.8
   },
@@ -947,7 +947,7 @@
       "Matching",
       "sorting"
     ],
-    "image": "https://img.gamemonetize.com/gq5t2q1hmyr7m5ayiur1ozobes8v35z3/512x384.jpg",
+    "image": "./icons/60411.jpg",
     "downloads": "17.1K",
     "rating": 4.9
   },
@@ -961,7 +961,7 @@
       "Jigsaw"
     ],
     "name": "Sprunki Jigsaw Puzzle for Kids",
-    "image": "https://img.gamemonetize.com/fmh7edobnjho9ogrs11102mtqn96kq5m/512x384.jpg",
+    "image": "./icons/60420.jpg",
     "downloads": "15.6K",
     "rating": 4.2
   },
@@ -975,7 +975,7 @@
       "Cartoon",
       "Jigsaw"
     ],
-    "image": "https://img.gamemonetize.com/0tve9iq1vlu2vkur6omxin74pkgsdv65/512x384.jpg",
+    "image": "./icons/60425.jpg",
     "downloads": "17.7K",
     "rating": 4.8
   },
@@ -990,7 +990,7 @@
       "Puzzle"
     ],
     "name": "Granny Jigsaw Creepy Puzzle",
-    "image": "https://img.gamemonetize.com/gwbrwlsp0wd7ajki1doieznscui42nmx/512x384.jpg",
+    "image": "./icons/60426.jpg",
     "downloads": "17.3K",
     "rating": 4.5
   },
@@ -1004,7 +1004,7 @@
       "Classic"
     ],
     "name": "Bubble Voyage",
-    "image": "https://img.gamemonetize.com/khtd41r4vxaxy99y5f5ktpqyja34a1zz/512x384.jpg",
+    "image": "./icons/60449.jpg",
     "downloads": "15.1K",
     "rating": 4.8
   },
@@ -1020,7 +1020,7 @@
       "Funny"
     ],
     "name": "DOP Fun Delete One Part",
-    "image": "https://img.gamemonetize.com/wzjnev8w9oix4nnfalouc2exqd134bte/512x384.jpg",
+    "image": "./icons/60472.jpg",
     "downloads": "8.3K",
     "rating": 4.9
   },
@@ -1034,7 +1034,7 @@
       "Brain",
       "Classic"
     ],
-    "image": "https://img.gamemonetize.com/dihu6di8npw5w8hte62f34uwm2a4gjro/512x384.jpg",
+    "image": "./icons/60474.jpg",
     "downloads": "12.8K",
     "rating": 4.5
   },
@@ -1050,7 +1050,7 @@
       "Sprunki"
     ],
     "name": "sprunki spot  indredibox",
-    "image": "https://img.gamemonetize.com/mfs98rjjegx5j405qltwenauf5gbetg4/512x384.jpg",
+    "image": "./icons/60478.jpg",
     "downloads": "12.8K",
     "rating": 4.3
   },
@@ -1067,7 +1067,7 @@
       "Puzzle",
       "Skill"
     ],
-    "image": "https://img.gamemonetize.com/v2t56nxtfns35q9rcn22tjrn1d10w2tr/512x384.jpg",
+    "image": "./icons/60486.jpg",
     "downloads": "17.1K",
     "rating": 3.6
   },
@@ -1085,7 +1085,7 @@
       "Sprunki"
     ],
     "name": "Sprunki Incredibox Differences",
-    "image": "https://img.gamemonetize.com/xrsube9lt82eajgwfhoncszreqevb5ad/512x384.jpg",
+    "image": "./icons/60514.jpg",
     "downloads": "12.9K",
     "rating": 4.1
   },
@@ -1101,7 +1101,7 @@
       "Puzzle",
       "Skill"
     ],
-    "image": "https://img.gamemonetize.com/gi2wdpcjp7spjbsqnpdsgm2ycwn7zrc5/512x384.jpg",
+    "image": "./icons/60564.jpg",
     "downloads": "17.2K",
     "rating": 4.3
   },
@@ -1116,7 +1116,7 @@
       "2D",
       "Word"
     ],
-    "image": "https://img.gamemonetize.com/qzl6bkduj5331a7v6c6ewdfcu6y93h0r/512x384.jpg",
+    "image": "./icons/60587.jpg",
     "downloads": "17.2K",
     "rating": 4.5
   },
@@ -1130,7 +1130,7 @@
       "1 Player",
       "Arcade"
     ],
-    "image": "https://img.gamemonetize.com/q4od6qkjdtketyngr99l6ij22kajyh4w/512x384.jpg",
+    "image": "./icons/60590.jpg",
     "downloads": "12.1K",
     "rating": 4.5
   },
@@ -1144,7 +1144,7 @@
       "Puzzle"
     ],
     "name": "RollMaze",
-    "image": "https://img.gamemonetize.com/uuguqz37pxuhb094qz20gubp8ypxz83l/512x384.jpg",
+    "image": "./icons/60593.jpg",
     "downloads": "16.4K",
     "rating": 4.7
   },
@@ -1161,7 +1161,7 @@
       "Hypercasual"
     ],
     "name": "HexaPuzzleNew",
-    "image": "https://img.gamemonetize.com/ywbb5779vnbfvxiz7oaj55ax0o2twj5y/512x384.jpg",
+    "image": "./icons/60618.jpg",
     "downloads": "19.1K",
     "rating": 4.4
   },
@@ -1183,7 +1183,7 @@
       "Logic",
       "Logical"
     ],
-    "image": "https://img.gamemonetize.com/agerlvhwrt94b6x801pps0ch3jku9t1t/512x384.jpg",
+    "image": "./icons/60649.jpg",
     "downloads": "15.6K",
     "rating": 4.9
   },
@@ -1198,7 +1198,7 @@
       "Match 3"
     ],
     "name": "Bubble Shooter Classic Pop",
-    "image": "https://img.gamemonetize.com/vu6s3avtfp3z8beo4meu9hwn6tpzmxle/512x384.jpg",
+    "image": "./icons/60650.jpg",
     "downloads": "19.7K",
     "rating": 4.8
   },
@@ -1219,7 +1219,7 @@
       "Logical",
       "watermelon"
     ],
-    "image": "https://img.gamemonetize.com/1hzhibwvq991maooh5kocwkdj4oecp1y/512x384.jpg",
+    "image": "./icons/60651.jpg",
     "downloads": "1.6K",
     "rating": 3.9
   },
@@ -1234,7 +1234,7 @@
       "Color",
       "Strategy"
     ],
-    "image": "https://img.gamemonetize.com/i16gs0nj7cyxux1jz21kajvqquhycbjr/512x384.jpg",
+    "image": "./icons/60693.jpg",
     "downloads": "15.7K",
     "rating": 4.2
   },
@@ -1252,7 +1252,7 @@
       "Logical"
     ],
     "name": "Merge the Planets: 2048!",
-    "image": "https://img.gamemonetize.com/l9tr03ur1991r249ihfoewm3c4p5xjzt/512x384.jpg",
+    "image": "./icons/60720.jpg",
     "downloads": "1.0K",
     "rating": 3.7
   },
@@ -1270,7 +1270,7 @@
       "Ball",
       "Logical"
     ],
-    "image": "https://img.gamemonetize.com/t099dxkcqj5zszxkzxdihp4ipuddmpji/512x384.jpg",
+    "image": "./icons/60729.jpg",
     "downloads": "17.7K",
     "rating": 4.4
   },
@@ -1289,7 +1289,7 @@
       "Logical"
     ],
     "name": "New Years Balls 2048 in 3D",
-    "image": "https://img.gamemonetize.com/1ea9qy0eyb6qo8tt6v1aj5rub735vfbo/512x384.jpg",
+    "image": "./icons/60732.jpg",
     "downloads": "4.6K",
     "rating": 4.6
   },
@@ -1307,7 +1307,7 @@
       "Android",
       "Ball"
     ],
-    "image": "https://img.gamemonetize.com/tt7q9vjv94f08akx1np3uf2675uaickn/512x384.jpg",
+    "image": "./icons/60734.jpg",
     "downloads": "14.4K",
     "rating": 4.6
   },
@@ -1324,7 +1324,7 @@
       "Ball"
     ],
     "name": "Dize puzzles: 2048 Merge!",
-    "image": "https://img.gamemonetize.com/f37nkhwixler59dscrsu7jo6qyu06jrv/512x384.jpg",
+    "image": "./icons/60735.jpg",
     "downloads": "18.8K",
     "rating": 5.0
   },
@@ -1340,7 +1340,7 @@
       "Kids",
       "Word"
     ],
-    "image": "https://img.gamemonetize.com/5igt6ia8v52el2tjkwlk3erdiaemribv/512x384.jpg",
+    "image": "./icons/60738.jpg",
     "downloads": "3.0K",
     "rating": 4.6
   },
@@ -1357,7 +1357,7 @@
       "Ball"
     ],
     "name": "New Years Cube in 3D",
-    "image": "https://img.gamemonetize.com/eirktd1llekn0xuey0boarevqk8dot4y/512x384.jpg",
+    "image": "./icons/60746.jpg",
     "downloads": "13.2K",
     "rating": 4.8
   },
@@ -1374,7 +1374,7 @@
       "Android",
       "Ball"
     ],
-    "image": "https://img.gamemonetize.com/bue012cz0ch1fx3nneimvl3rl4ihufv4/512x384.jpg",
+    "image": "./icons/60747.jpg",
     "downloads": "17.3K",
     "rating": 3.9
   },
@@ -1392,7 +1392,7 @@
       "Ball"
     ],
     "name": "Combine food of the USSR",
-    "image": "https://img.gamemonetize.com/pg91b5y6x0qb40as9tz40ah2h90aag82/512x384.jpg",
+    "image": "./icons/60748.jpg",
     "downloads": "6.9K",
     "rating": 4.8
   },
@@ -1410,7 +1410,7 @@
       "Puzzle",
       "Sprunki"
     ],
-    "image": "https://img.gamemonetize.com/0koq56k6nldcn2ztz4ir2x0fxnszcl1w/512x384.jpg",
+    "image": "./icons/60761.jpg",
     "downloads": "7.0K",
     "rating": 3.7
   },
@@ -1427,7 +1427,7 @@
       "Tetris"
     ],
     "name": "Harvesting Veggies",
-    "image": "https://img.gamemonetize.com/1egqp0fq702ju6viu9zvajbtjzhrsm3g/512x384.jpg",
+    "image": "./icons/60776.jpg",
     "downloads": "13.3K",
     "rating": 3.9
   },
@@ -1443,7 +1443,7 @@
       "2D",
       "Android"
     ],
-    "image": "https://img.gamemonetize.com/do5mlxhiiz6bxkce695rne3wsivglsj7/512x384.jpg",
+    "image": "./icons/60784.jpg",
     "downloads": "1.3K",
     "rating": 4.9
   },
@@ -1460,7 +1460,7 @@
       "Logical"
     ],
     "name": "Merge the Balls 2048: Billiards!",
-    "image": "https://img.gamemonetize.com/z3l5z7xhk5hy4vycxpyf9sw9uddweel0/512x384.jpg",
+    "image": "./icons/60785.jpg",
     "downloads": "15.2K",
     "rating": 4.4
   },
@@ -1478,7 +1478,7 @@
       "Brain",
       "Logic"
     ],
-    "image": "https://img.gamemonetize.com/8kz657jy0ona0x75idlv0c3p70bn1fdo/512x384.jpg",
+    "image": "./icons/60787.jpg",
     "downloads": "8.7K",
     "rating": 3.7
   },
@@ -1496,7 +1496,7 @@
       "Ball"
     ],
     "name": "Jelly Field 2D!",
-    "image": "https://img.gamemonetize.com/tdo2p4d7dkyaem74a61zdr7mvae4gt8d/512x384.jpg",
+    "image": "./icons/60788.jpg",
     "downloads": "5.1K",
     "rating": 4.7
   },
@@ -1514,7 +1514,7 @@
       "Ball",
       "HTML"
     ],
-    "image": "https://img.gamemonetize.com/hxx4nei3xv9comafx0jpc0gzho4g512x/512x384.jpg",
+    "image": "./icons/60789.jpg",
     "downloads": "8.8K",
     "rating": 3.8
   },
@@ -1532,7 +1532,7 @@
       "Logical"
     ],
     "name": "MergeButerfly: 2048!",
-    "image": "https://img.gamemonetize.com/203tuhevf5u5btzbqedkakp8ymw362ji/512x384.jpg",
+    "image": "./icons/60791.jpg",
     "downloads": "2.6K",
     "rating": 4.1
   },
@@ -1549,7 +1549,7 @@
       "Bird",
       "Logical"
     ],
-    "image": "https://img.gamemonetize.com/q4wp67dbp7x38ru92myl50177hou5jsg/512x384.jpg",
+    "image": "./icons/60792.jpg",
     "downloads": "18.4K",
     "rating": 4.0
   },
@@ -1566,7 +1566,7 @@
       "Crazy"
     ],
     "name": "MergeMushrooms: 2048!",
-    "image": "https://img.gamemonetize.com/x1j2ts56yiuqwa2u1fxr4rhtdg11pcns/512x384.jpg",
+    "image": "./icons/60793.jpg",
     "downloads": "17.9K",
     "rating": 3.7
   },
@@ -1584,7 +1584,7 @@
       "Brain",
       "Logical"
     ],
-    "image": "https://img.gamemonetize.com/fqzbzcncgxe213j4vvraznmhe6sminie/512x384.jpg",
+    "image": "./icons/60794.jpg",
     "downloads": "17.6K",
     "rating": 4.0
   },
@@ -1602,7 +1602,7 @@
       "Android",
       "Best Games"
     ],
-    "image": "https://img.gamemonetize.com/43d7snh2al6o822hutmpyb4ewxh6qvr8/512x384.jpg",
+    "image": "./icons/60796.jpg",
     "downloads": "17.6K",
     "rating": 4.2
   },
@@ -1620,7 +1620,7 @@
       "Cat"
     ],
     "name": "Merge Cats: 2048!",
-    "image": "https://img.gamemonetize.com/r1n70afhgkgia36vyw84mf7eew2fqqwa/512x384.jpg",
+    "image": "./icons/60798.jpg",
     "downloads": "5.0K",
     "rating": 4.4
   },
@@ -1641,7 +1641,7 @@
       "Pixel",
       "Puzzle"
     ],
-    "image": "https://img.gamemonetize.com/xycs3mlvr6nmmyjcu9j2stle0wqpp2kp/512x384.jpg",
+    "image": "./icons/60801.jpg",
     "downloads": "13.9K",
     "rating": 3.8
   },
@@ -1658,7 +1658,7 @@
       "Ball"
     ],
     "name": "Merge Pisces from the Ocean!",
-    "image": "https://img.gamemonetize.com/rodp4rzjra3mhe3pmzc0ggin1ngg7dzn/512x384.jpg",
+    "image": "./icons/60827.jpg",
     "downloads": "6.1K",
     "rating": 5.0
   },
@@ -1675,7 +1675,7 @@
       "Ball",
       "Best"
     ],
-    "image": "https://img.gamemonetize.com/bvwqklu3adb7g290tiuhh8k2nizhm08x/512x384.jpg",
+    "image": "./icons/60828.jpg",
     "downloads": "14.6K",
     "rating": 4.5
   },
@@ -1692,7 +1692,7 @@
       "Ball"
     ],
     "name": "Dice puzzles: New year",
-    "image": "https://img.gamemonetize.com/3ua6f0f7ybvab5uerapmwvmnk6zq3hst/512x384.jpg",
+    "image": "./icons/60830.jpg",
     "downloads": "5.4K",
     "rating": 3.7
   },
@@ -1710,7 +1710,7 @@
       "HTML5",
       "Logic"
     ],
-    "image": "https://img.gamemonetize.com/tjw00q7i8vgfw87xtmzzv1j7snkmrfu8/512x384.jpg",
+    "image": "./icons/60831.jpg",
     "downloads": "10.2K",
     "rating": 3.7
   },
@@ -1727,7 +1727,7 @@
       "Logic"
     ],
     "name": "Bus Stop: 2048!",
-    "image": "https://img.gamemonetize.com/wg1xymgqs34lty6w8hj95sapoaierz1k/512x384.jpg",
+    "image": "./icons/60833.jpg",
     "downloads": "11.5K",
     "rating": 3.9
   },
@@ -1744,7 +1744,7 @@
       "Android",
       "Brain"
     ],
-    "image": "https://img.gamemonetize.com/zekzq3s0kniqrharx60ktfzo7yrb7aup/512x384.jpg",
+    "image": "./icons/60834.jpg",
     "downloads": "1.4K",
     "rating": 4.0
   },
@@ -1759,7 +1759,7 @@
       "free html5 games for your website"
     ],
     "name": "AI Chess Master",
-    "image": "https://img.gamemonetize.com/dznqe8bswj0hm6r1ql2eh0i522tptqmd/512x384.jpg",
+    "image": "./icons/60839.jpg",
     "downloads": "4.8K",
     "rating": 3.8
   },
@@ -1777,7 +1777,7 @@
       "Puzzle",
       "School"
     ],
-    "image": "https://img.gamemonetize.com/svfa7zesk1cgafkfbrt9spjcawy2sygv/512x384.jpg",
+    "image": "./icons/60843.jpg",
     "downloads": "7.8K",
     "rating": 4.1
   },
@@ -1795,7 +1795,7 @@
       "School"
     ],
     "name": "Chill Math Subtraction",
-    "image": "https://img.gamemonetize.com/ii41eeuqmplkvvb3ur7ptwx239s3hc72/512x384.jpg",
+    "image": "./icons/60846.jpg",
     "downloads": "4.2K",
     "rating": 4.1
   },
@@ -1813,7 +1813,7 @@
       "Puzzle",
       "School"
     ],
-    "image": "https://img.gamemonetize.com/5nhm8pwjrqp6ukhbdrgjpd85q0m6y5y7/512x384.jpg",
+    "image": "./icons/60847.jpg",
     "downloads": "17.2K",
     "rating": 4.5
   },
@@ -1831,7 +1831,7 @@
       "School"
     ],
     "name": "Chill Math Division",
-    "image": "https://img.gamemonetize.com/90anzkwpigevn0kg01f7t2d8uvbcvtvx/512x384.jpg",
+    "image": "./icons/60848.jpg",
     "downloads": "1.7K",
     "rating": 4.2
   },
@@ -1849,7 +1849,7 @@
       "Quiz",
       "School"
     ],
-    "image": "https://img.gamemonetize.com/x5gjp9vq78jihq0401cstb5dnlwd4wzy/512x384.jpg",
+    "image": "./icons/60849.jpg",
     "downloads": "12.0K",
     "rating": 4.3
   },
@@ -1864,7 +1864,7 @@
       "Strategy"
     ],
     "name": "X O Battle",
-    "image": "https://img.gamemonetize.com/yeqh7inen60dcrtwluqfcgp1bubl7god/512x384.jpg",
+    "image": "./icons/60861.jpg",
     "downloads": "7.0K",
     "rating": 4.4
   },
@@ -1879,7 +1879,7 @@
       "Fish",
       "Funny"
     ],
-    "image": "https://img.gamemonetize.com/7ajus5yz40y26103xtlfez8q1nresiz5/512x384.jpg",
+    "image": "./icons/60870.jpg",
     "downloads": "9.6K",
     "rating": 4.9
   },
@@ -1894,7 +1894,7 @@
       "Classic"
     ],
     "name": "Cat Freeway",
-    "image": "https://img.gamemonetize.com/houcwp0f8c6686y49h2wu6mspsv845cj/512x384.jpg",
+    "image": "./icons/60874.jpg",
     "downloads": "10.0K",
     "rating": 4.5
   },
@@ -1909,7 +1909,7 @@
       "Fun",
       "Killing"
     ],
-    "image": "https://img.gamemonetize.com/3d9oxtqoin5bmjhs8dwrht2x6cafz69a/512x384.jpg",
+    "image": "./icons/60884.jpg",
     "downloads": "5.5K",
     "rating": 4.7
   },
@@ -1924,7 +1924,7 @@
       "Puzzle"
     ],
     "name": "Cube Puzzle",
-    "image": "https://img.gamemonetize.com/3cc0m30a8ervb52ro3zfqwq8ogxa86qy/512x384.jpg",
+    "image": "./icons/60896.jpg",
     "downloads": "1.8K",
     "rating": 3.8
   },
@@ -1942,7 +1942,7 @@
       "Puzzle",
       "Strategy"
     ],
-    "image": "https://img.gamemonetize.com/dls9vf2eefakymxb4io0xkmj7i1m0p1b/512x384.jpg",
+    "image": "./icons/60935.jpg",
     "downloads": "8.7K",
     "rating": 3.9
   },
@@ -1957,7 +1957,7 @@
       "Puzzle"
     ],
     "name": "Suika Bubble Merge",
-    "image": "https://img.gamemonetize.com/hsc1yv85q9ouwit9cnatqclbekpxnzlo/512x384.jpg",
+    "image": "./icons/60939.jpg",
     "downloads": "12.0K",
     "rating": 4.2
   },
@@ -1974,7 +1974,7 @@
       "puzzleblock",
       "Sprunki"
     ],
-    "image": "https://img.gamemonetize.com/g2v5wciudv1n2sjwythcfjzgvpnfav8u/512x384.jpg",
+    "image": "./icons/60940.jpg",
     "downloads": "5.3K",
     "rating": 4.3
   },
@@ -1987,7 +1987,7 @@
       "Sprunki"
     ],
     "name": "Squid Game X Sprunki Tetris",
-    "image": "https://img.gamemonetize.com/f7he007ttzpcdgbooh65fdskb3qqvg1n/512x384.jpg",
+    "image": "./icons/60953.jpg",
     "downloads": "8.6K",
     "rating": 4.2
   },
@@ -2002,7 +2002,7 @@
       "Platform",
       "Shooter"
     ],
-    "image": "https://img.gamemonetize.com/qgiiqeg6t58hfc6kua2voiz2a4oh9bsr/512x384.jpg",
+    "image": "./icons/60974.jpg",
     "downloads": "15.7K",
     "rating": 4.8
   },
@@ -2019,7 +2019,7 @@
       "Skill"
     ],
     "name": "Newtons Fruit Fusion",
-    "image": "https://img.gamemonetize.com/ebc1pyvnhfvgog72n579jctfsp8rzrr8/512x384.jpg",
+    "image": "./icons/61075.jpg",
     "downloads": "1.7K",
     "rating": 4.0
   },
@@ -2032,7 +2032,7 @@
     "tags": [
       "Board"
     ],
-    "image": "https://img.gamemonetize.com/9dfjnm3ihlvt9h0yxblmdflszkbanpc2/512x384.jpg",
+    "image": "./icons/61091.jpg",
     "downloads": "10.7K",
     "rating": 3.6
   },
@@ -2050,7 +2050,7 @@
       "Relaxation"
     ],
     "name": "Mahjongg Solitaire",
-    "image": "https://img.gamemonetize.com/ep1klxup1xxefe9ucbga0r283x2lvc2m/512x384.jpg",
+    "image": "./icons/61093.jpg",
     "downloads": "17.3K",
     "rating": 3.6
   },
@@ -2063,7 +2063,7 @@
     "tags": [
       "Sprunki"
     ],
-    "image": "https://img.gamemonetize.com/4gcbt7d62cigcnq1512kqpze5qsnkl8k/512x384.jpg",
+    "image": "./icons/61099.jpg",
     "downloads": "18.9K",
     "rating": 4.3
   },
@@ -2082,7 +2082,7 @@
       "sorting"
     ],
     "name": "Shelf Shift Match",
-    "image": "https://img.gamemonetize.com/n29843hgpzedtrepyl0501yco2q9bu3c/512x384.jpg",
+    "image": "./icons/61113.jpg",
     "downloads": "8.8K",
     "rating": 4.7
   },
@@ -2100,7 +2100,7 @@
       "Mobile",
       "Physics"
     ],
-    "image": "https://img.gamemonetize.com/vfkef0h65ixool4c1mldayie4t74nmud/512x384.jpg",
+    "image": "./icons/61126.jpg",
     "downloads": "5.7K",
     "rating": 4.7
   },
@@ -2117,7 +2117,7 @@
       "Puzzle"
     ],
     "name": "Tiles Matching",
-    "image": "https://img.gamemonetize.com/azu5kouc1jic7948kwj47i5helb1nfkt/512x384.jpg",
+    "image": "./icons/61158.jpg",
     "downloads": "15.8K",
     "rating": 4.9
   },
@@ -2134,7 +2134,7 @@
       "Unity3D",
       "WebGL"
     ],
-    "image": "https://img.gamemonetize.com/n1d8l8py3wdb32z3fgkfiyhbbcuw5n1t/512x384.jpg",
+    "image": "./icons/61186.jpg",
     "downloads": "13.0K",
     "rating": 4.9
   },
@@ -2149,7 +2149,7 @@
       "Collection",
       "construction"
     ],
-    "image": "https://img.gamemonetize.com/rb7xlsqb7l0xkcvb3tfe2q5f4vtf8mmp/512x384.jpg",
+    "image": "./icons/61277.jpg",
     "downloads": "4.3K",
     "rating": 4.2
   },
@@ -2166,7 +2166,7 @@
       "Word"
     ],
     "name": "Hangman Saga",
-    "image": "https://img.gamemonetize.com/lhm5u7kwh51pmekecp9ltkg9abul220u/512x384.jpg",
+    "image": "./icons/61299.jpg",
     "downloads": "15.3K",
     "rating": 4.5
   },
@@ -2182,7 +2182,7 @@
       "run",
       "Stickman"
     ],
-    "image": "https://img.gamemonetize.com/trq3w0z853psjkvzsboqnebh7l5gzqjv/512x384.jpg",
+    "image": "./icons/61311.jpg",
     "downloads": "2.4K",
     "rating": 4.3
   },
@@ -2197,7 +2197,7 @@
       "Match 3"
     ],
     "name": "Goose Match 3D",
-    "image": "https://img.gamemonetize.com/ebwm4j8gnrf3ybi2r6n600d0jgyx7sk7/512x384.jpg",
+    "image": "./icons/61312.jpg",
     "downloads": "13.1K",
     "rating": 4.5
   },
@@ -2212,7 +2212,7 @@
       "Matching",
       "Skibidi Toilet"
     ],
-    "image": "https://img.gamemonetize.com/1l0xpv9ap639k6jfiq12mvr4yr3tpixy/512x384.jpg",
+    "image": "./icons/61317.jpg",
     "downloads": "4.1K",
     "rating": 4.0
   },
@@ -2226,7 +2226,7 @@
       "2D"
     ],
     "name": "Monster Makeover Make Dance",
-    "image": "https://img.gamemonetize.com/xy33gpl2ymbr8uo7fr2a2apakecfvxpo/512x384.jpg",
+    "image": "./icons/61322.jpg",
     "downloads": "8.7K",
     "rating": 3.8
   },
@@ -2241,7 +2241,7 @@
       "Puzzle",
       "Unity3D"
     ],
-    "image": "https://img.gamemonetize.com/1ts4hgizpc8ns5et55o1yp3ws4x9m0ii/512x384.jpg",
+    "image": "./icons/61332.jpg",
     "downloads": "3.1K",
     "rating": 3.7
   },
@@ -2254,7 +2254,7 @@
       "1 Player"
     ],
     "name": " Fit Race Game",
-    "image": "https://img.gamemonetize.com/ympiejbndtx3ykhujsofmoroinw7xyu4/512x384.jpg",
+    "image": "./icons/61336.jpg",
     "downloads": "8.7K",
     "rating": 4.6
   },
@@ -2269,7 +2269,7 @@
       "Traffic"
     ],
     "name": "Mart Puzzle Bus Jam",
-    "image": "https://img.gamemonetize.com/18zxe0w96sqwn5w18tcptis3fchhlz42/512x384.jpg",
+    "image": "./icons/61352.jpg",
     "downloads": "15.6K",
     "rating": 3.8
   },
@@ -2284,7 +2284,7 @@
       "Fishing",
       "Girls"
     ],
-    "image": "https://img.gamemonetize.com/xji5jxgs898g60xlvktaryq550qyc4io/512x384.jpg",
+    "image": "./icons/61354.jpg",
     "downloads": "17.4K",
     "rating": 4.3
   },
@@ -2298,7 +2298,7 @@
       "Skills"
     ],
     "name": "Spot It Find The Difference",
-    "image": "https://img.gamemonetize.com/yzyfkse7vpvim55ntpcu4m9y74ch0el7/512x384.jpg",
+    "image": "./icons/61356.jpg",
     "downloads": "17.9K",
     "rating": 4.3
   },
@@ -2313,7 +2313,7 @@
       "hexa",
       "Stack"
     ],
-    "image": "https://img.gamemonetize.com/2jcdujtzr4uxhlhufybghe1zev69icka/512x384.jpg",
+    "image": "./icons/61362.jpg",
     "downloads": "19.8K",
     "rating": 4.5
   },
@@ -2339,7 +2339,7 @@
       "WebGL"
     ],
     "name": "Falling Balls: Sand Path",
-    "image": "https://img.gamemonetize.com/xgrv642rzxl6kerivavly13f29eowuz0/512x384.jpg",
+    "image": "./icons/61441.jpg",
     "downloads": "10.2K",
     "rating": 4.1
   },
@@ -2353,7 +2353,7 @@
       "2D",
       "Anime"
     ],
-    "image": "https://img.gamemonetize.com/4t70s6t5fxdgbgt03ml4j8huupcy6twm/512x384.jpg",
+    "image": "./icons/61445.jpg",
     "downloads": "10.8K",
     "rating": 4.0
   },
@@ -2370,7 +2370,7 @@
       "Skill"
     ],
     "name": "Oddball Detective",
-    "image": "https://img.gamemonetize.com/yun63s7zpalrt5zo9l52j4139e3uz62r/512x384.jpg",
+    "image": "./icons/61454.jpg",
     "downloads": "13.7K",
     "rating": 4.5
   },
@@ -2386,7 +2386,7 @@
       "Math",
       "Puzzle"
     ],
-    "image": "https://img.gamemonetize.com/957bqqitfu4vl125quilg91sdop975bj/512x384.jpg",
+    "image": "./icons/61462.jpg",
     "downloads": "10.3K",
     "rating": 4.6
   },
@@ -2399,7 +2399,7 @@
       "Puzzle"
     ],
     "name": "Additive Fun   2048",
-    "image": "https://img.gamemonetize.com/a61yv7ccsw9cp0hkykud3hbfb48ti7x7/512x384.jpg",
+    "image": "./icons/61512.jpg",
     "downloads": "1.1K",
     "rating": 4.6
   },
@@ -2420,7 +2420,7 @@
       "Skill",
       "Sprunki"
     ],
-    "image": "https://img.gamemonetize.com/wn553eqimhnznuc7heiuexgcjv0o4d3g/512x384.jpg",
+    "image": "./icons/61549.jpg",
     "downloads": "7.8K",
     "rating": 4.9
   },
@@ -2438,7 +2438,7 @@
       "Strategy"
     ],
     "name": "Gummy Blocks Puzzle",
-    "image": "https://img.gamemonetize.com/thwax7r1ze82e6diewhloytqmw0astkj/512x384.jpg",
+    "image": "./icons/61571.jpg",
     "downloads": "13.2K",
     "rating": 3.8
   },
@@ -2453,7 +2453,7 @@
       "unity games"
     ],
     "name": "Block Mover   Unlock Your Brain",
-    "image": "https://img.gamemonetize.com/lzqyfr7oj6mx7fa2f3n8pi736y9i9q2j/512x384.jpg",
+    "image": "./icons/61608.jpg",
     "downloads": "12.8K",
     "rating": 3.8
   },
@@ -2467,7 +2467,7 @@
       "3D Games",
       "Puzzle"
     ],
-    "image": "https://img.gamemonetize.com/w4fl93r07raosopumiuh6lee2x61sr7j/512x384.jpg",
+    "image": "./icons/61610.jpg",
     "downloads": "10.5K",
     "rating": 4.7
   },
@@ -2485,7 +2485,7 @@
       "puzzleblock",
       "Strategy"
     ],
-    "image": "https://img.gamemonetize.com/fbxmp2ui8qg220ory7nkgwo1kdq4p0bv/512x384.jpg",
+    "image": "./icons/61770.jpg",
     "downloads": "13.7K",
     "rating": 4.9
   },
@@ -2507,7 +2507,7 @@
       "Puzzle",
       "puzzleblock"
     ],
-    "image": "https://img.gamemonetize.com/3c0xr20gand3476zb2fcrvswa4h0uhjy/512x384.jpg",
+    "image": "./icons/61870.jpg",
     "downloads": "11.9K",
     "rating": 3.9
   },
@@ -2525,7 +2525,7 @@
       "Number"
     ],
     "name": "Number Domination",
-    "image": "https://img.gamemonetize.com/u8ql6nl21iuoy0msb4erlap814yb8eyf/512x384.jpg",
+    "image": "./icons/61906.jpg",
     "downloads": "14.7K",
     "rating": 4.1
   },
@@ -2541,7 +2541,7 @@
       "Puzzle"
     ],
     "name": "Rescue Dog",
-    "image": "https://img.gamemonetize.com/rxl1gv1fxtny8whvxbikyki148g4w178/512x384.jpg",
+    "image": "./icons/61923.jpg",
     "downloads": "7.8K",
     "rating": 4.2
   },
@@ -2562,7 +2562,7 @@
       "valentine"
     ],
     "name": "Love Tile Trio",
-    "image": "https://img.gamemonetize.com/t79t4nxhas0uui4nexuwgt15hnnijuw5/512x384.jpg",
+    "image": "./icons/61949.jpg",
     "downloads": "9.2K",
     "rating": 4.6
   },
@@ -2576,7 +2576,7 @@
       "Puzzle"
     ],
     "name": "Pull The Pins",
-    "image": "https://img.gamemonetize.com/4ivk2hhgsi1vb7q2gaqq70gkey57kqaw/512x384.jpg",
+    "image": "./icons/62052.jpg",
     "downloads": "9.7K",
     "rating": 4.1
   },
@@ -2599,7 +2599,7 @@
       "Word"
     ],
     "name": "NG: The Word Search",
-    "image": "https://img.gamemonetize.com/8tia90dh17no9fnduf43luixq13lx1kj/512x384.jpg",
+    "image": "./icons/62060.jpg",
     "downloads": "2.6K",
     "rating": 3.7
   },
@@ -2613,7 +2613,7 @@
       "Action"
     ],
     "name": "Cool Chill Guy Hidden Cheese",
-    "image": "https://img.gamemonetize.com/bngoqfgydby7abxm85m3t051ub35yxw0/512x384.jpg",
+    "image": "./icons/62061.jpg",
     "downloads": "6.6K",
     "rating": 4.1
   },
@@ -2630,7 +2630,7 @@
       "Puzzle"
     ],
     "name": "Modern Sudoku",
-    "image": "https://img.gamemonetize.com/3rlvhqpnhkz5zaoxhe7yxy4a8mk9adee/512x384.jpg",
+    "image": "./icons/62112.jpg",
     "downloads": "3.0K",
     "rating": 4.6
   },
@@ -2643,7 +2643,7 @@
       "3D"
     ],
     "name": "BanJia",
-    "image": "https://img.gamemonetize.com/yd4jr7h74aelg1b78cgrao3iya1ucgy4/512x384.jpg",
+    "image": "./icons/62113.jpg",
     "downloads": "13.6K",
     "rating": 4.5
   },
@@ -2667,7 +2667,7 @@
       "Physics"
     ],
     "name": "Glass Ball Puzzle",
-    "image": "https://img.gamemonetize.com/8vuepkue5coze9qidduoce2ar21n6mwd/512x384.jpg",
+    "image": "./icons/62117.jpg",
     "downloads": "16.3K",
     "rating": 5.0
   },
@@ -2684,7 +2684,7 @@
       "Girl"
     ],
     "name": "My Tiny Land",
-    "image": "https://img.gamemonetize.com/jpza6a2czrbt1re3mhmvno7m2tkuqi5q/512x384.jpg",
+    "image": "./icons/62120.jpg",
     "downloads": "1.9K",
     "rating": 3.8
   },
@@ -2703,7 +2703,7 @@
       "valentines"
     ],
     "name": "Valentines Hidden Alphawords",
-    "image": "https://img.gamemonetize.com/lp2i18mrg1b7k51vn1re0jypljgzfvq3/512x384.jpg",
+    "image": "./icons/62126.jpg",
     "downloads": "2.3K",
     "rating": 4.5
   },
@@ -2729,7 +2729,7 @@
       "Skill"
     ],
     "name": "Castle Cards",
-    "image": "https://img.gamemonetize.com/0lsxftjkhoz2prjh265m3n5twfii947k/512x384.jpg",
+    "image": "./icons/62129.jpg",
     "downloads": "16.7K",
     "rating": 3.7
   },
@@ -2747,7 +2747,7 @@
       "Strategy"
     ],
     "name": "Qolor Quiz Game",
-    "image": "https://img.gamemonetize.com/hv8qf1d46xce0o3pb9ln4a8js1c26md7/512x384.jpg",
+    "image": "./icons/62185.jpg",
     "downloads": "12.1K",
     "rating": 5.0
   },
@@ -2766,7 +2766,7 @@
       "Puzzle"
     ],
     "name": "Fruit Merge Master",
-    "image": "https://img.gamemonetize.com/p7q9rbwih1vnikx7t0ddptcbr67u5by8/512x384.jpg",
+    "image": "./icons/62195.jpg",
     "downloads": "17.8K",
     "rating": 4.0
   },
@@ -2788,7 +2788,7 @@
       "Word"
     ],
     "name": "Farm of Words",
-    "image": "https://img.gamemonetize.com/5xszqqp0loo3kkj64jq6bzyevk4yrmzv/512x384.jpg",
+    "image": "./icons/62213.jpg",
     "downloads": "9.3K",
     "rating": 4.8
   },
@@ -2807,7 +2807,7 @@
       "Sprunki"
     ],
     "name": "Find the Sprunki",
-    "image": "https://img.gamemonetize.com/wsuxctn4s7vf3mzh0qh9s2b3yb4nzgiv/512x384.jpg",
+    "image": "./icons/62214.jpg",
     "downloads": "4.0K",
     "rating": 4.4
   },
@@ -2828,7 +2828,7 @@
       "Skill"
     ],
     "name": "Mahjong My World",
-    "image": "https://img.gamemonetize.com/3d307vohvv2jjw65tt0bccidi327x54l/512x384.jpg",
+    "image": "./icons/62297.jpg",
     "downloads": "13.8K",
     "rating": 4.5
   },
@@ -2842,7 +2842,7 @@
       "Puzzle"
     ],
     "name": "Home Rush The Fish War",
-    "image": "https://img.gamemonetize.com/qopeb4icv6in54sldnbutbxy0dm4f3e8/512x384.jpg",
+    "image": "./icons/62353.jpg",
     "downloads": "4.9K",
     "rating": 4.1
   },
@@ -2859,7 +2859,7 @@
       "Puzzle"
     ],
     "name": "Dinosaur Spot The Difference",
-    "image": "https://img.gamemonetize.com/x1jzwid3rq87dxm52sflalt947dm63pb/512x384.jpg",
+    "image": "./icons/62375.jpg",
     "downloads": "14.0K",
     "rating": 3.6
   },
@@ -2877,7 +2877,7 @@
       "Puzzle"
     ],
     "name": "Qolor 2048",
-    "image": "https://img.gamemonetize.com/3e4hk4zpotozwuy9ehh5uy0xzeaabp3k/512x384.jpg",
+    "image": "./icons/62378.jpg",
     "downloads": "3.5K",
     "rating": 4.1
   },
@@ -2891,7 +2891,7 @@
       "Fun"
     ],
     "name": "Emoji Merge Fun Moji",
-    "image": "https://img.gamemonetize.com/2umgfzkmqucachz9b2eflmec98vj94ok/512x384.jpg",
+    "image": "./icons/62402.jpg",
     "downloads": "15.6K",
     "rating": 3.9
   },
@@ -2906,7 +2906,7 @@
       "Jigsaw"
     ],
     "name": "Block Mania Puzzle",
-    "image": "https://img.gamemonetize.com/c4kpt1ea8i3zc4bq3j4a5bdudj8tfx7u/512x384.jpg",
+    "image": "./icons/62404.jpg",
     "downloads": "14.7K",
     "rating": 4.0
   },
@@ -2924,7 +2924,7 @@
       "Sprunki"
     ],
     "name": "Sprunki Incredibox Slide Puzzle",
-    "image": "https://img.gamemonetize.com/fh6w9sknku51noi4b6lw5ibtw2a3mvl5/512x384.jpg",
+    "image": "./icons/62408.jpg",
     "downloads": "16.8K",
     "rating": 3.7
   },
@@ -2942,7 +2942,7 @@
       "Puzzle"
     ],
     "name": "Animal Kingdom Mahjong",
-    "image": "https://img.gamemonetize.com/mr795djak6yi8d96vcvaylwy22jotvu6/512x384.jpg",
+    "image": "./icons/62410.jpg",
     "downloads": "16.2K",
     "rating": 4.9
   },
@@ -2959,7 +2959,7 @@
       "Skills"
     ],
     "name": "Physics Balls 2",
-    "image": "https://img.gamemonetize.com/kcee6w7wx0vjdvc110tbvwny95upfzpb/512x384.jpg",
+    "image": "./icons/62461.jpg",
     "downloads": "11.5K",
     "rating": 4.6
   },
@@ -2979,7 +2979,7 @@
       "Skill"
     ],
     "name": "Connect the Balls 2",
-    "image": "https://img.gamemonetize.com/max5l4i88bmwhcmrriedyt5mctb07zqg/512x384.jpg",
+    "image": "./icons/62493.jpg",
     "downloads": "8.7K",
     "rating": 4.1
   },
@@ -2993,7 +2993,7 @@
       "Puzzle"
     ],
     "name": "Drunken War",
-    "image": "https://img.gamemonetize.com/a0rpx0my0j9vya58p720mqnwarppwoco/512x384.jpg",
+    "image": "./icons/62571.jpg",
     "downloads": "8.0K",
     "rating": 3.8
   },
@@ -3010,7 +3010,7 @@
       "Casual"
     ],
     "name": "Ball Sort Puzzle Free",
-    "image": "https://img.gamemonetize.com/sd072z9zvvalrwbem1ha83dl7vep0so0/512x384.jpg",
+    "image": "./icons/62680.jpg",
     "downloads": "14.1K",
     "rating": 3.6
   },
@@ -3027,7 +3027,7 @@
       "Matching"
     ],
     "name": "Pet Tile Master",
-    "image": "https://img.gamemonetize.com/dqfx3iy7q9ba88cmu3267a42gnnlcxed/512x384.jpg",
+    "image": "./icons/62688.jpg",
     "downloads": "14.2K",
     "rating": 3.7
   },
@@ -3043,7 +3043,7 @@
       "Simpson"
     ],
     "name": "BTS Simpsons Coloring Book",
-    "image": "https://img.gamemonetize.com/f80z6p0ze3qdapsbygwcyh0u6dtn2lm0/512x384.jpg",
+    "image": "./icons/62689.jpg",
     "downloads": "12.1K",
     "rating": 3.9
   },
@@ -3059,7 +3059,7 @@
       "Winter"
     ],
     "name": "Winter Mahjong",
-    "image": "https://img.gamemonetize.com/gl960e5v262jajawa0v8sp5pxmrartcv/512x384.jpg",
+    "image": "./icons/62725.jpg",
     "downloads": "13.3K",
     "rating": 4.1
   },
@@ -3076,7 +3076,7 @@
       "Girl"
     ],
     "name": "Harvest Store Sorting",
-    "image": "https://img.gamemonetize.com/g57t0dx2i7kxc0ap32wlknqhyznrofz2/512x384.jpg",
+    "image": "./icons/62745.jpg",
     "downloads": "18.7K",
     "rating": 5.0
   },
@@ -3093,7 +3093,7 @@
       "Thief"
     ],
     "name": "Mr Hacker The Museum Hunt",
-    "image": "https://img.gamemonetize.com/grvvreslxogc0cjys6e22uhx72d3yp8v/512x384.jpg",
+    "image": "./icons/62778.jpg",
     "downloads": "15.1K",
     "rating": 3.6
   },
@@ -3107,7 +3107,7 @@
       "free html5 games for your website"
     ],
     "name": "sokoban:puzzle game",
-    "image": "https://img.gamemonetize.com/hejref8l6r0omms0tmbw95xzvem8ftqe/512x384.jpg",
+    "image": "./icons/62806.jpg",
     "downloads": "19.7K",
     "rating": 3.8
   },
@@ -3122,7 +3122,7 @@
       "Strategy"
     ],
     "name": "Unlock The Bolts",
-    "image": "https://img.gamemonetize.com/ht3epenjp7ju46mw2wgt2l4fxik0zx6x/512x384.jpg",
+    "image": "./icons/62828.jpg",
     "downloads": "13.4K",
     "rating": 4.5
   },
@@ -3138,7 +3138,7 @@
       "Pinball"
     ],
     "name": "Money ping pong",
-    "image": "https://img.gamemonetize.com/y8xoccd59jsxdh0w3raxdlros7dypgwz/512x384.jpg",
+    "image": "./icons/62830.jpg",
     "downloads": "13.4K",
     "rating": 4.4
   },
@@ -3152,7 +3152,7 @@
       "touch"
     ],
     "name": "Flappy Twist",
-    "image": "https://img.gamemonetize.com/o0hke3znuxl3mgwfs4z069tspyjiy6bu/512x384.jpg",
+    "image": "./icons/62839.jpg",
     "downloads": "8.5K",
     "rating": 3.7
   },
@@ -3169,7 +3169,7 @@
       "Train"
     ],
     "name": "Train Dispatcher in Mall",
-    "image": "https://img.gamemonetize.com/8kcwewanuqcxywpfrv0taamsp61qdncf/512x384.jpg",
+    "image": "./icons/62991.jpg",
     "downloads": "13.6K",
     "rating": 4.3
   },
@@ -3184,7 +3184,7 @@
       "Puzzle"
     ],
     "name": "3 match puzzle battle",
-    "image": "https://img.gamemonetize.com/8bmjfwrnoaiv6a4pq3m4t0vba4e47ixi/512x384.jpg",
+    "image": "./icons/63002.jpg",
     "downloads": "14.5K",
     "rating": 3.7
   },
@@ -3199,7 +3199,7 @@
       "Platform"
     ],
     "name": "Level Devil 3D",
-    "image": "https://img.gamemonetize.com/1ku5l19fabw5ojlnwngseloysc93prhp/512x384.jpg",
+    "image": "./icons/63008.jpg",
     "downloads": "12.2K",
     "rating": 3.8
   },
@@ -3216,7 +3216,7 @@
       "Simpson"
     ],
     "name": "The Simpsons Find the Difference",
-    "image": "https://img.gamemonetize.com/sgg85vcek9lej9dpeubyeu447n1ufngp/512x384.jpg",
+    "image": "./icons/63052.jpg",
     "downloads": "10.3K",
     "rating": 3.7
   },
@@ -3235,7 +3235,7 @@
       "Point And Click"
     ],
     "name": "Funny JD Vance Face",
-    "image": "https://img.gamemonetize.com/82zwilqkqxtkubj76a4bgru64bvui8g2/512x384.jpg",
+    "image": "./icons/63141.jpg",
     "downloads": "19.0K",
     "rating": 3.5
   },
@@ -3248,7 +3248,7 @@
       "Tower Defense"
     ],
     "name": "Tower Dance Off",
-    "image": "https://img.gamemonetize.com/0vvakjtkun15q4jfb9yqz4ere1pdr0qk/512x384.jpg",
+    "image": "./icons/63190.jpg",
     "downloads": "6.0K",
     "rating": 3.7
   },
@@ -3265,7 +3265,7 @@
       "sorting"
     ],
     "name": "The Sorting Mart",
-    "image": "https://img.gamemonetize.com/1mn9i9brct1cd4vjpqkvhki23p13oqvy/512x384.jpg",
+    "image": "./icons/63199.jpg",
     "downloads": "8.3K",
     "rating": 4.4
   },
@@ -3279,7 +3279,7 @@
       "Hypercasual"
     ],
     "name": "Doto",
-    "image": "https://img.gamemonetize.com/nrbgug9eyv3g6a6fczn7447lr14nzeu0/512x384.jpg",
+    "image": "./icons/63227.jpg",
     "downloads": "16.3K",
     "rating": 4.2
   },
@@ -3298,7 +3298,7 @@
       "Skill"
     ],
     "name": "Candy Pop Challenge",
-    "image": "https://img.gamemonetize.com/jybnv2ty28rxnifadsoe096mm2lujcf2/512x384.jpg",
+    "image": "./icons/63242.jpg",
     "downloads": "1.9K",
     "rating": 3.8
   },
@@ -3313,7 +3313,7 @@
       "Puzzle"
     ],
     "name": "Spot 6 Differences",
-    "image": "https://img.gamemonetize.com/8sv7ru1py2nhs63va2hoci7tb8zmrpiy/512x384.jpg",
+    "image": "./icons/63344.jpg",
     "downloads": "12.6K",
     "rating": 4.9
   },
@@ -3328,7 +3328,7 @@
       "Girls"
     ],
     "name": "Save The Stick Draw Line",
-    "image": "https://img.gamemonetize.com/k0vt8j1ejvzhgr6phq6qfr1ag6nqxxph/512x384.jpg",
+    "image": "./icons/63400.jpg",
     "downloads": "7.4K",
     "rating": 3.8
   },
@@ -3343,7 +3343,7 @@
       "Puzzle"
     ],
     "name": "SLPOING PATH",
-    "image": "https://img.gamemonetize.com/v9nsa9548a4s0ujrssct9o1azmwalx06/512x384.jpg",
+    "image": "./icons/63403.jpg",
     "downloads": "12.0K",
     "rating": 4.3
   },
@@ -3358,7 +3358,7 @@
       "sort"
     ],
     "name": "Room Sort Floor Plan",
-    "image": "https://img.gamemonetize.com/lp2fgoca7wo5l59w216lklkr4p5ump8g/512x384.jpg",
+    "image": "./icons/63416.jpg",
     "downloads": "18.9K",
     "rating": 3.7
   },
@@ -3372,7 +3372,7 @@
       "squidgame"
     ],
     "name": "Squid Game Merger",
-    "image": "https://img.gamemonetize.com/edaixam7nxogh335w18h1k78h6fe6spn/512x384.jpg",
+    "image": "./icons/63424.jpg",
     "downloads": "8.1K",
     "rating": 4.3
   },
@@ -3393,7 +3393,7 @@
       "Logical"
     ],
     "name": "Screw Master 3D: Pin Puzzle",
-    "image": "https://img.gamemonetize.com/7kzc77ikesq2bdej5ip6ecevhvsfyqsq/512x384.jpg",
+    "image": "./icons/63476.jpg",
     "downloads": "16.3K",
     "rating": 3.8
   },
@@ -3408,7 +3408,7 @@
       "Simulator"
     ],
     "name": "Mosquito Bite 3d",
-    "image": "https://img.gamemonetize.com/okbw2ror1zha1v50vztpcz0rw0gqrdes/512x384.jpg",
+    "image": "./icons/63493.jpg",
     "downloads": "6.0K",
     "rating": 4.3
   },
@@ -3427,7 +3427,7 @@
       "Skill"
     ],
     "name": "Draw to Crush",
-    "image": "https://img.gamemonetize.com/xpner3jrleu7qya9w1jvbhveuzcqtbw9/512x384.jpg",
+    "image": "./icons/63531.jpg",
     "downloads": "13.2K",
     "rating": 4.0
   },
@@ -3444,7 +3444,7 @@
       "Quiz"
     ],
     "name": "Guess The Flag Quiz",
-    "image": "https://img.gamemonetize.com/qca2kp92nbmfinkdjfstyiqx7zvjs5fe/512x384.jpg",
+    "image": "./icons/63533.jpg",
     "downloads": "14.7K",
     "rating": 4.3
   },
@@ -3459,7 +3459,7 @@
       "Puzzle"
     ],
     "name": "Candy Quest",
-    "image": "https://img.gamemonetize.com/w4gggcqnowrr17s49loiqhnili9mu2zd/512x384.jpg",
+    "image": "./icons/63537.jpg",
     "downloads": "17.9K",
     "rating": 4.4
   },
@@ -3478,7 +3478,7 @@
       "Point And Click"
     ],
     "name": "LOL Funny Dance",
-    "image": "https://img.gamemonetize.com/jjw0zbu7uidity0wzrfkbizzk751et0w/512x384.jpg",
+    "image": "./icons/63578.jpg",
     "downloads": "3.4K",
     "rating": 3.6
   },
@@ -3495,7 +3495,7 @@
       "Skill"
     ],
     "name": "Sorting Fruits Game",
-    "image": "https://img.gamemonetize.com/yi7u8p888n1y5f6fmidebsd1pjnopgfa/512x384.jpg",
+    "image": "./icons/63593.jpg",
     "downloads": "19.7K",
     "rating": 4.3
   },
@@ -3516,7 +3516,7 @@
       "Skill"
     ],
     "name": "Tricky Planner",
-    "image": "https://img.gamemonetize.com/i4zl0gf27v3w7fp25cposy3e50qg6oou/512x384.jpg",
+    "image": "./icons/63609.jpg",
     "downloads": "7.0K",
     "rating": 3.5
   },
@@ -3535,7 +3535,7 @@
       "Skill"
     ],
     "name": "Glass Quest",
-    "image": "https://img.gamemonetize.com/wnrsd26rnghr8ne2gkr41vkvmt6low6x/512x384.jpg",
+    "image": "./icons/63638.jpg",
     "downloads": "19.0K",
     "rating": 4.4
   }
